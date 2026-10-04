@@ -19,14 +19,12 @@ function getFarmSource(ref) {
   const sourceId = ref.farmSourceId || ref.sourceId;
   return {
     ...(farmSourcesById.get(sourceId) || { name: sourceId }),
-    amount: ref.amount
+    amount: ref.amount,
   };
 }
 
 function getHeroMaterialIds() {
-  return new Set(
-    (currentHero?.materials || []).map(ref => ref.materialId)
-  );
+  return new Set((currentHero?.materials || []).map((ref) => ref.materialId));
 }
 
 function renderOptionalLink(item) {
@@ -43,12 +41,13 @@ function renderOptionalLink(item) {
 
 function renderEvolution(hero) {
   const evo = hero.evolutionFrom;
-  const note = hero.note && String(hero.note).trim()
-    ? `<div class="hero-note-box"><div class="hero-meta-label">Thông tin bổ sung</div><p class="hero-note">${safe(hero.note)}</p></div>`
-    : "";
+  const note =
+    hero.note && String(hero.note).trim()
+      ? `<div class="hero-note-box"><div class="hero-meta-label">Thông tin bổ sung</div><p class="hero-note">${safe(hero.note)}</p></div>`
+      : "";
   const noteImages = (hero.noteImages || []).filter(Boolean);
   const images = noteImages.length
-    ? `<div class="hero-note-images">${noteImages.map(src => `<img src="${src}" alt="${safe(hero.name)}">`).join("")}</div>`
+    ? `<div class="hero-note-images">${noteImages.map((src) => `<img src="${src}" alt="${safe(hero.name)}">`).join("")}</div>`
     : "";
 
   if (!evo || !evo.name) {
@@ -69,12 +68,17 @@ function renderFarmSources(sources) {
 
   return `
     <ul class="farm-source-list">
-      ${sources.map((ref, index) => { const source = getFarmSource(ref); return `
+      ${sources
+        .map((ref, index) => {
+          const source = getFarmSource(ref);
+          return `
         <li><button class="farm-source-action" type="button" data-farm-source-index="${index}" data-farm-source-name="${safe(source.name)}">
           ${safe(source.name)}
           ${source.amount !== null && source.amount !== undefined && source.amount !== "" ? `<span class="farm-source-amount">× ${source.amount}</span>` : ""}
         </button></li>
-      `; }).join("")}
+      `;
+        })
+        .join("")}
     </ul>
   `;
 }
@@ -88,14 +92,15 @@ function renderExchangePlaces(material) {
 
   return `
     <div class="exchange-places">
-      ${refs.map(ref => {
-        const shop = getShop(ref.shopId);
+      ${refs
+        .map((ref) => {
+          const shop = getShop(ref.shopId);
 
-        if (!shop) {
-          return `<span class="broken-shop">Không tìm thấy shop: ${ref.shopId}</span>`;
-        }
+          if (!shop) {
+            return `<span class="broken-shop">Không tìm thấy shop: ${ref.shopId}</span>`;
+          }
 
-        return `
+          return `
           <button
             class="shop-chip shop-action"
             type="button"
@@ -104,7 +109,8 @@ function renderExchangePlaces(material) {
             ${safe(shop.name)}
           </button>
         `;
-      }).join("")}
+        })
+        .join("")}
     </div>
   `;
 }
@@ -120,9 +126,13 @@ function renderInfoImages(material) {
 
   return `
     <div class="material-info-images">
-      ${images.map(src => `
+      ${images
+        .map(
+          (src) => `
         <img src="${src}" alt="${safe(material.name)}">
-      `).join("")}
+      `,
+        )
+        .join("")}
     </div>
   `;
 }
@@ -167,21 +177,22 @@ function renderExchangeMaterials(material) {
 
   return `
     <div class="exchange-material-list">
-      ${refs.map(ref => {
-        const ingredient = getMaterial(ref.materialId);
+      ${refs
+        .map((ref) => {
+          const ingredient = getMaterial(ref.materialId);
 
-        if (!ingredient) {
-          return `
+          if (!ingredient) {
+            return `
             <div class="exchange-material broken-material">
               Không tìm thấy material: ${ref.materialId}
             </div>
           `;
-        }
+          }
 
-        const image = getFirstImage(ingredient);
-        const existsOnCurrentHeroPage = heroMaterialIds.has(ingredient.id);
+          const image = getFirstImage(ingredient);
+          const existsOnCurrentHeroPage = heroMaterialIds.has(ingredient.id);
 
-        return `
+          return `
           <div class="exchange-material">
             <button
               class="exchange-material-main material-action"
@@ -222,7 +233,8 @@ function renderExchangeMaterials(material) {
             </div>
           </div>
         `;
-      }).join("")}
+        })
+        .join("")}
     </div>
   `;
 }
@@ -234,7 +246,7 @@ function scrollToMainMaterial(materialId) {
 
   target.scrollIntoView({
     behavior: "smooth",
-    block: "center"
+    block: "center",
   });
 
   target.classList.remove("material-highlight");
@@ -261,11 +273,7 @@ function openMaterialModal(material) {
     <button class="modal-close" type="button" aria-label="Đóng">×</button>
 
     <div class="modal-material-head">
-      ${
-        image
-          ? `<img src="${image}" alt="${safe(material.name)}">`
-          : ""
-      }
+      ${image ? `<img src="${image}" alt="${safe(material.name)}">` : ""}
 
       <div>
         <h2>${safe(material.name)}</h2>
@@ -324,11 +332,7 @@ function openShopModal(shop) {
     <button class="modal-close" type="button" aria-label="Đóng">×</button>
 
     <div class="modal-material-head">
-      ${
-        image
-          ? `<img src="${image}" alt="${safe(shop.name)}">`
-          : ""
-      }
+      ${image ? `<img src="${image}" alt="${safe(shop.name)}">` : ""}
 
       <div>
         <h2>${safe(shop.name)}</h2>
@@ -373,7 +377,8 @@ function openFarmSourceModal(source) {
   const modal = document.getElementById("material-modal");
   const panel = modal.querySelector(".material-modal-panel");
   const images = [...(source.images || []), ...(source.infoImages || [])];
-  const hasDescription = source.description && String(source.description).trim();
+  const hasDescription =
+    source.description && String(source.description).trim();
   const hasLink = source.link && String(source.link).trim();
 
   panel.innerHTML = `
@@ -391,7 +396,9 @@ function openFarmSourceModal(source) {
   modal.classList.add("is-open");
   modal.setAttribute("aria-hidden", "false");
   document.body.classList.add("modal-open");
-  panel.querySelector(".modal-close").addEventListener("click", closeMaterialModal);
+  panel
+    .querySelector(".modal-close")
+    .addEventListener("click", closeMaterialModal);
 }
 
 function closeMaterialModal() {
@@ -405,12 +412,12 @@ function closeMaterialModal() {
 }
 
 function bindMaterialActionButtons(scope = document) {
-  scope.querySelectorAll(".material-action").forEach(button => {
+  scope.querySelectorAll(".material-action").forEach((button) => {
     // Tránh gắn listener lặp lại nếu popup được mở nhiều lần.
     if (button.dataset.materialBound === "1") return;
     button.dataset.materialBound = "1";
 
-    button.addEventListener("click", event => {
+    button.addEventListener("click", (event) => {
       // Nếu sau này nguồn đổi / nguồn farm là link thật,
       // click link không mở popup material.
       if (event.target.closest("a")) return;
@@ -435,11 +442,11 @@ function bindMaterialActionButtons(scope = document) {
 }
 
 function bindShopActionButtons(scope = document) {
-  scope.querySelectorAll(".shop-action").forEach(button => {
+  scope.querySelectorAll(".shop-action").forEach((button) => {
     if (button.dataset.shopBound === "1") return;
     button.dataset.shopBound = "1";
 
-    button.addEventListener("click", event => {
+    button.addEventListener("click", (event) => {
       event.stopPropagation();
       openShopModal(getShop(button.dataset.shopId));
     });
@@ -447,14 +454,14 @@ function bindShopActionButtons(scope = document) {
 }
 
 function bindFarmSourceActionButtons(scope = document) {
-  scope.querySelectorAll(".farm-source-action").forEach(button => {
+  scope.querySelectorAll(".farm-source-action").forEach((button) => {
     if (button.dataset.farmSourceBound === "1") return;
     button.dataset.farmSourceBound = "1";
     button.addEventListener("click", () => {
       const source = [...materialsById.values()]
-        .flatMap(material => material.farmSources || [])
+        .flatMap((material) => material.farmSources || [])
         .map(getFarmSource)
-        .find(item => item.name === button.dataset.farmSourceName);
+        .find((item) => item.name === button.dataset.farmSourceName);
       openFarmSourceModal(source || { name: button.dataset.farmSourceName });
     });
   });
@@ -472,13 +479,13 @@ function setupMaterialActions() {
   bindShopActionButtons(document);
   bindFarmSourceActionButtons(document);
 
-  modal.addEventListener("click", event => {
+  modal.addEventListener("click", (event) => {
     if (event.target === modal) {
       closeMaterialModal();
     }
   });
 
-  document.addEventListener("keydown", event => {
+  document.addEventListener("keydown", (event) => {
     if (event.key === "Escape") {
       closeMaterialModal();
     }
@@ -492,18 +499,19 @@ function renderMainMaterials(hero) {
     return `<p class="empty"></p>`;
   }
 
-  return refs.map((ref, index) => {
-    const material = getMaterial(ref.materialId);
+  return refs
+    .map((ref, index) => {
+      const material = getMaterial(ref.materialId);
 
-    if (!material) {
-      return `
+      if (!material) {
+        return `
         <article class="material-card broken-material">
           Không tìm thấy material: ${ref.materialId}
         </article>
       `;
-    }
+      }
 
-    return `
+      return `
       <article
         class="material-card"
         id="material-${material.id}"
@@ -511,9 +519,9 @@ function renderMainMaterials(hero) {
         <h3>${index + 1}. ${safe(material.name)}</h3>
 
         <div class="material-images">
-          ${(material.images || []).map(src =>
-            `<img src="${src}" alt="${safe(material.name)}">`
-          ).join("")}
+          ${(material.images || [])
+            .map((src) => `<img src="${src}" alt="${safe(material.name)}">`)
+            .join("")}
         </div>
 
         ${
@@ -549,39 +557,39 @@ function renderMainMaterials(hero) {
         </div>
       </article>
     `;
-  }).join("");
+    })
+    .join("");
 }
 
 async function loadHero() {
   const heroId = new URLSearchParams(location.search).get("id");
 
-  const [heroesResponse, materialsResponse, shopsResponse, farmSourcesResponse] = await Promise.all([
+  const [
+    heroesResponse,
+    materialsResponse,
+    shopsResponse,
+    farmSourcesResponse,
+  ] = await Promise.all([
     fetch("./data/heroes.json"),
     fetch("./data/materials.json"),
     fetch("./data/shops.json"),
-    fetch("./data/farmSources.json")
+    fetch("./data/farmSources.json"),
   ]);
 
   const [heroes, materials, shops, farmSources] = await Promise.all([
     heroesResponse.json(),
     materialsResponse.json(),
     shopsResponse.json(),
-    farmSourcesResponse.json()
+    farmSourcesResponse.json(),
   ]);
 
-  materialsById = new Map(
-    materials.map(material => [material.id, material])
-  );
+  materialsById = new Map(materials.map((material) => [material.id, material]));
 
-  shopsById = new Map(
-    shops.map(shop => [shop.id, shop])
-  );
+  shopsById = new Map(shops.map((shop) => [shop.id, shop]));
 
-  farmSourcesById = new Map(
-    farmSources.map(source => [source.id, source])
-  );
+  farmSourcesById = new Map(farmSources.map((source) => [source.id, source]));
 
-  const hero = heroes.find(item => item.id === heroId);
+  const hero = heroes.find((item) => item.id === heroId);
   const root = document.getElementById("hero-detail");
 
   if (!hero) {
@@ -595,9 +603,8 @@ async function loadHero() {
   const skills = [
     ["Đánh thường", hero.skills?.basicAttack],
     ["Đánh nộ", hero.skills?.ultimate],
-    ["Kĩ năng nộ đặc biệt", hero.skills?.specialUltimate],
     ["Thiên phú", hero.skills?.talent],
-    ["Trái ác quỷ", hero.skills?.devilFruit]
+    ["Trái ác quỷ", hero.skills?.devilFruit],
   ];
 
   root.innerHTML = `
@@ -613,12 +620,16 @@ async function loadHero() {
       <h2>Kỹ năng</h2>
 
       <div class="skill-grid">
-        ${skills.map(([title, value]) => `
+        ${skills
+          .map(
+            ([title, value]) => `
           <div class="skill-card">
             <h3>${title}</h3>
             <p>${safe(value)}</p>
           </div>
-        `).join("")}
+        `,
+          )
+          .join("")}
       </div>
     </section>
 

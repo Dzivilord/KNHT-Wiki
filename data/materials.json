@@ -258,7 +258,7 @@
     "images": [
       "./images/materials/Basics/ketTinhBangHoa.png"
     ],
-    "description": "Kết tinh băng hoả là nguyên liệu đặc biệt để chiêu mộ/ tiến hoá một số siêu tướng",
+    "description": "Kết tinh băng hoả là nguyên liệu đặc biệt để chiêu mộ/ tiến hoá một số siêu tướng.\nCó thể đổi qua hộp 10 tại big event- 100 thẻ băng hoả.",
     "infoImages": [],
     "exchangeShops": [
       {
@@ -363,32 +363,11 @@
     "images": [
       "./images/materials/Basics/Poneglyph.png"
     ],
-    "description": "Một trong những vật phẩm cực quan trọng để chiêu mộ/ tiến hoá tướng tầm trung.",
-    "farmSources": [
-      {
-        "farmSourceId": "TinhLinh",
-        "amount": null
-      },
-      {
-        "farmSourceId": "TamBaoChien",
-        "amount": null
-      },
-      {
-        "farmSourceId": "PhanHoiSieuLon",
-        "amount": null
-      },
-      {
-        "farmSourceId": "Uta",
-        "amount": null
-      },
-      {
-        "farmSourceId": "Big Event Hộp 10",
-        "amount": null
-      }
-    ],
-    "exchangeMaterials": [],
+    "description": "Một trong những vật phẩm cực quan trọng để chiêu mộ/ tiến hoá tướng tầm trung.\nCó thể đổi thêm tại Bigevent hoặc bằng đồng Berry.\nNếu đổi bằng đồng Berry thì tỉ lệ 8k lực- 100 phiến, nếu farm tại big event thì 10 hộp ~13k lực cho 100 phiến.",
     "infoImages": [],
-    "exchangeShops": []
+    "exchangeShops": [],
+    "farmSources": [],
+    "exchangeMaterials": []
   },
   {
     "id": "Wano_point",
@@ -1187,5 +1166,400 @@
     ],
     "farmSources": [],
     "exchangeMaterials": []
+  },
+  {
+    "id": "LttGarp",
+    "name": "Lệnh Treo Thưởng Garp",
+    "images": [
+      "./images/materials/Garp_S2/lttGarp.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Garp_S2/lttGarp1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "road_poneglyphs",
+        "amount": 5
+      },
+      {
+        "materialId": "universal_coin",
+        "amount": 20000
+      },
+      {
+        "materialId": "MatNaGarp",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "MatNaGarp",
+    "name": "Mặt Nạ của Garp",
+    "images": [
+      "./images/materials/Garp_S2/matNaGarp.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Garp_S2/matNaGarp1.png",
+      "./images/materials/Garp_S2/matNaGarp2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 1600000
+      },
+      {
+        "materialId": "Wano_point",
+        "amount": 1600000
+      }
+    ]
+  },
+  {
+    "id": "QuaCauSat",
+    "name": "Quả Cầu Sắt",
+    "images": [
+      "./images/materials/Garp_S2/quaCauSat.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Garp_S2/quaCauSat1.png"
+    ],
+    "exchangeShops": [],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "government_seal",
+        "amount": 7
+      },
+      {
+        "materialId": "KetTinhBangHoa",
+        "amount": 500
+      },
+      {
+        "materialId": "LttGarp",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "HuyHieuGarp",
+    "name": "Huy Hiệu Anh Hùng Hải Quân",
+    "images": [
+      "./images/materials/Garp_S2/huyHieuGarp.png"
+    ],
+    "description": "",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttBasil",
+    "name": "Lệnh Triệu Tập Basil Hawkins",
+    "images": [
+      "./images/materials/Hawkins_S/lttBasil.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Hawkins_S/lttBasil1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "ngocChiemTinh",
+        "amount": 500
+      },
+      {
+        "materialId": "coBangHawkins",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "coBangHawkins",
+    "name": "Cờ Băng Hawkins Pirates",
+    "images": [
+      "./images/materials/Hawkins_S/coBangHawkins.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Hawkins_S/coBangHawkins1.png",
+      "./images/materials/Hawkins_S/coBangHawkins2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "TauChien"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "CongHuan_point",
+        "amount": 1000000
+      },
+      {
+        "materialId": "Wano_point",
+        "amount": 700000
+      }
+    ]
+  },
+  {
+    "id": "Wara",
+    "name": "Trái Wara Wara",
+    "images": [
+      "./images/materials/Hawkins_S/Wara.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Hawkins_S/Wara1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "universal_coin",
+        "amount": 800
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 400
+      }
+    ]
+  },
+  {
+    "id": "tauRoger",
+    "name": "Tàu Gol D.Roger",
+    "images": [
+      "./images/materials/Roger_S/tauRoger.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Roger_S/tauRoger1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "government_seal",
+        "amount": 10
+      },
+      {
+        "materialId": "universal_coin",
+        "amount": 20000
+      },
+      {
+        "materialId": "muRoger",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "muRoger",
+    "name": "Mũ Thuyền Trưởng Roger",
+    "images": [
+      "./images/materials/Roger_S/muRoger.png"
+    ],
+    "description": "",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttRoger",
+    "name": "Lệnh Triệu Tập Roger",
+    "images": [
+      "./images/materials/Roger_S/lttRoger.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Roger_S/Roger.png",
+      "./images/materials/Roger_S/lttRoger1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "road_poneglyphs",
+        "amount": 5
+      },
+      {
+        "materialId": "tauRoger",
+        "amount": 1
+      },
+      {
+        "materialId": "nhatKyVuaHaiTac",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "nhatKyVuaHaiTac",
+    "name": "Nhật Ký Vua Hải Tặc",
+    "images": [
+      "./images/materials/Roger_S/nhatKyRoger.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Roger_S/nhatKyRoger1.png",
+      "./images/materials/Roger_S/nhatKyRoger2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 1500000
+      }
+    ]
+  },
+  {
+    "id": "banDoCoDai",
+    "name": "Bản Đồ Cổ Đại",
+    "images": [
+      "./images/materials/Roger_S/banDoCoDai.png"
+    ],
+    "description": "Nguồn duy nhất hiện tại của Bản Đồ Cổ Đại là Đặc quyền siêu tướng Rayleigh-S2. Vậy muốn chiêu mộ Roger-H bắt buộc phải có Rayliegh-S2 và ít nhất 1 phương thức nhận đặc quyền siêu tướng.",
+    "infoImages": [
+      "./images/materials/Roger_S/banDoCoDai1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "DQST"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttHitetsu",
+    "name": "Lệnh Treo Thưởng Hitetsu",
+    "images": [
+      "./images/materials/Hitetsu_S/lttHitetsu.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Hitetsu_S/Hitetsu.png",
+      "./images/materials/Hitetsu_S/lttHitetsu1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "ngocChiemTinh",
+        "amount": 400
+      },
+      {
+        "materialId": "matNaTengu",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "matNaTengu",
+    "name": "Mặt Nạ Tengu",
+    "images": [
+      "./images/materials/Hitetsu_S/matNaTengu.png"
+    ],
+    "description": "Chỉ có tại Grandline map 8.",
+    "infoImages": [
+      "./images/materials/Hitetsu_S/matNaTengu1.png"
+    ],
+    "exchangeShops": [],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "Nidai",
+    "name": "Thanh Nidai Kitetsu",
+    "images": [
+      "./images/materials/Hitetsu_S/nidai.png"
+    ],
+    "description": "Hộp NL trung cấp đổi bằng 25 hộp tại big Event",
+    "infoImages": [
+      "./images/materials/Hitetsu_S/nidai1.png",
+      "./images/materials/Hitetsu_S/nidai2.png",
+      "./images/materials/Hitetsu_S/nidai3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      },
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 1000000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 1000000
+      }
+    ]
   }
 ]
