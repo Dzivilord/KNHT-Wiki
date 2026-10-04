@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Quản lý nhân vật - Game Wiki</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+<header class="topbar">
+    <div class="wrap admin-nav">
+        <a class="brand" href="./index.html">Game Wiki</a>
+        <a href="./index.html">← Danh sách tướng</a>
+    </div>
+</header>
+
+<main class="wrap page admin-page">
+
+    <div class="admin-title">
+        <div>
+            <h1>Quản lý nhân vật</h1>
+            <p class="muted">
+                Thêm, nhân bản, sửa, xoá và tải lại dữ liệu.
+            </p>
+        </div>
+
+        <div class="admin-actions">
+            <button id="new-hero" class="button primary">
+                + Nhân vật mới
+            </button>
+
+            <button id="export-json" class="button">
+                Tải đồng bộ heroes.json
+            </button>
+
+            <button id="reset-draft" class="button danger">
+                Nạp lại file gốc
+            </button>
+        </div>
+    </div>
+
+    <div class="admin-layout">
+
+        <section class="admin-list-panel">
+
+            <input
+                id="hero-search"
+                class="admin-search"
+                placeholder="Tìm nhân vật..."
+            >
+
+            <div id="hero-list"></div>
+
+        </section>
+
+        <section class="admin-editor">
+
+            <form id="hero-form">
+
+                <div class="editor-heading">
+
+                    <h2 id="editor-title">
+                        Nhân vật mới
+                    </h2>
+
+                    <button
+                        type="button"
+                        id="duplicate-hero"
+                        class="button"
+                    >
+                        Nhân bản
+                    </button>
+
+                </div>
+
+                <div class="form-grid">
+
+                    <label>
+                        ID
+                        <input name="id" required>
+                    </label>
+
+                    <label>
+                        Tên nhân vật
+                        <input name="name" required>
+                    </label>
+
+                    <label class="wide">
+                        Đường dẫn ảnh
+                        <input
+                            name="image"
+                            placeholder="./images/heroes/example.png"
+                        >
+                    </label>
+
+                    <label class="wide">
+                        Note
+                        <textarea name="note" rows="2"></textarea>
+                    </label>
+
+                </div>
+
+                <h3>Kỹ năng</h3>
+
+                <div class="form-grid">
+
+                    <label>
+                        Đánh thường
+                        <textarea
+                            name="basicAttack"
+                            rows="5"
+                        ></textarea>
+                    </label>
+
+                    <label>
+                        Đánh nộ
+                        <textarea
+                            name="ultimate"
+                            rows="5"
+                        ></textarea>
+                    </label>
+
+                    <label>
+                        Thiên phú
+                        <textarea
+                            name="talent"
+                            rows="5"
+                        ></textarea>
+                    </label>
+
+                    <label>
+                        Trái ác quỷ
+                        <textarea
+                            name="devilFruit"
+                            rows="5"
+                        ></textarea>
+                    </label>
+
+                </div>
+
+                <h3>Tiến hoá</h3>
+
+                <div class="form-grid">
+
+                    <label>
+                        Tên tướng tiến hoá từ
+                        <input name="evolutionName">
+                    </label>
+
+                    <label>
+                        ID tướng tiến hoá từ
+                        <input name="evolutionId">
+                    </label>
+
+                </div>
+
+                <h3>Nguyên liệu</h3>
+
+                <label>
+                    Material ID (mỗi ID một dòng)
+                    <textarea
+                        name="materials"
+                        rows="4"
+                    ></textarea>
+                </label>
+
+                <div class="editor-footer">
+
+                    <button
+                        class="button primary"
+                        type="submit"
+                    >
+                        Lưu nhân vật
+                    </button>
+
+                    <button
+                        class="button danger"
+                        type="button"
+                        id="delete-hero"
+                    >
+                        Xoá nhân vật
+                    </button>
+
+                    <span
+                        id="save-status"
+                        class="muted"
+                    ></span>
+
+                </div>
+
+            </form>
+
+        </section>
+
+    </div>
+
+</main>
+
+<script src="./admin.js"></script>
+
+</body>
+</html>

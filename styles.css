@@ -17,7 +17,7 @@ body {
 }
 
 .wrap {
-  width: min(1100px, calc(100% - 28px));
+  width: min(1320px, calc(100% - 40px));
   margin: 0 auto;
 }
 
@@ -46,7 +46,7 @@ h3 {
 
 .hero-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(145px, 1fr));
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 18px;
 }
 
@@ -79,6 +79,13 @@ h3 {
   text-align: center;
   font-weight: 700;
 }
+.hero-note-images { display:flex; flex-wrap:wrap; gap:10px; margin-top:10px; }
+.hero-note-images img { max-width:100%; width:auto; max-height:220px; object-fit:contain; border-radius:8px; border:1px solid var(--line); background:#eee; }
+.hero-evolution-box,.hero-note-box { margin-top:10px; padding:10px 12px; border-radius:8px; }
+.hero-evolution-box { background:#eee6d5; border-left:4px solid var(--accent); }
+.hero-note-box { background:#fff; border:1px solid var(--line); }
+.hero-meta-label { color:var(--accent); font-size:.78rem; font-weight:700; text-transform:uppercase; letter-spacing:.04em; }
+.hero-pagination { grid-column: 1 / -1; display:flex; justify-content:center; gap:8px; margin-top:8px; }
 
 /* Hero detail */
 .hero-head {
@@ -605,3 +612,36 @@ body.modal-open {
 .shop-link-row {
   margin: 12px 0 0;
 }
+
+/* Local hero editor */
+.admin-nav { display:flex; justify-content:space-between; align-items:center; }
+.admin-nav > a:last-child { color:#f7e6bf; text-decoration:none; }
+.admin-title,.editor-heading,.editor-footer { display:flex; align-items:center; justify-content:space-between; gap:12px; }
+.admin-actions { display:flex; flex-wrap:wrap; gap:8px; }
+.button { border:1px solid var(--line); border-radius:8px; background:white; padding:9px 13px; cursor:pointer; font:inherit; }
+.button.primary { background:var(--accent); color:white; border-color:var(--accent); }
+.button.danger { color:#a52828; }
+.admin-layout { display:grid; grid-template-columns:280px 1fr; gap:18px; margin-top:24px; align-items:start; }
+.admin-list-panel,.admin-editor { background:white; border:1px solid var(--line); border-radius:12px; padding:16px; }
+.admin-search,label input,label textarea { width:100%; box-sizing:border-box; border:1px solid var(--line); border-radius:7px; padding:9px; font:inherit; background:#fffdf8; }
+.admin-search { margin-bottom:10px; }
+.hero-admin-row { display:block; width:100%; text-align:left; border:0; border-bottom:1px solid #f0e8d8; background:transparent; padding:11px 8px; cursor:pointer; }
+.hero-admin-row.active { background:#f4ead7; border-radius:7px; }
+.hero-admin-row span,.hero-admin-row small { display:block; }
+.hero-admin-row small,.muted { color:var(--muted); font-size:.9rem; }
+.suggestion-select { min-height:120px; }
+.select-filter { margin-top:6px; }
+.check-options { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:7px; padding:8px; background:#fffdf8; border:1px solid var(--line); border-radius:8px; max-height:240px; overflow:auto; }
+.check-option { display:grid; grid-template-columns:auto 1fr; column-gap:7px; margin:0; padding:7px; border-radius:6px; font-weight:400; cursor:pointer; }
+.check-option:hover { background:#f4ead7; }
+.check-option small { grid-column:2; color:var(--muted); }
+.material-amount { grid-column:2; width:80px; padding:4px; border:1px solid var(--line); border-radius:5px; }
+.form-grid { display:grid; grid-template-columns:1fr 1fr; gap:12px; }
+label { display:block; font-weight:700; margin:8px 0; }
+label input,label textarea { display:block; margin-top:6px; font-weight:400; }
+label.wide { grid-column:1/-1; }
+.admin-editor h3 { border-bottom:1px solid var(--line); padding-bottom:7px; margin-top:24px; }
+.editor-footer { margin-top:22px; justify-content:flex-start; flex-wrap:wrap; }
+@media(max-width:760px) { .admin-title,.admin-layout { display:block; } .admin-actions { margin:14px 0; } .admin-list-panel { margin-bottom:16px; } .form-grid { grid-template-columns:1fr; } label.wide { grid-column:auto; } }
+@media(max-width:760px) { .hero-grid { grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; } }
+@media(max-width:480px) { .hero-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }

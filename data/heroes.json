@@ -3,36 +3,7 @@
     "id": "Buggy_S",
     "name": "Buggy-S",
     "image": "./images/heroes/Buggy_s.png",
-    "note": "",
-    "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
-    },
-    "evolutionFrom": {
-      "name": "Buggy-H",
-      "heroId": null
-    },
-    "materials": [
-      {
-        "materialId": "ltt_buggy"
-      },
-      {
-        "materialId": "bara_bara"
-      },
-      {
-        "materialId": "cross_guild_badge"
-      },
-      {
-        "materialId": "BiKiepHaki"
-      }
-    ]
-  },  {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
-    "note": "",
+    "note": "Buggy_S được tiến hoá từ Buggy_H trong tính năng haki. Buggy được chiêu mộ trong quán rượu bằng danh vọng và tiến hoá vài mức cơ bản ở tính năng ảnh hồn. Phần này mô tả cách tiến hoá từ Buggy_H lên Buggy_S",
     "skills": {
       "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
       "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
@@ -58,424 +29,769 @@
       }
     ]
   },
-    {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
-    "note": "",
+  {
+    "id": "Denjiro_S",
+    "name": "Denjiro-S",
+    "image": "./images/heroes/Denjiro_s.png",
+    "note": "Denjiro-S được tiến hoá từ Denjiro. Mục này mô tả cách chiêu mộ Denjiro.",
     "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
+      "basicAttack": "[TC] Kage no Zanshin: Vận dụng  kiếm thuật đình cao Denjiro tiến hành tấn công toàn bộ mục tiêu đồng thời Denjiro có tỷ lệ xóa bỏ miễn dịch tê liệt lên mục tiêu (hiệu quả trên từng mục tiêu). Lần 2, gây thêm 1 lần sát thương bỏ qua haki lên mục tiêu có nộ khí thấp nhất đồng thời có tỷ lệ xóa bỏ miễn dịch đóng băng hoặc giảm 40 nộ lên mục tiêu (khi bộc phá sẽ ra cả 2). Lần 3, gây 1 lần sát thương bỏ qua haki và gây hiệu quả Quỷ Kiếm 1 lượt lên toàn bộ mục tiêu (Quỷ Kiếm: Nhụt chí giảm 35 nộ (có thể cộng dồn), tê liệt, đóng băng, giảm 30 nộ). Cuối cùng, Denjiro gây 1 lần sát thương bỏ qua haki kèm sát thương 20% lượng máu tối đa lên mục tiêu hàng ngang phía sau và xét nếu nộ khí hiện tại của mục tiêu thấp hơn nộ khí của Denjro tại lần ra đòn này thì Denjiro sẽ gắn ấn Kiếm Nô 1 lượt lên mục tiêu (Kiếm Nô: Xóa hiệu quả Hộ thân, gây mê hoặc, hỗn loạn). Hồi đồng đội 30 nộ khí, bản thân hồi 35 nộ khí kèm một số hiệu quả có lợi 1 lượt (Miễn dịch: Choáng, mê hoặc, hỗn loạn, cấm tích nộ, độc, đốt cháy, phong ấn trị liệu, vách sắt)",
+      "ultimate": "[TC] Enma no Ikari: Tụ lực vào thanh kiếm, Denjiro nhảy lên tấn công toàn bộ mục tiêu và xét nếu mục tiêu nào đang dính hiệu quả Hoảng Sợ thì Denjiro khiến mục tiêu đó dính Vĩnh hằng đồng thời tiếp tục gây thêm nhụt chí giảm 50 nộ lên mục tiêu 1 lượt (hiệu quả có thể cộng dồn). Tiếp theo, thêm 1 lượng sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ cao kích hoạt hiệu quả xóa miễn dịch tê liệt hoặc gây mê hoặc, hoặc đóng băng 1 lượt lên mục tiêu (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 3). Lần 3, gây thêm 1 lần sát thương 20% lượng máu tối đa lên toàn bộ mục tiêu, lần sát thương này Denjiro sẽ chọn mục tiêu có nộ khí thấp nhất tiến hành xóa hiệu quả miễn dịch cấm tích nộ, trầm mặc, miễn giảm nộ và khiến mục tiêu đó bị cấm tích nộ, trầm mặc 2 lượt. Cuối cùng, gây 1 lần sát thương bỏ qua haki lên ngẫu nhiên 3 mục tiêu và kích hoạt hiểu quả Kiếm Nô lên mục tiêu đó 1 lượt. Hồi đồng đội đội 35 khí kèm miễn sát thương bỏ qua phòng ngự 2 lượt. Bản thân hồi 50 nộ khí kèm khiên miễn dịch 1 số hiệu ứng trong 1 lượt (Miễn dịch: giảm sát thương về 0, giảm nộ, hóa đá, hỗn loạn, trầm mặc, mê hoặc,vĩnh hằng)",
+      "talent": "Cửu Hồng Bao\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 20% lượng máu giới hạn, 3 lượt đầu miễn dịch 1 số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự,TC, hỗn loạn, trầm mặc, đốt cháy, choáng, phong ấn trị liệu, giảm sát thương về 0). Miễn dịch vĩnh viễn đóng băng, cấm tích nộ, tê liệt. Mỗi lần hành động Denjiro sẽ buff cho toàn đội hiệu quả Bạo kích, khiên chặn đòn 2 lượt. Ngoài ra, ra trận nếu có Hiyori trong đội hình thì Denjỉro sẽ buff 15% GHM cho Hiyori trong 3 lượt\n\nCấp 3: Miễn stđn +12%, Miễn stdt +12%\n\nCấp 5: S.Mệnh +15%, MP +10%\n\nCấp 7:  Kết thúc đánh nộ Denjiro xét toàn bộ mục tiêu nếu đang dính 1 trong 3 hiệu quả Đóng băng, mê hoặc, hỗn loạn thì Denjiro sẽ xóa vách sắt, xóa hiệu quả miễn sát thương bỏ qua phòng ngự. Ra trận sẽ tự buff bản thân hiệu quả hồi sinh 100% máu khi tử vong (không ghép chồng với hiệu quả hồi sinh của tướng khác). Mỗi lần hành động bản thân có tỷ lệ buff cho đồng đội có nộ khí thấp nhất 50 nộ và xóa hiệu quả Nhụt chí (nếu có). Cuối cùng, lượt đánh bội số 2 Denjiro sẽ buff cho bản thân kèm đồng đội Hiyori hoặc Hitetsu hiệu quả hồi 100% máu (lượng máu hồi phục không bị ảnh hưởng bởi miễn sát thương bỏ qua phòng ngự và phong ấn trị liệu) (hiệu quả tối đa 2 lần)",
+      "devilFruit": ""
     },
     "evolutionFrom": {
-      "name": "Buggy-H",
+      "name": "Denjiro",
       "heroId": null
     },
     "materials": [
       {
-        "materialId": "ltt_buggy"
+        "materialId": "lttDenjiro"
       },
       {
-        "materialId": "bara_bara"
+        "materialId": "TheBaiDenjiro"
       },
       {
-        "materialId": "cross_guild_badge"
+        "materialId": "KiemDenjiro"
       },
       {
         "materialId": "BiKiepHaki"
       }
     ]
   },
-    {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
-    "note": "",
+  {
+    "id": "XDrake_S",
+    "name": "XDrake-S",
+    "image": "./images/heroes/XDrake_s.png",
+    "note": "XDrake-S được tiến hoá từ XDrake-H, XDrake-H được tiến hoá từ Xdrake sau khi nâng cấp từ ảnh hồn. XDrake được chiêu mộ bằng danh vọng tại quán rượu.",
     "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
+      "basicAttack": "[VC] X Caliber: X.Drake nhảy lên tấn công toàn bộ mục tiêu và có tỷ lệ cao khiến ngẫu nhiên 1 mục tiêu bị Xuyên Giáp (Xuyên Giáp: Xóa miễn sát thương bỏ qua phòng ngự, miễn dịch VC, vách sắt, miễn dịch trầm mặc). Lần 2, thêm 1 lần sát thương bỏ qua haki kèm sát thương 20% lượng máu tối đa lên toàn bộ mục tiêu, lần sát thương này X.Drake có tỷ lệ xét ngẫu nhiên 2 đồng đội (không bao gồm bản thân) nếu trong trạng thái Độc thì sẽ buff cho 2 đồng đội hiệu quả Cổ Long 1 lượt (Cổ Long: Xóa hiệu quả Độc, vách sắt 1 lượt, khi kết thúc hành động sẽ gây thêm 1 lần sát thương bỏ qua haki lên mục tiêu hình chữ thập kèm hóa đá 1 lượt). Cuối cùng, X.Drake gây thêm 1 lần sát thương bỏ qua haki mục tiêu hình chữ thập và có tỷ lệ thấp khiến mục tiêu bị Xé Rách ( Xé Rách: xóa toàn bộ hiệu quả miễn sát thương bỏ qua phòng ngự kèm khấu trừ 20% máu). Hồi đồng đội 25 nộ khí, bản thần hồi 30 nộ khí kèm khiên miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: phong ấn trị liệu, choáng, cấm tích nộ, hỗn loạn, giảm nộ, vĩnh hằng kèm xóa nhụt chí)",
+      "ultimate": "[VC] Drake Breaker: Hóa thành khủng long cuồng nộ tấn công toàn bộ mục tiêu đồng thời xóa hiệu quả miễn sát thương đánh thường (không nhận được buff từ đồng đội), tận lực, trầm mặc 1 lượt và có tỷ lệ thấp kích hoạt lại hiệu quả Xé Rách. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn độ mục tiêu và chắc chắn buff Cổ Long 1 lượt lên 3 đồng minh (không bao gồm bản thân). Đòn đánh thứ 3 thêm 1 lần sát thương bỏ qua haki kèm sát thương 35% VC bỏ qua VP lên mục tiêu có TCTP lớn nhất kèm tỷ lệ cao khiến mục tiêu đó nhụt chí giảm 100 nộ 2 lượt. Cuối cùng, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và xét nếu mục tiêu nào còn dưới 40% máu thì X.Drake sẽ khiến những mục tiêu đó dính hiệu quả Bạo Long 1 lượt (Bạo Long: Sau khi kết thúc hành động tấn công gây 1 lần sát thương 200% bỏ qua haki VC lên toàn bộ mục tiêu và xét nếu đồng minh nào còn dưới 15% máu thì sẽ kết liễu mục tiêu) (hiệu quả có thể cộng dồn với một số hiệu ứng tương tự đến từ nguồn khác. Hồi đồng đội 35 nộ khí, bản thân hồi 75 nộ khí kèm khiên miễn dịch 1 số hiệu ứng 1 lượt  (Miễn dịch: phong ấn trị liệu, choáng, cấm tích nộ, hỗn loạn, giảm nộ, vĩnh hằng kèm xóa nhụt chí, đóng băng, đốt cháy)",
+      "talent": "Jurassic Justice\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 15% lượng máu giới hạn, 3 lượt đầu miễn dịch 1 số hiệu ứng bất lợi (Miễn dịch: choáng, phong ấn trị liệu, cấm tích nộ, vĩnh hằng, độc, đốt cháy, giảm nộ, TC). Miễn dịch vĩnh viễn hóa đá, trầm mặc, mê hoặc. Mỗi lần hành động có tỷ lệ 60% phá hủy giáp VC của mục tiêu. Ngoài ra, ra trận nếu phía mục tiêu có Hawkins thì X.Drake sẽ xoá miễn sát thương bỏ qua phòng ngự và gây thêm 25% sát thương VC bỏ qua VP lên hắn ta \n\nCấp 3: SM+5%, Stdt +10%\n\nCấp 5: TCP +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ X.Drake có tỷ lệ 30% xóa miễn dịch hóa đá và gây hóa đá lên mục tiêu hàng ngang. Kết thúc đánh nộ X.Drake sẽ xét toàn bộ mục tiêu nếu mục tiêu đang trong trạng thái Hóa Đá thì sẽ khiến mục tiêu đó có tỷ lệ 50% bị phong ấn toàn bộ hiệu quả hồi máu đến từ mọi nguồn 1 lượt. Cuối cùng, nếu bản thân X.Drake dưới 30% máu khi hành động xong sẽ buff cho toàn đội hiệu quả Cổ Long (không bao gồm bản thân) 1 lượt và gây hiệu quả Bạo Long 1 lượt lên toàn bộ kẻ địch (tác dụng 1 lần cho cả trận)",
+      "devilFruit": "[Trái  Ryu Ryu no Mi, Model: Allosaurus] Trái ác quỷ hệ Zoan Cổ đại cho phép người dùng biến thành dạng khủng long Allosaurus sở hữu sức mạnh vô biên. Mỗi lần hành động có tỷ lệ 5% (mỗi cấp +2.5%) gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời đưa bản thân vào trạng thái Hộ Thân giảm 100% tỷ lệ nhận buff từ đối thủ khác vào bản thân, tuy nhiên khi X.Drake bước vào trạng thái này thì cũng sẽ bị cấm hồi sinh trong 1 lượt. Kết thúc đánh nộ buff cho bản thân hiệu quả khiên chặn đòn 2 lượt, khi chặn đòn thành công X.Drake sẽ thêm 1 lần sát thương bỏ qua haki kèm hiệu quả Nhụt chí giảm 100 nộ lên toàn bộ mục tiêu trong 1 lượt"
     },
     "evolutionFrom": {
-      "name": "Buggy-H",
+      "name": "XDrake-H",
       "heroId": null
     },
     "materials": [
       {
-        "materialId": "ltt_buggy"
+        "materialId": "lttXDrake"
       },
       {
-        "materialId": "bara_bara"
+        "materialId": "TraiAllosaurus"
       },
       {
-        "materialId": "cross_guild_badge"
+        "materialId": "MuXDrake"
       },
       {
         "materialId": "BiKiepHaki"
       }
     ]
   },
-    {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
-    "note": "",
+  {
+    "id": "Saturn_S",
+    "name": "Saturn-S",
+    "image": "./images/heroes/Saturn_S.png",
+    "note": "Saturn-S là siêu tướng được tiến hoá từ Saturn-H trong tính năng shura bằng điểm Haki và viên Shura. Mục này mô tả cách chiêu mộ Saturn-H.",
     "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
+      "basicAttack": "[MC]Ma Nhãn Minh Áp: Saturn sử dụng đôi chân của mình tấn công gây sát thương và gây hiệu quả Độc Nhện lên toàn bộ mục tiêu trong 1 lượt (Độc Nhện: Xóa miễn dịch độc, miễn dịch phong ấn trị liệu và gây phong ấn trị liệu, độc, đốt khấu trừ 15% lượng máu tối đa, Vĩnh Hằng). Lần 2, gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ cao chọn ngẫu nhiên 2 mục tiêu gây hiệu quả Huyết Chú (cấm hồi máu xuyên miễn sát thương bỏ qua phòng ngự) 1 lươt. Lần 3, Saturn sẽ xét xem nếu mục tiêu nào có lượng máu tối đa lớn hơn Saturn thì Saturn sẽ có tỷ lệ cao xóa hiệu quả miễn sát thương bỏ qua phòng ngự của mục tiêu kèm khấu từ thêm 20% lượng máu tối đa và gây cấm hồi sinh 1 lượt. Cuối cùng, Saturn sẽ đưa toàn bộ đồng đội (bao gồm bản thân) đưa vào trạng thái Minh Nhãn trong 1 lượt (Minh Nhãn: Miễn dịch Mộng cảnh, Hộ thân giảm 20% tỷ lệ nhận hiệu ứng từ kẻ địch, Cường hóa tăng 5% tỷ lệ ra hiệu ứng (có thể cộng dồn), miễn sát thương đánh nộ, vách sắt, hồi 35% lượng máu tối đa. Hồi toàn đội 60 nộ khí kèm xoá bỏ một số hiệu ứng bất lợi và buff miễn dịch hiệu ứng đó (không bao gồm miễn dịch nhụt chí) (Xóa + Miễn dịch: Vĩnh Hằng, choáng, mê hoặc, giảm sát thương, giảm nộ, trầm mặc, hóa đá, cấm tích nộ, tê liệt, nhụt chí)",
+      "ultimate": "[MC]Hắc Thần Giáng Thế: Triệu hồi vòng tròn hắc thần tấn công toàn bộ kẻ địch đồng thời phá hủy 1 số hiệu quả có lợi của mục tiêu (Xóa: miễn MC, miễn sát thương bỏ qua phòng ngự). Lần 2 gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời hồi 50% lượng máu tối đa và kéo toàn đội vào hiệu quả Ẩn Nấp trong 1 lượt (hiệu quả Ẩn Nấp tác dụng duy nhất 1 lần trong trận). Lần 3 gây thêm 1 lần sát thương haki kèm 20.000.000 sát thương nguyên tố Hỏa lên toàn bộ kẻ địch đồng thời tiếp tục kích hoạt lại hiệu quả Độc Nhện lên toàn bộ mục tiêu 1 lượt. Cuối cùng, Saturn có tỷ lệ buff cho toàn đội hiệu quả Thần Nộ 1 lượt (Thần Nộ: Hộ thân giảm 30% tỷ lệ nhạn hiệu ứng từ địch, hồi 50 nộ khí, khi bị đánh thường chắc chắn bị nhụt chí giảm 50 nộ 1 lượt). Hồi toàn đội 100 nộ khí kèm xoá bỏ một số hiệu ứng bất lợi và buff miễn dịch hiệu ứng đó (không bao gồm miễn dịch nhụt chí) (Xóa + Miễn dịch: Vĩnh Hằng, choáng, hoảng sợ, mê hoặc, hỗn loạn, đóng băng, giảm sát thương, giảm nộ, trầm mặc, hóa đá, cấm tích nộ, tê liệt, nhụt chí, mộng cảnh)",
+      "talent": "Quyền Năng Bất Tử\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, choáng, đóng băng, hỗn loạn, hóa đá, phong ấn trị liệu, tê liệt, cấm tích nộ, hóa đá, trấn áp). Miễn dịch vĩnh viễn Vĩnh hằng, độc, đốt cháy, trầm mặc. Đánh nộ sẽ buff hiệu quả vách sắt lên toàn bộ đồng đội (không bao gồm bản thân) 1 lượt.\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Mỗi lần đánh nộ, Saturn có tỷ lệ xét xem nếu phe ta có đồng đội tử vong thì sẽ ngẫu nhiên hồi sinh đồng đội đó trở lại với 50% lượng máu tối đa. Đánh nộ Saturn chắc chắn buff cho toàn đội hiệu quả miễn sát thương bỏ qua phòng ngự, kèm khiên hắc ám 1 lượt (Khiên hắc ám: phòng thủ Saturn càng cao thì hiệu quả càng lớn). Ra trận sẽ hồi sinh bản thân kèm đồng đội có chỉ số SM cao nhất khi tử vong với 100% máu (không cộng dồn với hồi sinh khác). Vào trận, Saturn bộc phá haki bá vương xóa hiệu quả miễn dịch Trấn Áp và gây Trấn Áp lên ngẫu nhiên 1 mục tiêu 1 lượt.",
+      "devilFruit": "[Trái Ushi Ushi Oni]: Trái ác quỷ hệ Zoan thần thoại cho phép người sở hữu biến thành con nhện khổng lồ. Mỗi lần hành động bản thân có tỷ lệ 10% (mỗi cấp +2%) gây hiệu quả Phong Hồn hoặc cấm hồi sinh lên mục tiêu trong 1 lượt (hiệu quả trên từng mục tiêu). Mỗi lần hành động bản thân hồi 10% (mỗi cấp +1%) lượng máu tối đa. Ngoài ra, khi bị đánh thường Saturn có tỷ lệ 10% (mỗi cấp +1%) khiến kẻ tấn công bị Mộng Cảnh giảm 20% tỷ lệ ra hiệu ứng trong 1 lượt (hiệu quả có thể cộng dồn) "
     },
     "evolutionFrom": {
-      "name": "Buggy-H",
+      "name": "Saturn-H",
       "heroId": null
     },
     "materials": [
       {
-        "materialId": "ltt_buggy"
+        "materialId": "lttSaturn"
       },
       {
-        "materialId": "bara_bara"
+        "materialId": "gayApLinhSaturn"
       },
       {
-        "materialId": "cross_guild_badge"
+        "materialId": "traiUshiOni"
+      },
+      {
+        "materialId": "aoChoangSaturn"
       },
       {
         "materialId": "BiKiepHaki"
       }
     ]
   },
-    {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
+  {
+    "id": "Garp_S2",
+    "name": "Garp-S2",
+    "image": "./images/heroes/Garp_S2.png",
     "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Hawkins_S",
+    "name": "Hawkins-S",
+    "image": "./images/heroes/Hawkins_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Hiyori_S",
+    "name": "Hiyori-S",
+    "image": "./images/heroes/Hiyori_s.png",
+    "note": "Hiyori-S được tiến hoá Shura từ Hiyori chỉ tốn điểm haki và viên shura. Phần này mô tả nguyên liệu chiêu mộ Hiyori.",
     "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
+      "basicAttack": "[MC]Ohran Musou: Sử dụng tiếng đàn tấn công toàn bộ mục tiêu và xét xem nếu lượng máu hiện tại của Hiyori lớn hơn 100% lượng máu hiện tại của mục tiêu thì Hiyori sẽ xóa hiệu quả miễn giảm nộ, miễn dịch giảm sát thương và gây hiệu quả giảm sát thương về 0, giảm 100 nộ khí lên mục tiêu. Tiếp theo, Hiyori có tỷ lệ trung bình gây hiệu quả Vĩnh Hằng hoặc Xóa miễn giảm sát thương bỏ qua phòng ngự, và có tỷ lệ thấp xóa hiệu quả hồi sinh lên mục tiêu (hiệu quả trên từng mục tiêu, khi bộc phá có thể xảy ra cả 3). Lần 3, xóa một số hiệu quả bất lợi lên toàn đội (Xóa: Phong ấn trị liệu, Vĩnh hằng, nhụt chí, choáng, hóa đá, hỗn loạn, mê hoặc). Cuối cùng hồi toàn đội 40 nộ khí, 25% máu kèm miễn sát thương bỏ qua phòng ngự 2 lượt và miễn dịch 1 số hiệu ứng bất lợi trong 1 lượt. (Miễn dịch: Vĩnh Hằng, cấm tích nộ, hóa đá, trầm mặc, miễn giảm nộ, giảm sát thương về 0, choáng, mê hoặc, hỗn lọa, độc, đốt cháy)",
+      "ultimate": "[MC]Tsukihime no Sabaki: Gây sát thương lên toàn bộ mục tiêu đồng thời và đưa bản thân vào trạng thái không thể bị chọn làm mục tiêu tấn công 1 lượt (vẫn nhận được hiệu ứng từ đồng đội, tác dụng tối đa 2 lần cả trận). Tiếp theo, gây 1 lượng sát thương bỏ qua haki lên toàn bộ mục tiêu kèm hiệu quả hồi 45% máu và miễn sát thương bỏ qua phòng ngự lên toàn đội 3 lượt (Lưu ý: Xóa LN + buff máu + buff LN). Lần 3, gây thêm 1 lần sát thương 5.000.000 nguyên tố phong lên toàn bộ mục tiêu và bản thân có tỷ lệ cao buff hiệu quả Tiếng Ca ngẫu nhiên 3 đồng đội 1 lượt (Tiếng Ca: Miễn sát thương đánh nộ, Vách sắt, sau khi kết thúc hành động sẽ gây thêm 1 lần sát thương tương đương 25% máu lên ngẫu nhiên 1 mục tiêu và có tỷ lệ thấp xóa khiên miễn dịch thiên phú lên mục tiêu). Cuối cùng, hồi toàn đội 50 nộ khí kèm và xóa một số hiệu quả bất lợi kèm buff khiên miễn dịch hiệu ứng đã xóa lên toàn đội trong 1 lượt (không bao gồm nhụt chí) (Xóa và buff miễn dịch: Nhụt chí, choáng, phong ấn trị liệu, hỗn loạn, mê hoặc, trầm mặc, hóa đá, độc, đốt cháy, tê liệt, vĩnh hằng)",
+      "talent": "Komurasaki\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 20% lượng máu giới hạn, 3 lượt đầu miễn dịch 1 số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, VC,TC,MC, hỗn loạn, trầm mặc, đốt cháy, giảm nộ, cấm tích nộ, tê liệt, giảm sát thương về 0). Miễn dịch vĩnh viễn mê hoặc, trầm mặc, độc. Mỗi lần hành động có tỷ lệ 50% buff bản thân hiệu quả 15% GHM trong 1 lượt. Ngoài ra, ra trận nếu có Hitetsu trong đội hình thì Hiyori sẽ buff 15% GHM cho Hitetsu trong 3 lượt \n\nCấp 3: Miễn stđn +12%, Miễn stdt +12% \n\nCấp 5: S.Mệnh +10%, MP +10% \n\nCấp 7:  Khi ra trận sẽ chọn đồng đội có lượng máu nhiều và thấp nhất hiệu quả hồi sinh 100% máu khi tử vong (không ghép chồng với hiệu quả hồi sinh của tướng khác). Sau khi đánh nộ Hiyori buff 3 đồng đội ngẫu nhiên (không bao gồm bản thân) hiệu quả Tận Lực trong 1 lượt. Mỗi lượt hành động bản thân Hiyori hồi 10% lượng máu tối đa. Cuối cùng, kết thúc đánh nộ Hiyori sẽ chọn ngẫu nhiên 1 mục tiêu khiến mục tiêu bị Hoảng Sợ cần thêm 50 nộ mới có thể nộ và Mộng Mị giảm 25% tỷ lệ ra hiệu ứng trong 1 lượt.",
+      "devilFruit": ""
     },
     "evolutionFrom": {
-      "name": "Buggy-H",
+      "name": "Hiyori-H",
       "heroId": null
     },
     "materials": [
       {
-        "materialId": "ltt_buggy"
+        "materialId": "lttHiyori"
       },
       {
-        "materialId": "bara_bara"
+        "materialId": "coTocKozuki"
       },
       {
-        "materialId": "cross_guild_badge"
+        "materialId": "shamishenBiwa"
       },
       {
         "materialId": "BiKiepHaki"
       }
     ]
   },
-    {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
+  {
+    "id": "Roger_S",
+    "name": "Roger-S",
+    "image": "./images/heroes/Roger_S.png",
     "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Oven_S",
+    "name": "Oven-S",
+    "image": "./images/heroes/Oven_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Rayleigh_S2",
+    "name": "Rayleigh-S2",
+    "image": "./images/heroes/Rayleigh_S2.png",
+    "note": "Rayleigh-S2 được tiến hoá lên từ Rayleighy-S, Rayleigh-S được tiến hoá từ Rayleigh, Rayleigh được mua với giá 500k vàng tại cảng Làng Cối Xay gió. Mục này chỉ mô tả cách tiến hoá Rayliegh-S2",
     "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
+      "basicAttack": "[TC]Dark Sprint: Tấn công toàn bộ mục tiêu đồng thời xóa bỏ, vách sắt, tận lực và gây đóng băng 1 lượt lên mục tiêu hình chữ thập trong 1 lượt. Lần 2 tiếp tục gây thêm 1 lần sát thương bỏ qua Haki đồng thời có tỷ lệ gây hiệu quả Kiếm Trận lên ngẫu nhiên 3 mục tiêu trong 1 lượt (Kiếm Trận: Xóa hiệu quả miễn dịch sát thương bỏ qua phòng ngự, khấu trừ 20% máu tối đa, tăng 15% tỷ lệ nhận buff từ đối thủ đánh vào bản thân, Phong hồn, nhụt chí giảm 50 nộ). Lần 3 gây thêm 1 lần sát thương bỏ qua haki kèm theo sát thương 35% TC bỏ qua TCP lên toàn bộ mục tiêu đồng thời chọn mục tiêu có SM và TL cao nhất xóa bỏ hiệu quả miễn dịch giảm sát thương và khiến mục tiêu bị giảm sát thương về 0 trong 2 lượt. Cuối cùng, gây thêm 1 lần sát thương tương đương 20% lượng máu tối đa của mục tiêu lên toàn bộ mục tiêu đồng thời xóa bỏ một số hiệu quả xấu và buff hiệu quả có lợi cho toàn đội (Xóa bỏ: Hoảng sợ, nhụt chí, hỗn loạn, cấm tích nộ, vĩnh hằng, giảm sát thương vê 0) (Buff: Vách sắt, miễn dịch vĩnh hằng, giảm sát thương về 0, cấm tích nộ, hỗn loạn, vĩnh hằng, hoảng sợ) 1 lượt. Bản thân hồi 50 nộ khí và đồng đội 30 nộ khí",
+      "ultimate": "[TC]Accursed Binding: Vận dụng tốc độ tối thượng tiến hành tấn công chớp nhoáng lên toàn bộ mục tiêu và xóa bỏ một số hiệu quả có lợi của mục tiêu (Xóa bỏ: Miễn sát thương đánh thường, vách sắt, miễn dịch Vĩnh Hằng) đồng thời có tỷ lệ cao kích hoạt lại hiệu quả Kiếm Trận lên mục tiêu hình chữ thập trong 1 lượt. Tiếp theo, gây thêm 1 lần sát thương bỏ qua haki kèm theo sát thương tương đương 40% TC bỏ qua TCP lên toàn bộ mục tiêu và có tỷ lệ kích hoạt hiệu quả phong hồn lên mục tiêu 1 lượt (hiệu quả trên từng mục tiêu). Tiếp theo gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu kèm theo 1 lần sát thương tương đương 10% lượng máu tối đa của mục tiêu đồng thời xét xem nếu mục tiêu có nộ khí lớn hơn hoặc bằng 100 thì Rayleigh sẽ tiến hành gây hiệu quả xóa miễn dịch độc, gây độc khấu trừ 20% máu trong 2 lượt, khấu trừ 10% lượng máu tối đa của mục tiêu, giảm toàn bộ tấn công của mục tiêu về 0 trong 1 lượt. Cuối cùng, gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời Rayleigh có tỷ lệ buff ngẫu nhiên 1 đồng đội (không tính bản thân) hiệu quả Bá Khí trong 1 lượt (Bá Khí: Hồi 30% máu (lượng máu không bị ảnh hưởng bởi phong ấn trị liệu, sau khi thực hiện đòn tấn công thì sẽ tấn công gây thêm 1 lần sát thương bỏ qua haki kèm sát thương tương đương 15% lượng máu tối đa lên toàn bộ mục tiêu và có tỷ lệ thấp xóa hiệu quả hồi sinh hoặc giảm 30% tỷ lệ ra hiệu ứng của mục tiêu (hiệu quả trên từng mục tiêu, khi bộc phá có thể xảy ra cả 2). Hồi đồng đội 30 nộ khí và bản thân 110 nộ khí kèm theo hiệu quả miễn dịch trấn áp, hoảng sợ và vách sắt 1 lượt",
+      "talent": "Vua Bóng Tối\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, cấm tích nộ, mê hoặc, Vĩnh hằng, độc, trầm mặc, tê liệt, giảm sát thương về 0). Miễn dịch vĩnh viễn Đốt cháy, Đóng Băng, phong ấn trị liệu, hỗn loạn, hóa đá. Đánh thường có tỷ lệ 60% phá bỏ lớp giáp TC của kẻ địch. Miễn dịch trấn áp 2 lượt\n\nCấp 3: NN+5%, Stdt +10%\n\nCấp 5: MP +10%, S.thương đánh nộ +10%\n\nCấp 7: Vào trận Rayleigh sẽ tiến hành xét xem nếu bên phe ta có shanks thì sẽ ngay lập tức buff cho shanks 50 nộ. Đánh thường, Rayleigh sẽ xóa hiệu quả miễn dịch đóng băng lên mục tiêu hàng dọc. Đánh nộ có tỷ lệ buff cho shanks thêm 50 nộ và xóa bỏ hiệu quả giảm tỷ lệ ra hiệu ứng. Vào trận, Rayleigh sẽ xét xem nếu phe địch có Akainu thì Rayleigh sẽ tiến hành đánh dấu Ấn chú lên hắn ta trong 2 lượt (Ấn chú: Giảm 20% tỷ lệ ra hiệu ứng, tăng 20% tỷ lệ nhận hiệu ứng từ kẻ địch vào bản thân). Đánh nộ có tỷ lệ buff bản thân hiệu quả Ẩn Nấp 1 lượt. Khi tử vong Ray sẽ tự hồi sinh bản thân với 100% máu (Không ghép chồng với hiệu ứng hồi sinh của tướng khác).",
+      "devilFruit": ""
     },
     "evolutionFrom": {
-      "name": "Buggy-H",
+      "name": "Rayleigh-S",
       "heroId": null
     },
     "materials": [
       {
-        "materialId": "ltt_buggy"
+        "materialId": "lttRayleighS2"
       },
       {
-        "materialId": "bara_bara"
+        "materialId": "theSilverRayleigh"
       },
       {
-        "materialId": "cross_guild_badge"
+        "materialId": "nhatKyRayLeigh"
+      },
+      {
+        "materialId": "coBangHaiTacRoger"
+      },
+      {
+        "materialId": "ByKiepHaki"
+      }
+    ]
+  },
+  {
+    "id": "Smoothie_S",
+    "name": "Smoothie-S",
+    "image": "./images/heroes/Smoothie_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Shanks_S2",
+    "name": "Shanks-S2",
+    "image": "./images/heroes/Shanks_S2.png",
+    "note": "Shanks-S2 được tiến hoá từ Shanks-S, Shanks-S là siêu tướng cũ có thể lấy trực tiếp tướng từ việc nạp phản hồi hoặc ghép từng phần giống siêu tướng cũ ở Trung Tâm Đổi quà. Phần này chỉ đề cập nguyên liệu tiến hoá Shanks từ S lên S2.",
+    "skills": {
+      "basicAttack": "[VC]Odoshi: Tập trung haki vào thanh kiếm tiến hành tấn công toàn bộ mục tiêu và có tỷ lệ khiến mục tiêu rơi vào trạng thái Huyết Sát (xóa bỏ vách sắt, miễn dịch độc, độc thiêu đốt 20% máu, nhụt chí giảm 50 nộ) trong 2 lượt. Tiếp đến thêm 1 lần sát thương bỏ qua haki kèm theo sát thương 30% VC bỏ qua VP đồng thời xét xem nếu mục tiêu nào đang dính Độc thì Shanks sẽ tiến hành xóa bỏ hiệu quả miễn dịch sát thương bỏ qua phòng ngự, khấu trừ 20% máu. Lần 3 gây thêm 1 lần sát thương bỏ qua haki toàn bộ mục tiêu và khiến chúng bị Mê hoặc trong 1 lượt, tiếp tục thêm 1 lần sát thương 30% VC bỏ qua VP và có tỷ lệ buff bản thân hiệu quả Thiên Mệnh (Tăng toàn bộ tỷ lệ buff lên bản thân 15%, giảm 20% tỷ lệ nhận buff từ đối thủ đánh vào bản thân, miễn dịch Phong Hồn, hồi 30 nộ khí) trong 1 lượt. Cuối cùng, gây thêm 1 lần sát thương 15.000.000 nguyên tố Phong lên mục tiêu lên hàng ngang và khiến toàn bộ mục tiêu bị Trấn Áp trong 1 lượt. Hồi toàn đội 40 nộ khí bản thân hồi 80 nộ",
+      "ultimate": "[VC]Atarashii Jidai: Shanks sẽ tiến hành xem xét lượng nộ khí đang sẵn có của bản thân để tấn công kẻ địch. Nếu Shanks có đủ 100 nộ thì sẽ tiến hành tấn công toàn bộ mục tiêu đồng thời phá hủy Vách sắt, Tận lực, miễn sát thương đánh thường, buff chặn đòn của toàn bộ mục tiêu và khiến mục tiêu đó tiến vào hiệu quả Huyết Sát 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời xóa bỏ hiệu quả miễn dịch sát thương bỏ qua phòng ngự của mục tiêu và gây thêm 1 lần sát thương 30% VC bỏ qua VP cho mục tiêu đó. Lần 3, gây thêm 1 lần sát thương bỏ qua haki kèm theo 1 lần sát thương 35% VC bỏ qua VP toàn bộ mục tiêu và có tỷ lệ cao bộc phá Haki xóa bỏ toàn bộ hiệu quả miễn dịch giảm sát thương và giảm toàn bộ sát thương của mục tiêu về 0 trong 1 lượt. Cuối cùng, gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ đặt ấn 25% GHM lên 1 mục tiêu ngẫu nhiên trong 2 lượt. Bản thân Shanks có tỷ lệ nhận hiệu quả Ấn Nấp trong 1 lượt. Hồi đồng đội 30 nộ khí và bản thân hồi 100 nộ\n\n[VC]Observation Killing: Khi Shanks tích đủ 250 nộ khí thì sẽ thi triển ra đòn tấn công cực mạnh vào toàn đội mục tiêu đồng thời phá hủy hiệu quả Vách Sắt, Miễn sát thương đánh thường, Ẩn Nấp, Tận lực, buff chặn đòn toàn bộ mục tiêu và khiến mục tiêu đó tiến vào hiệu quả Huyết Sát 2 lượt. Lần 2 gây thêm 1 lần sát thương bỏ qua Haki lên toàn bộ mục tiêu, đòn đánh này của Shanks sẽ phá hủy toàn bộ hiệu quả miễn dịch giảm sát thương và đưa sát thương của mục tiêu đó về 0 kèm Trấn Áp trong 1 lượt. Lần 3, thêm 1 lần sát thương bỏ qua Haki kèm theo sát thương 35% VC bỏ qua VP lên toàn bộ mục tiêu và chắc chắn kích hoạt hiệu quả Thiên Mệnh cho bản thân và và ngẫu nhiên 2 đồng đội trong 1 lượt. Lần 4 gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời có tỷ lệ đặt ấn 30% GHM lên mục tiêu trước mặt trong 2 lượt. Cuối cùng, gây thêm 1 lần sát thương 15.000.000 nguyên tố Phong lên toàn bộ mục tiêu và có tỷ lệ kết liễu mục tiêu theo hàng ngang (chỉ tác dụng 1 lần cho toàn trận). Hồi đồng đội 40 nộ khí và bản thân 125 nộ khí và có tỷ lệ kích hoạt hiệu quả Ẩn Nấp trong 1 lượt",
+      "talent": "Leadership\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, choáng, cấm tích nộ,  phong ấn trị liệu, hỗn loạn, mê hoặc, đóng băng, tê liệt, đốt cháy, hóa đá, trấn áp, giảm nộ). Miễn dịch vĩnh viễn Độc, Vĩnh hằng, Giảm sát thương về 0, trầm mặc, tê liệt. Mỗi lần hành động sẽ chắc chắn xoá bỏ lớp giáp VC của kẻ địch\n\nCấp 3: SM+5% STĐT+10%\n\nCấp 5: VP+10% STĐN+ 10%\n\nCấp 7: Vào trận Shanks sẽ tiến hành gắn ấn Song Sát lên 2 mục tiêu ngẫu nhiên hiệu quả Song Sát trong 2 lượt (khi mục tiêu dính song sát bị tử vong thì sẽ kéo theo đồng đội đang bị song sát tử vong theo) Đánh nộ, Shanks có tỷ lệ cao chọn ngẫu nhiên 3 mục tiêu tiến hành gây thêm 1 lần sát thương 30% VC bỏ qua VP và khiến mục tiêu bị Vĩnh Hằng 1 lượt. Kết thúc đánh nộ Shanks sẽ tiến hành xóa bỏ một số hiệu quả bất lợi và buff miễn dịch mà shanks đã xóa và hồi 20% máu không bị ảnh hưởng bởi miễn xoáy cho toàn đội (bao gồm bản thân) trong 1 lượt (Xóa: Nhụt chí, Vĩnh hằng, hỗn loạn, mê hoặc, hóa đá, giảm sát thương về 0, cấm tích nộ, tê liệt). Khi tử vong bản thân Shanks sẽ được hồi sinh 100% sinh mệnh.",
+      "devilFruit": ""
+    },
+    "evolutionFrom": {
+      "name": "Shanks-S",
+      "heroId": null
+    },
+    "materials": [
+      {
+        "materialId": "lttShanksS2"
+      },
+      {
+        "materialId": "thebaiShanksS2"
+      },
+      {
+        "materialId": "gryphon"
+      },
+      {
+        "materialId": "batRuou"
       },
       {
         "materialId": "BiKiepHaki"
       }
     ]
   },
-    {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
+  {
+    "id": "Akainu_S2",
+    "name": "Akainu-S2",
+    "image": "./images/heroes/Akainu_S2.png",
     "note": "",
-    "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
-    },
+    "skills": {},
     "evolutionFrom": {
-      "name": "Buggy-H",
+      "name": "",
       "heroId": null
     },
-    "materials": [
-      {
-        "materialId": "ltt_buggy"
-      },
-      {
-        "materialId": "bara_bara"
-      },
-      {
-        "materialId": "cross_guild_badge"
-      },
-      {
-        "materialId": "BiKiepHaki"
-      }
-    ]
+    "materials": []
   },
-    {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
+  {
+    "id": "Aramaki_S",
+    "name": "Aramaki-S",
+    "image": "./images/heroes/Aramaki_S.png",
     "note": "",
-    "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
-    },
+    "skills": {},
     "evolutionFrom": {
-      "name": "Buggy-H",
+      "name": "",
       "heroId": null
     },
-    "materials": [
-      {
-        "materialId": "ltt_buggy"
-      },
-      {
-        "materialId": "bara_bara"
-      },
-      {
-        "materialId": "cross_guild_badge"
-      },
-      {
-        "materialId": "BiKiepHaki"
-      }
-    ]
+    "materials": []
   },
-    {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
+  {
+    "id": "Yassop_S",
+    "name": "Yasopp-S",
+    "image": "./images/heroes/Yassop_S.png",
     "note": "",
-    "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
-    },
+    "skills": {},
     "evolutionFrom": {
-      "name": "Buggy-H",
+      "name": "",
       "heroId": null
     },
-    "materials": [
-      {
-        "materialId": "ltt_buggy"
-      },
-      {
-        "materialId": "bara_bara"
-      },
-      {
-        "materialId": "cross_guild_badge"
-      },
-      {
-        "materialId": "BiKiepHaki"
-      }
-    ]
+    "materials": []
   },
-    {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
+  {
+    "id": "Daifuku_S",
+    "name": "Daifuku-S",
+    "image": "./images/heroes/Daifuku_S.png",
     "note": "",
-    "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
-    },
+    "skills": {},
     "evolutionFrom": {
-      "name": "Buggy-H",
+      "name": "",
       "heroId": null
     },
-    "materials": [
-      {
-        "materialId": "ltt_buggy"
-      },
-      {
-        "materialId": "bara_bara"
-      },
-      {
-        "materialId": "cross_guild_badge"
-      },
-      {
-        "materialId": "BiKiepHaki"
-      }
-    ]
+    "materials": []
   },
-    {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
+  {
+    "id": "Momonosuke_S",
+    "name": "Momonosuke-S",
+    "image": "./images/heroes/Momonosuke_S.png",
     "note": "",
-    "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
-    },
+    "skills": {},
     "evolutionFrom": {
-      "name": "Buggy-H",
+      "name": "",
       "heroId": null
     },
-    "materials": [
-      {
-        "materialId": "ltt_buggy"
-      },
-      {
-        "materialId": "bara_bara"
-      },
-      {
-        "materialId": "cross_guild_badge"
-      },
-      {
-        "materialId": "BiKiepHaki"
-      }
-    ]
+    "materials": []
   },
-    {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
+  {
+    "id": "Kaido_S",
+    "name": "Kaido-S",
+    "image": "./images/heroes/Kaido_S.png",
     "note": "",
-    "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
-    },
+    "skills": {},
     "evolutionFrom": {
-      "name": "Buggy-H",
+      "name": "",
       "heroId": null
     },
-    "materials": [
-      {
-        "materialId": "ltt_buggy"
-      },
-      {
-        "materialId": "bara_bara"
-      },
-      {
-        "materialId": "cross_guild_badge"
-      },
-      {
-        "materialId": "BiKiepHaki"
-      }
-    ]
+    "materials": []
   },
-    {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
+  {
+    "id": "Reiju_S",
+    "name": "Reiju-S",
+    "image": "./images/heroes/Reiju_S.png",
     "note": "",
-    "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
-    },
+    "skills": {},
     "evolutionFrom": {
-      "name": "Buggy-H",
+      "name": "",
       "heroId": null
     },
-    "materials": [
-      {
-        "materialId": "ltt_buggy"
-      },
-      {
-        "materialId": "bara_bara"
-      },
-      {
-        "materialId": "cross_guild_badge"
-      },
-      {
-        "materialId": "BiKiepHaki"
-      }
-    ]
+    "materials": []
   },
-    {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
+  {
+    "id": "Judge_S",
+    "name": "Judge-S",
+    "image": "./images/heroes/Judge_S.png",
     "note": "",
-    "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
-    },
+    "skills": {},
     "evolutionFrom": {
-      "name": "Buggy-H",
+      "name": "",
       "heroId": null
     },
-    "materials": [
-      {
-        "materialId": "ltt_buggy"
-      },
-      {
-        "materialId": "bara_bara"
-      },
-      {
-        "materialId": "cross_guild_badge"
-      },
-      {
-        "materialId": "BiKiepHaki"
-      }
-    ]
+    "materials": []
   },
-    {
-    "id": "Buggy_S",
-    "name": "Buggy-S",
-    "image": "./images/heroes/Buggy_s.png",
+  {
+    "id": "Cracker_S",
+    "name": "Cracker-S",
+    "image": "./images/heroes/Cracker_S.png",
     "note": "",
-    "skills": {
-      "basicAttack": "[MC] Bara Bara Festival: Phân tách các bộ phận của bản thân tấn công lên toàn bộ mục tiêu và buff cho bản thân hiệu quả Phân Tách 1 lượt (Phân Tách: Vách sắt, Miễn dịch phong ấn trị liệu, trấn áp,  hộ thân giảm 30% tỷ lệ nhận hiệu ứng (không thể cộng dồn), miễn sát thương đánh nộ, tận lực). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 4 hiệu quả lên mục tiêu 1 lượt : Xóa miễn dịch trấn áp, trấn áp, xóa miễn dịch choáng, choáng (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 4). Lần 3, tấn công toàn bộ mục tiêu tương đương 20% máu tối đa, Buggy sẽ có tỷ lệ buff ngẫu nhiên 2 đồng đội (bao gồm bản thân) hiệu quả vô địch Mũi Đỏ 1 lượt (Mũi Đỏ: GHM tăng lên 7%, hồi 30% lượng máu tối đa, hồi 50 nộ, khi bị tấn công thường có tỷ lệ khiến mục tiêu bị cấm hồi sinh 1 lượt). Cuối cùng, Buggy gây 1 lần sát thương tương đương 25% lượng máu tối đa lên mục tiêu hình chữ X và chắc chắn khiến mục tiêu bị cấm tích nộ, trầm mặc, nhụt chí giảm 40 nộ, hỗn loạn, hóa đá 1 lượt  đồng thời xóa toàn đội 1 số hiệu quả bất lợi đang có trên bản thân (Xóa: Choáng, Vĩnh hằng, đóng băng, cấm tích nộ, nhụt chí, giảm sát thương về 0, hoảng sợ). Hồi đồng đội 35 nộ khí, bản thân hồi 40 nộ khí ",
-      "ultimate": "[MC] Bara Bara Muggy Ball: Thức tỉnh năng lực trái ác quỷ, Buggy tấn công toàn bộ mục tiêu và khiến toàn bộ đồng đội rơi vào hiệu quả Phân Tách 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ gây ngẫu nhiên 5 hiệu quả lên mục tiêu 1 lượt: Hoảng sợ cần thêm 50 nộ để nộ, nhụt chí giảm 100 nộ, mê hoặc, độc, đốt cháy giảm 20% lượng máu tối đa (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 5). Tiếp tục thêm 1 lần sát thương tương đương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời buff cho Bản thân kèm ngẫu nhiên 1 đồng đội hiệu quả Mũi Đỏ 1 lượt. Lần 4, Buggy sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang có lượng máu dưới 50% thì Buggy sẽ buff cho mục tiêu đó hiệu quả Chúa Hề 1 lượt (Chúa Hề: Sau khi kết thúc đòn tấn công sẽ ngẫu nhiên buff 25% lượng máu tối đa, 30 nộ lên ngẫu nhiên 1 mục tiêu kẻ địch). Tiếp theo, Buggy tung đòn đánh cực mạnh 20.000.000 sát thương nguyên tố phong lên mục tiêu trước mặt và khiến mục tiêu đó bị xóa bỏ hiệu quả khiên miễn dịch thiên phú và miễn dịch từ trái (hiệu quả 1 lần cả trận). Cuối cùng, Buggy buff toàn đội hiệu quả miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: Choáng, cấm tích nộ, trầm mặc, mê hoặc, hỗn loạn, độc, đốt cháy, đóng băng, giảm sát thương về 0, hóa đá, miễn giảm nộ, xóa nhụt chí). Hồi đồng đội 40 nộ khí, bản thân hồi 100 nộ khí.",
-      "talent": "Haki Gió Vương\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, phong ấn trị liệu, trầm mặc, mê hoặc, độc, trấn áp, hoảng sợ, suy kiệt, mộng cảnh). Miễn dịch vĩnh viễn Choáng, cấm tích nộ, hỗn loạn, vĩnh hằng, đóng băng. Mỗi lần hành động bản thân sẽ hồi 25% lượng máu tối đa\n\nCấp 3: Trí lực+5%, Stdt +10%\n\nCấp 5: MC +10%, S.thương đánh nộ +10%\n\nCấp 7: Đánh nộ Buggy sẽ xét xem nếu mục tiêu nào đang hính hiệu quả Song Sát thì Buggy sẽ khiến mục tiêu đó tiếp tục dính hiệu quả Song Sát trong 2 lượt. Ra trận buff bản thân và đồng đội có lượng máu thấp nhất hiệu quả hồi sinh 100% máu. Khi gặp sát thương chí tử Buggy sẽ không tử vong ngay lập tức mà thay vào đó hồi lại cho bản thân 100% máu. Lượt đánh là bội số 2, sau khi kết thúc đòn đánhh Buggy sẽ khiến bản thân tiến vào trạng thái không thể nhận sát thương đánh thường và nộ trong 1 lượt (hiệu quả tối đa 3 lần, không thể nhận hiệu ứng từ đồng đội). Từ lượt thứ 3 trở đi, mỗi lần hành động Buggy có tỷ lệ thấp buff bản thân hiệu quả 5% GHM trong 1 lượt ",
-      "devilFruit": "[Trái Bara Bara] Trái ác quỷ giúp chủ sở hữu tách các bộ phận cơ thể của mình và điều khiển chúng độc lập với nhau, miễn nhiễn vào các đòn đánh vật lý. Mỗi lần hành động bản thân có tỷ lệ 0%(mỗi cấp +1%) xóa hiệu quả miễn dịch lên mục tiêu hình chữ thập (Xóa: cấm tích nộ, trầm mặc, độc, đốt cháy, hỗn loạn, hóa đá). Mỗi lần hành động có tỷ lệ 0%( mỗi cấp +10%) buff cho toàn đội hiệu quả khiên miễn dịch VC,TC, hồi 25% lượng máu tối đa 2 lượt. Đánh thường và nộ sẽ chắc chắn gây hiệu quả Vĩnh hằng lên mục tiêu trong 1 lượt."
-    },
+    "skills": {},
     "evolutionFrom": {
-      "name": "Buggy-H",
+      "name": "",
       "heroId": null
     },
-    "materials": [
-      {
-        "materialId": "ltt_buggy"
-      },
-      {
-        "materialId": "bara_bara"
-      },
-      {
-        "materialId": "cross_guild_badge"
-      },
-      {
-        "materialId": "BiKiepHaki"
-      }
-    ]
+    "materials": []
+  },
+  {
+    "id": "Ichiji_S",
+    "name": "Ichiji-S",
+    "image": "./images/heroes/Ichiji_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Bigmom_S",
+    "name": "Bigmom-S",
+    "image": "./images/heroes/Bigmom_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Nami_S3",
+    "name": "Nami-S3",
+    "image": "./images/heroes/Nami_S3.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Enel_S",
+    "name": "Enel-S",
+    "image": "./images/heroes/Enel_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Sabo_S2",
+    "name": "Sabo-S2",
+    "image": "./images/heroes/Sabo_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Boa_S2",
+    "name": "Boa-S2",
+    "image": "./images/heroes/Boa_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Law_S2",
+    "name": "Law-S2",
+    "image": "./images/heroes/Law_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Zoro_S2",
+    "name": "Zoro-S2",
+    "image": "./images/heroes/Zoro_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Franky_S2",
+    "name": "Franky-S2",
+    "image": "./images/heroes/Franky_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Ussop_S2",
+    "name": "Usopp-S2",
+    "image": "./images/heroes/Ussop_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "King_S",
+    "name": "King-S",
+    "image": "./images/heroes/King_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Brook_S2",
+    "name": "Brook-S2",
+    "image": "./images/heroes/Brook_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Robin_S2",
+    "name": "Robin-S2",
+    "image": "./images/heroes/Robin_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Uta_S",
+    "name": "Uta-S",
+    "image": "./images/heroes/Uta_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Yamato_S2",
+    "name": "Yamato-S2",
+    "image": "./images/heroes/Yamato_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Jinbe_S2",
+    "name": "Jinbei-S2",
+    "image": "./images/heroes/Jinbe_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Sanji_S2",
+    "name": "Sanji-S2",
+    "image": "./images/heroes/Sanji_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Chopper_S2",
+    "name": "Chopper-S2",
+    "image": "./images/heroes/Chopper_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Tesoro_S",
+    "name": "Tesoro-S",
+    "image": "./images/heroes/Tesoro_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Mihawk_S2",
+    "name": "Mihawk-S2",
+    "image": "./images/heroes/Mihawk_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Ace_S2",
+    "name": "Ace-S2",
+    "image": "./images/heroes/Ace_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Oden_S",
+    "name": "Oden-S",
+    "image": "./images/heroes/Oden_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Luffy_SM",
+    "name": "Luffy-SM",
+    "image": "./images/heroes/Luffy_SM.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Nami_S2",
+    "name": "Nami-S2",
+    "image": "./images/heroes/Nami_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Queen_S",
+    "name": "Queen-S",
+    "image": "./images/heroes/Queen_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Killer_S",
+    "name": "Killer-S",
+    "image": "./images/heroes/Killer_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Marco_S",
+    "name": "Marco-S",
+    "image": "./images/heroes/Marco_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Robin_S",
+    "name": "Nico Robin-S",
+    "image": "./images/heroes/Robin_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Jinbe_S",
+    "name": "Jinbe-S",
+    "image": "./images/heroes/Jinbe_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Jack_S",
+    "name": "Jack-S",
+    "image": "./images/heroes/Jack_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Lucci_S",
+    "name": "Lucci-S",
+    "image": "./images/heroes/Lucci_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Kizaru_S",
+    "name": "Kizaru-S",
+    "image": "./images/heroes/Kizaru_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Hitestu_S",
+    "name": "Hitetsu-S",
+    "image": "./images/heroes/Hitestu_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Benbeckman_S",
+    "name": "Benn Beckman-S",
+    "image": "./images/heroes/Benbeckman_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
   }
 ]

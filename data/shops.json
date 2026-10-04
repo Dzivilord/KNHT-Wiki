@@ -69,5 +69,29 @@
     "description": "Shop này khá tương đồng với shop tranh bá trên biển. Đây là 1 trong 2 shop chủ yếu để đổi các vật phẩm cho các vị tướng tầm trung không phải siêu tướng. Shop này sử dụng điểm chiến công để đổi vật phẩm",
     "link": null,
     "infoImages": []
+  },
+    {
+    "id": "CuongHoa",
+    "name": "Shop cường hoá",
+    "images": ["images/Information/CuongHoaShop.png"],
+    "description": "Đây là nơi chính để ghép nhiều loại vật phẩm khác nhau. Shop này nằm tại tính năng cường hoá/ Ghép vật phẩm",
+    "link": null,
+    "infoImages": []
+  },
+  {
+    "id": "OnigashimaShop",
+    "name": "Shop Onigashima",
+    "images": ["images/Information/OniShop.png"],
+    "description": "Shop Onigashima sử dụng điểm oni để đổi các vật phẩm- Lưu ý hoạt động này liên quan tới 2 loại điểm là chiến ý và Onigashima, tránh nhẫm lẫn",
+    "link": null,
+    "infoImages": []
+  },
+  {
+    "id": "DQST",
+    "name": "Đặc quyền siêu tướng",
+    "images": ["images/Information/DQST.png"],
+    "description": "Đặc quyền siêu tướng là tính năng tri ân số lượng siêu tướng của người chơi. Mỗi siêu tướng khác nhau sẽ mang lại đặc quyền nhận các phần quà đặc biệt khác nhau.\n\n Có 3 loại phần quà bao gồm: quà nhận 1 lần duy nhất, quà mua số lượng vô hạn bằng vàng và quà nhận vô hạn hằng ngày. \n\n Người chơi có tối đa 3 lượt nhận hằng ngày và sẽ reset hằng ngày bao gồm Vip13 +1 lần, Vip14 +1 lần, Sở hữu 10 siêu tướng +1 lần",
+    "link": null,
+    "infoImages": ["images/Information/DQST1.png","images/Information/DQST2.png"]
   }
 ]

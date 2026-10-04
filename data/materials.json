@@ -3,18 +3,28 @@
     "id": "ltt_buggy",
     "name": "LTT Yonko Buggy",
     "images": [
-      "./images/materials/BuggyYonko/lttBuggy.png"
+      "./images/materials/BuggyYonko_S/lttBuggy.png"
     ],
     "description": "",
-    "farmSources": [],
-    "exchangeMaterials": [
+    "infoImages": [],
+    "exchangeShops": [
       {
-        "materialId": "road_poneglyphs",
-        "amount": 5
-      },
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "Onigashima"
+      }
+    ],
+    "exchangeMaterials": [
       {
         "materialId": "bara_bara",
         "amount": 1
+      },
+      {
+        "materialId": "road_poneglyphs",
+        "amount": 5
       },
       {
         "materialId": "government_seal",
@@ -24,32 +34,15 @@
         "materialId": "universal_coin",
         "amount": 20000
       }
-    ],
-    "infoImages": [],
-    "exchangeShops": [
-      {
-        "shopId": "gift_exchange_center"
-      }
     ]
   },
   {
     "id": "bara_bara",
     "name": "Trái Bara Bara",
     "images": [
-      "./images/materials/BuggyYonko/barabara.png"
+      "./images/materials/BuggyYonko_S/barabara.png"
     ],
     "description": "",
-    "farmSources": [],
-    "exchangeMaterials": [
-      {
-        "materialId": "Wano_point",
-        "amount": null
-      },
-      {
-        "materialId": "chieuMo_point",
-        "amount": null
-      }
-    ],
     "infoImages": [],
     "exchangeShops": [
       {
@@ -58,23 +51,34 @@
       {
         "shopId": "CAM_shop"
       }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 15000000
+      },
+      {
+        "materialId": "Wano_point",
+        "amount": 1500000
+      }
     ]
   },
   {
     "id": "cross_guild_badge",
     "name": "Huy Hiệu Cross Guild",
     "images": [
-      "./images/materials/BuggyYonko/crossGuild.png"
+      "./images/materials/BuggyYonko_S/crossGuild.png"
     ],
     "description": "Vật phẩm lấy được trong các sự kiện đặc biệt. Tham khảo thông tin sự kiện đặc biệt tại #✍️hướng-dẫn-tính-năng  trên discord",
-    "farmSources": [],
-    "exchangeMaterials": [],
     "infoImages": [],
     "exchangeShops": [
       {
         "shopId": "big_event"
       }
-    ]
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
   },
   {
     "id": "road_poneglyphs",
@@ -204,6 +208,181 @@
       },
       {
         "farmSourceId": "LeBaoThoiHan",
+        "amount": null
+      }
+    ],
+    "exchangeMaterials": [],
+    "infoImages": [],
+    "exchangeShops": []
+  },
+  {
+    "id": "oniPoint",
+    "name": "Điểm Oni",
+    "images": [
+      "./images/materials/Basics/oniPoint.png"
+    ],
+    "description": "Điểm oni hiện chỉ có thể lấy qua top 1 sự kiện Onigashima",
+    "infoImages": [],
+    "exchangeShops": [],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "TheBaiHaiTac",
+    "name": "Thẻ Bài Hải Tặc",
+    "images": [
+      "./images/materials/Basics/TheBai.png"
+    ],
+    "description": "Thẻ Bài Hải Tặc là nguyên liệu đặc biệt để chiêu mộ một số tướng",
+    "infoImages": [
+      "./images/materials/Basics/RuongTheBai.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "DQST"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "PhanHoiSieuLon"
+      },
+      {
+        "sourceId": "TrungTamTheBai"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "KetTinhBangHoa",
+    "name": "Kết Tinh Băng Hoả",
+    "images": [
+      "./images/materials/Basics/ketTinhBangHoa.png"
+    ],
+    "description": "Kết tinh băng hoả là nguyên liệu đặc biệt để chiêu mộ/ tiến hoá một số siêu tướng",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      },
+      {
+        "shopId": "DQST"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "PunkHazard"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "chienCong_point",
+    "name": "Điểm chiến công",
+    "images": [
+      "./images/materials/Basics/chienCongPoint.png"
+    ],
+    "description": "Điểm chiến công dùng để đổi các vật phẩm trong shop colosseum. Điểm có thể được khai thác ở rất nhiều nguồn khác nhau",
+    "farmSources": [
+      {
+        "farmSourceId": "NhaXuongVegapunk",
+        "amount": null
+      },
+      {
+        "farmSourceId": "grandline",
+        "amount": null
+      },
+      {
+        "farmSourceId": "TinhLinh",
+        "amount": null
+      },
+      {
+        "farmSourceId": "TamBaoChien",
+        "amount": null
+      },
+      {
+        "farmSourceId": "PhanHoiSieuLon",
+        "amount": null
+      },
+      {
+        "farmSourceId": "TichLuyTieuHao",
+        "amount": null
+      },
+      {
+        "farmSourceId": "HTTT",
+        "amount": null
+      }
+    ],
+    "exchangeMaterials": [],
+    "infoImages": [],
+    "exchangeShops": []
+  },
+  {
+    "id": "CongHuan_point",
+    "name": "Điểm công huân",
+    "images": [
+      "./images/materials/Basics/congHuanPoint.png"
+    ],
+    "description": "Điểm công huân dùng để đổi các vật phẩm trong shop colosseum. Điểm có thể được khai thác ở rất nhiều nguồn khác nhau",
+    "farmSources": [
+      {
+        "farmSourceId": "NhaXuongVegapunk",
+        "amount": null
+      },
+      {
+        "farmSourceId": "grandline",
+        "amount": null
+      },
+      {
+        "farmSourceId": "TinhLinh",
+        "amount": null
+      },
+      {
+        "farmSourceId": "TamBaoChien",
+        "amount": null
+      },
+      {
+        "farmSourceId": "PhanHoiSieuLon",
+        "amount": null
+      },
+      {
+        "farmSourceId": "TichLuyTieuHao",
+        "amount": null
+      },
+      {
+        "farmSourceId": "HTTT",
+        "amount": null
+      }
+    ],
+    "exchangeMaterials": [],
+    "infoImages": [],
+    "exchangeShops": []
+  },
+  {
+    "id": "PhienPoneglyphs",
+    "name": "Phiến Poneglyph",
+    "images": [
+      "./images/materials/Basics/Poneglyph.png"
+    ],
+    "description": "Một trong những vật phẩm cực quan trọng để chiêu mộ/ tiến hoá tướng tầm trung.",
+    "farmSources": [
+      {
+        "farmSourceId": "TinhLinh",
+        "amount": null
+      },
+      {
+        "farmSourceId": "TamBaoChien",
+        "amount": null
+      },
+      {
+        "farmSourceId": "PhanHoiSieuLon",
+        "amount": null
+      },
+      {
+        "farmSourceId": "Uta",
+        "amount": null
+      },
+      {
+        "farmSourceId": "Big Event Hộp 10",
         "amount": null
       }
     ],
@@ -387,9 +566,8 @@
       }
     ],
     "exchangeMaterials": [],
-    "infoImages": [
-    ],
-    "exchangeShops": [      
+    "infoImages": [],
+    "exchangeShops": [
       {
         "shopId": "gift_exchange_center"
       },
@@ -412,5 +590,602 @@
         "shopId": "TauChien"
       }
     ]
+  },
+  {
+    "id": "coTocKozuki",
+    "name": "Cờ Tộc Kozuki",
+    "images": [
+      "./images/materials/Hiyori_S/coTocKozuki.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Hiyori_S/coTocKozuki1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "universal_coin",
+        "amount": 800
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 400
+      }
+    ]
+  },
+  {
+    "id": "lttHiyori",
+    "name": "Lệnh treo thưởng Hiyori",
+    "images": [
+      "./images/materials/Hiyori_S/lttHiyori.png",
+      "./images/materials/Hiyori_S/HiyoriAll.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Hiyori_S/lttHiyori1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "shamishenBiwa",
+        "amount": 1
+      },
+      {
+        "materialId": "ngocChiemTinh",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "id": "shamishenBiwa",
+    "name": "Đàn Shamisen Biwa",
+    "images": [
+      "./images/materials/Hiyori_S/shamisenBiwa.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Hiyori_S/shamisenBiwa1.png",
+      "./images/materials/Hiyori_S/shamisenBiwa2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 700000
+      },
+      {
+        "materialId": "chienCong_point",
+        "amount": 1000000
+      }
+    ]
+  },
+  {
+    "id": "ngocChiemTinh",
+    "name": "Ngọc Chiêm Tinh",
+    "images": [
+      "./images/materials/Basics/ngocChiemTinh.png"
+    ],
+    "description": "Ngọc chiêm tinh là một trong những vật phẩm quan trọng để tiến hoá tướng thường. Ngọc chiêm tinh có thể được khai thác từ nhiều nguồn khác nhau",
+    "farmSources": [
+      {
+        "farmSourceId": "grandline"
+      },
+      {
+        "farmSourceId": "TamBaoChien"
+      },
+      {
+        "farmSourceId": "NhatKyHanhTrinh"
+      },
+      {
+        "farmSourceId": "PhucLoiLeTet"
+      }
+    ],
+    "exchangeMaterials": [],
+    "infoImages": [],
+    "exchangeShops": []
+  },
+  {
+    "id": "lttXDrake",
+    "name": "Lệnh Triệu Tập X Drake",
+    "images": [
+      "./images/materials/XDrake_S/lttXDrake.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/XDrake_S/lttXDrake1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "universal_coin",
+        "amount": 800
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 400
+      },
+      {
+        "materialId": "MuXDrake",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "TraiAllosaurus",
+    "name": "Trái Allosaurus",
+    "images": [
+      "./images/materials/XDrake_S/Allo.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/XDrake_S/Allo1.png",
+      "./images/materials/XDrake_S/Allo2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 1000000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 1000000
+      }
+    ]
+  },
+  {
+    "id": "MuXDrake",
+    "name": "Mũ XDrake",
+    "images": [
+      "./images/materials/XDrake_S/MuXDrake.png"
+    ],
+    "description": "Grandline Map 9.",
+    "infoImages": [
+      "./images/materials/XDrake_S/MuXDrake1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      },
+      {
+        "sourceId": "CayAcMa"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttDenjiro",
+    "name": "Lệnh Treo Thưởng Denjiro",
+    "images": [
+      "./images/materials/Denjiro_S/lttDenjiro.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Denjiro_S/lttDenjiro1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "ngocChiemTinh",
+        "amount": 500
+      },
+      {
+        "materialId": "KiemDenjiro",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "TheBaiDenjiro",
+    "name": "Thẻ Samurai Denjiro",
+    "images": [
+      "./images/materials/Denjiro_S/theDenjiro.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Denjiro_S/theDenjiro1.png",
+      "./images/materials/Denjiro_S/theDenjiro2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 1000000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 1000000
+      }
+    ]
+  },
+  {
+    "id": "KiemDenjiro",
+    "name": "Kiếm Denjiro",
+    "images": [
+      "./images/materials/Denjiro_S/kiemDenjiro.png"
+    ],
+    "description": "Farm tại Grandline map 9 hoặc sử dụng điểm tích luỹ đua CAM để đổi mảnh.",
+    "infoImages": [],
+    "exchangeShops": [],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      },
+      {
+        "sourceId": "CayAcMa"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttSaturn",
+    "name": "Lệnh Triệu Tập Saturn",
+    "images": [
+      "./images/materials/Saturn_S/lttSaturn.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Saturn_S/lttSaturn1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "road_poneglyphs",
+        "amount": 5
+      },
+      {
+        "materialId": "universal_coin",
+        "amount": 20000
+      },
+      {
+        "materialId": "aoChoangSaturn",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "gayApLinhSaturn",
+    "name": "Gậy Áp Linh Saturn",
+    "images": [
+      "./images/materials/Saturn_S/gayApLinhSaturn.png"
+    ],
+    "description": "",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "traiUshiOni",
+    "name": "Trái Ushi Oni",
+    "images": [
+      "./images/materials/Saturn_S/traiUshiOni.png"
+    ],
+    "description": "Vật phẩm đặc biệt để chiêu mộ Saturn. Hiện tại chỉ có thể lấy qua hoạt động đua Onigashima (lưu ý điểm oni không phải điểm chiến ý), hoặc lên siêu tướng Garp-S2 để lấy được 50 mảnh qua đặc quyền siêu tướng.",
+    "infoImages": [
+      "./images/materials/Saturn_S/traiUshiOni1.png",
+      "./images/materials/Saturn_S/traiUshiOni2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "OnigashimaShop"
+      },
+      {
+        "shopId": "DQST"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "oniPoint",
+        "amount": 150000
+      }
+    ]
+  },
+  {
+    "id": "aoChoangSaturn",
+    "name": "Áo Choàng Saturn",
+    "images": [
+      "./images/materials/Saturn_S/aoChoangSaturn.png"
+    ],
+    "description": "",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 1500000
+      },
+      {
+        "materialId": "Wano_point",
+        "amount": 1500000
+      }
+    ]
+  },
+  {
+    "id": "lttRayleighS2",
+    "name": "Lệnh Triệu Tập RayleighS2",
+    "images": [
+      "./images/materials/Rayleigh_S2/lttRayleigh.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Rayleigh_S2/lttRayleigh1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "road_poneglyphs",
+        "amount": 5
+      },
+      {
+        "materialId": "universal_coin",
+        "amount": 20000
+      },
+      {
+        "materialId": "theSilverRayleigh",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "theSilverRayleigh",
+    "name": "thẻ Silver Rayleigh",
+    "images": [
+      "./images/materials/Rayleigh_S2/theSilverRayleigh.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Rayleigh_S2/theSilverRayleigh1.png",
+      "./images/materials/Rayleigh_S2/theSilverRayleigh2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 1500000
+      },
+      {
+        "materialId": "Wano_point",
+        "amount": 1500000
+      }
+    ]
+  },
+  {
+    "id": "nhatKyRayLeigh",
+    "name": "Nhật Ký Rayleigh",
+    "images": [
+      "./images/materials/Rayleigh_S2/nhatKyRayleigh.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Rayleigh_S2/nhatKyRayleigh1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "government_seal",
+        "amount": 7
+      },
+      {
+        "materialId": "KetTinhBangHoa",
+        "amount": 500
+      },
+      {
+        "materialId": "coBangHaiTacRoger",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "coBangHaiTacRoger",
+    "name": "Cờ Băng Hải Tặc Roger",
+    "images": [
+      "./images/materials/Rayleigh_S2/coBangHaiTacRoger.png"
+    ],
+    "description": "",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "ByKiepHaki",
+    "name": "ByKiepHaki",
+    "images": [],
+    "description": "",
+    "infoImages": [],
+    "farmSources": [],
+    "exchangeShops": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttShanksS2",
+    "name": "Lệnh Triệu Tập Shanks-S2",
+    "images": [
+      "./images/materials/Shanks_S2/lttShanks.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Shanks_S2/lttShanks1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "road_poneglyphs",
+        "amount": 4
+      },
+      {
+        "materialId": "universal_coin",
+        "amount": 20000
+      },
+      {
+        "materialId": "thebaiShanksS2",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "thebaiShanksS2",
+    "name": "Thẻ Bài Shanks-S2",
+    "images": [
+      "./images/materials/Shanks_S2/theBaiShanks.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Shanks_S2/theBaiShanks1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 1500000
+      }
+    ]
+  },
+  {
+    "id": "gryphon",
+    "name": "Đại bảo kiếm Gryphon",
+    "images": [
+      "./images/materials/Shanks_S2/Gryphon.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Shanks_S2/Gryphon1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "government_seal",
+        "amount": 6
+      },
+      {
+        "materialId": "TheBaiHaiTac",
+        "amount": 3000
+      },
+      {
+        "materialId": "batRuou",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "batRuou",
+    "name": "Bát rượu của Shanks-S2",
+    "images": [
+      "./images/materials/Shanks_S2/batRuou.png"
+    ],
+    "description": "",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
   }
 ]

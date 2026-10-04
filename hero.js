@@ -16,8 +16,9 @@ function getShop(shopId) {
 }
 
 function getFarmSource(ref) {
+  const sourceId = ref.farmSourceId || ref.sourceId;
   return {
-    ...(farmSourcesById.get(ref.farmSourceId) || { name: ref.farmSourceId }),
+    ...(farmSourcesById.get(sourceId) || { name: sourceId }),
     amount: ref.amount
   };
 }
@@ -42,18 +43,23 @@ function renderOptionalLink(item) {
 
 function renderEvolution(hero) {
   const evo = hero.evolutionFrom;
+  const note = hero.note && String(hero.note).trim()
+    ? `<div class="hero-note-box"><div class="hero-meta-label">Thông tin bổ sung</div><p class="hero-note">${safe(hero.note)}</p></div>`
+    : "";
+  const noteImages = (hero.noteImages || []).filter(Boolean);
+  const images = noteImages.length
+    ? `<div class="hero-note-images">${noteImages.map(src => `<img src="${src}" alt="${safe(hero.name)}">`).join("")}</div>`
+    : "";
 
   if (!evo || !evo.name) {
-    return hero.note
-      ? `<p class="hero-note">${hero.note}</p>`
-      : `<p class="hero-note">Thông tin tướng sẽ được bổ sung dần.</p>`;
+    return `${note}${images}`;
   }
 
   const target = evo.heroId
     ? `<a class="wiki-link" href="./hero.html?id=${encodeURIComponent(evo.heroId)}">${evo.name}</a>`
     : `<span>${evo.name}</span>`;
 
-  return `<p class="hero-note">Tiến hoá từ ${target}</p>`;
+  return `<div class="hero-evolution-box"><div class="hero-meta-label">Tiến hoá từ</div><p class="hero-note">${target}</p></div>${note}${images}`;
 }
 
 function renderFarmSources(sources) {
@@ -511,11 +517,16 @@ function renderMainMaterials(hero) {
         </div>
 
         ${
-          material.description
+          (material.description && String(material.description).trim()) ||
+          (material.infoImages && material.infoImages.length)
             ? `
               <div class="material-subsection">
                 <div class="sub-label">Thông tin</div>
-                <p class="material-description">${material.description}</p>
+                ${
+                  material.description && String(material.description).trim()
+                    ? `<p class="material-description">${material.description}</p>`
+                    : ""
+                }
                 ${renderInfoImages(material)}
               </div>
             `
@@ -584,6 +595,7 @@ async function loadHero() {
   const skills = [
     ["Đánh thường", hero.skills?.basicAttack],
     ["Đánh nộ", hero.skills?.ultimate],
+    ["Kĩ năng nộ đặc biệt", hero.skills?.specialUltimate],
     ["Thiên phú", hero.skills?.talent],
     ["Trái ác quỷ", hero.skills?.devilFruit]
   ];

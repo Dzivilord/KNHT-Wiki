@@ -154,5 +154,37 @@
     "images": ["./images/Information/PhucLoiLeTet.png"],
     "infoImages": [],
     "link": null
+  },
+  {
+    "id": "TichLuyTieuHao",
+    "name": "Tích Luỹ Tiêu Hao",
+    "description": "Tiêu vàng đạt mốc để nhận thưởng",
+    "images": ["./images/Information/TichLuyTieuHao.png"],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "Onigashima",
+    "name": "Tiến Công Onigashima",
+    "images": [],
+    "description": "Hoạt động Onigashima",
+    "link": null,
+    "infoImages": ["images/materials/Basics/Onigashima.png"]
+  },
+  {
+    "id": "TrungTamTheBai",
+    "name": "Trung Tâm Thẻ Bài",
+    "images": [],
+    "description": "Hoạt động trung tâm thẻ bài. Sử dụng các vị tướng được mở và tiến hoá để leo hạng",
+    "link": null,
+    "infoImages": ["./images/Information/TheBaiShop.png"]
+  },
+  {
+    "id": "PunkHazard",
+    "name": "Đấu Trường Punk Hazard",
+    "images": [],
+    "description": "Đấu trường liên server tập thể- Công hội chiến nhưng đông hơn",
+    "link": null,
+    "infoImages": ["images/Information/PunkHazard.png"]
   }
 ]
