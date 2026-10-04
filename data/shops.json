@@ -1,0 +1,73 @@
+[
+  {
+    "id": "gift_exchange_center",
+    "name": "Trung Tâm Đổi Quà",
+    "images": ["./images/Information/trungTamDoiQua.png"],
+    "description": "Nơi chứa nhiều nguồn quy đổi vật phẩm bao gồm nguyên liệu tướng, tướng, trái ác quỷ, tinh bàn, phổ main",
+    "link": null,
+    "infoImages": []
+  },
+  {
+    "id": "wano_shop",
+    "name": "Shop Wano",
+    "images": ["./images/Information/wanoShop.png"],
+    "description": "Shop wano được sử dụng tại level 150 nằm tại phần hoạt động. Shop wano chứa nhiều vật phẩm nguyên liệu tướng, sử dụng điểm wano để đổi các vật phẩm trong shop. ",
+    "link": null,
+    "infoImages": ["./images/Information/hoatDong.png"]
+  },
+  {
+    "id": "CAM_shop",
+    "name": "Shop Cam",
+    "images": ["./images/Information/CAMShop.png"],
+    "description": "Shop này sử dụng điểm chiêu mộ và điểm tích luỹ khi tham gia cống vật phẩm cho CAM để đổi vật liệu tướng. Cân nhắc sử dụng shop này vì đây là nguồn chính để đua sự kiện cây ác ma",
+    "link": null,
+    "infoImages": ["./images/Information/hoatDong.png"]
+  },
+  {
+    "id": "big_event",
+    "name": "Event Đặc Biệt - Big Event",
+    "images": [],
+    "description": "Các sự kiện đặc biệt vào các ngày lễ Tết/ 30.4/ 2.9/ Sinh nhật (26/11)/ Noel... là thời gian để lấy các vật phẩm đặc biệt gọi là key để lên siêu tướng, tham khảo chi tiết hơn tại #hướng dẫn tính năng-discord",
+    "link": null,
+    "infoImages": ["images/materials/Basics/Key.png"]
+  },  {
+    "id": "TomWorker",
+    "name": "TomWorker",
+    "images": ["./images/Information/TomWorkerShop.png"],
+    "description": "Shop này sử dụng điểm chế đồ",
+    "link": null,
+    "infoImages": []
+  },
+    {
+    "id": "TamBao",
+    "name": "Shop Tầm Bảo",
+    "images": ["./images/Information/TamBaoShop.png"],
+    "description": "",
+    "link": null,
+    "infoImages": []
+  },
+  {
+    "id": "StrongWorld",
+    "name": "Shop StrongWorld",
+    "images": ["images/materials/Information/StrongWorldShop.png"],
+    "description": "",
+    "link": null,
+    "infoImages": []
+  },
+    {
+    "id": "TauChien",
+    "name": "Shop tranh bá trên biển",
+    "images": ["images/Information/TranhBaTrenBienShop.png"],
+    "description": "Shop này khá tương đồng với shop colosseum. Đây là 1 trong 2 shop chủ yếu để đổi các vật phẩm cho các vị tướng tầm trung không phải siêu tướng. Shop này sử dụng điểm công huân để đổi vật phẩm",
+    "link": null,
+    "infoImages": []
+  },
+    {
+    "id": "Colosseum",
+    "name": "Shop colosseum",
+    "images": ["images/Information/ColosseumShop.png"],
+    "description": "Shop này khá tương đồng với shop tranh bá trên biển. Đây là 1 trong 2 shop chủ yếu để đổi các vật phẩm cho các vị tướng tầm trung không phải siêu tướng. Shop này sử dụng điểm chiến công để đổi vật phẩm",
+    "link": null,
+    "infoImages": []
+  }
+]

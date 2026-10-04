@@ -1,0 +1,416 @@
+[
+  {
+    "id": "ltt_buggy",
+    "name": "LTT Yonko Buggy",
+    "images": [
+      "./images/materials/BuggyYonko/lttBuggy.png"
+    ],
+    "description": "",
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "road_poneglyphs",
+        "amount": 5
+      },
+      {
+        "materialId": "bara_bara",
+        "amount": 1
+      },
+      {
+        "materialId": "government_seal",
+        "amount": 7
+      },
+      {
+        "materialId": "universal_coin",
+        "amount": 20000
+      }
+    ],
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ]
+  },
+  {
+    "id": "bara_bara",
+    "name": "Trái Bara Bara",
+    "images": [
+      "./images/materials/BuggyYonko/barabara.png"
+    ],
+    "description": "",
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": null
+      },
+      {
+        "materialId": "chieuMo_point",
+        "amount": null
+      }
+    ],
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ]
+  },
+  {
+    "id": "cross_guild_badge",
+    "name": "Huy Hiệu Cross Guild",
+    "images": [
+      "./images/materials/BuggyYonko/crossGuild.png"
+    ],
+    "description": "Vật phẩm lấy được trong các sự kiện đặc biệt. Tham khảo thông tin sự kiện đặc biệt tại #✍️hướng-dẫn-tính-năng  trên discord",
+    "farmSources": [],
+    "exchangeMaterials": [],
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ]
+  },
+  {
+    "id": "road_poneglyphs",
+    "name": "Road Poneglyphs",
+    "images": [
+      "./images/materials/Basics/roadPoneglyphs.png"
+    ],
+    "description": "Vật phẩm tổng hợp từ các nguyên liệu đại hải trình. Bao gồm 3000 la bàn, 4000 vivre card và 5000 cờ hải tặc",
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "log_pose",
+        "amount": 3000
+      },
+      {
+        "materialId": "vivre_card",
+        "amount": 4000
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 5000
+      }
+    ],
+    "infoImages": [
+      "./images/Information/roadPoneglyphsExchange.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ]
+  },
+  {
+    "id": "government_seal",
+    "name": "Con Dấu Chính Phủ",
+    "images": [
+      "./images/materials/Basics/conDauChinhPhu.png"
+    ],
+    "description": "Vật phẩm ghép lệnh triệu tập của một số siêu tướng từ sau Uta trở đi. Thông thường sễ là rào cản để tránh người chơi skip tướng vì kiếm rất khó",
+    "farmSources": [
+      {
+        "farmSourceId": "grandline",
+        "amount": null
+      },
+      {
+        "farmSourceId": "Uta",
+        "amount": null
+      },
+      {
+        "farmSourceId": "NhatKyHanhTrinh",
+        "amount": null
+      },
+      {
+        "farmSourceId": "LenSieuTuongCu",
+        "amount": null
+      }
+    ],
+    "exchangeMaterials": [],
+    "infoImages": [
+      "./images/materials/Basics/tuiNLDHTA.png"
+    ],
+    "exchangeShops": []
+  },
+  {
+    "id": "universal_coin",
+    "name": "Xu Vạn Năng",
+    "images": [
+      "./images/materials/Basics/xuVanNang.png"
+    ],
+    "description": "Vật phẩm rất khó kiếm nếu chơi chay. Được sử dụng chủ yếu đổi đổi trái ác quỷ và siêu tướng, phụ thuộc rất nặng vào việc nạp hoặc tích key của siêu tướng cũ",
+    "farmSources": [
+      {
+        "farmSourceId": "grandline",
+        "amount": null
+      },
+      {
+        "farmSourceId": "NhatKyHanhTrinh",
+        "amount": null
+      },
+      {
+        "farmSourceId": "PhanHoiSieuLon",
+        "amount": null
+      },
+      {
+        "farmSourceId": "LeBaoThoiHan",
+        "amount": null
+      },
+      {
+        "farmSourceId": "VuonAcMa",
+        "amount": null
+      }
+    ],
+    "exchangeMaterials": [],
+    "infoImages": [
+      "./images/Information/quaPhan.png",
+      "./images/Information/xuKey.png"
+    ],
+    "exchangeShops": []
+  },
+  {
+    "id": "chieuMo_point",
+    "name": "Điểm Chiêu Mộ",
+    "images": [
+      "./images/materials/Basics/chieuMo.png"
+    ],
+    "description": "Điểm chiêu mộ dùng để đổi các vật phẩm trong shop cây ác ma. Điểm có thể được khai thác ở rất nhiều nguồn khác nhau",
+    "farmSources": [
+      {
+        "farmSourceId": "NhaXuongVegapunk",
+        "amount": null
+      },
+      {
+        "farmSourceId": "grandline",
+        "amount": null
+      },
+      {
+        "farmSourceId": "TinhLinh",
+        "amount": null
+      },
+      {
+        "farmSourceId": "TamBaoChien",
+        "amount": null
+      },
+      {
+        "farmSourceId": "PhanHoiSieuLon",
+        "amount": null
+      },
+      {
+        "farmSourceId": "LeBaoThoiHan",
+        "amount": null
+      }
+    ],
+    "exchangeMaterials": [],
+    "infoImages": [],
+    "exchangeShops": []
+  },
+  {
+    "id": "Wano_point",
+    "name": "Điểm Wano",
+    "images": [
+      "./images/materials/Basics/wanoPoint.png"
+    ],
+    "description": "Điểm wano dùng để đổi các vật phẩm trong shop Wano. Điểm có thể được khai thác ở rất nhiều nguồn khác nhau",
+    "farmSources": [
+      {
+        "farmSourceId": "ChienTruongWano",
+        "amount": null
+      },
+      {
+        "farmSourceId": "NhaXuongVegapunk",
+        "amount": null
+      },
+      {
+        "farmSourceId": "grandline",
+        "amount": null
+      },
+      {
+        "farmSourceId": "TinhLinh",
+        "amount": null
+      },
+      {
+        "farmSourceId": "TamBaoChien",
+        "amount": null
+      },
+      {
+        "farmSourceId": "HaiTacThongThai",
+        "amount": null
+      }
+    ],
+    "exchangeMaterials": [],
+    "infoImages": [],
+    "exchangeShops": []
+  },
+  {
+    "id": "vivre_card",
+    "name": "Vivre Card",
+    "images": [
+      "./images/materials/Basics/vivreCard.png"
+    ],
+    "description": "Một trong 3 vật phẩm nguyên liệu đại hải trình dùng để đổi siêu tướng.",
+    "farmSources": [
+      {
+        "farmSourceId": "CongHoiChien"
+      },
+      {
+        "farmSourceId": "VuotAiDaiChien"
+      },
+      {
+        "farmSourceId": "grandline"
+      },
+      {
+        "farmSourceId": "PhanHoiSieuLon"
+      },
+      {
+        "farmSourceId": "LeBaoThoiHan"
+      },
+      {
+        "farmSourceId": "TuHoangTranhBa"
+      },
+      {
+        "farmSourceId": "TamBaoChien"
+      },
+      {
+        "farmSourceId": "Uta"
+      }
+    ],
+    "exchangeMaterials": [],
+    "infoImages": [
+      "./images/materials/Basics/RuongNLDHT.png",
+      "./images/materials/Basics/TuiNLDHT.png",
+      "./images/materials/Basics/TuiNLDHTA.png"
+    ],
+    "exchangeShops": []
+  },
+  {
+    "id": "log_pose",
+    "name": "La Bàn Log Pose",
+    "images": [
+      "./images/materials/Basics/logPose.png"
+    ],
+    "description": "Một trong 3 vật phẩm nguyên liệu đại hải trình dùng để đổi siêu tướng",
+    "farmSources": [
+      {
+        "farmSourceId": "VuongGiaChien"
+      },
+      {
+        "farmSourceId": "grandline"
+      },
+      {
+        "farmSourceId": "PhanHoiSieuLon"
+      },
+      {
+        "farmSourceId": "LeBaoThoiHan"
+      },
+      {
+        "farmSourceId": "TuHoangTranhBa"
+      },
+      {
+        "farmSourceId": "TamBaoChien"
+      },
+      {
+        "farmSourceId": "Uta"
+      }
+    ],
+    "exchangeMaterials": [],
+    "infoImages": [
+      "./images/materials/Basics/RuongNLDHT.png",
+      "./images/materials/Basics/TuiNLDHT.png",
+      "./images/materials/Basics/TuiNLDHTA.png"
+    ],
+    "exchangeShops": []
+  },
+  {
+    "id": "pirate_flag",
+    "name": "Cờ Hải Tặc",
+    "images": [
+      "./images/materials/Basics/pirateFlag.png"
+    ],
+    "description": "Một trong 3 vật phẩm nguyên liệu đại hải trình dùng để đổi siêu tướng",
+    "farmSources": [
+      {
+        "farmSourceId": "CongHoiChien"
+      },
+      {
+        "farmSourceId": "CayAcMa"
+      },
+      {
+        "farmSourceId": "grandline"
+      },
+      {
+        "farmSourceId": "PhanHoiSieuLon"
+      },
+      {
+        "farmSourceId": "LeBaoThoiHan"
+      },
+      {
+        "farmSourceId": "TuHoangTranhBa"
+      },
+      {
+        "farmSourceId": "TamBaoChien"
+      },
+      {
+        "farmSourceId": "Uta"
+      }
+    ],
+    "exchangeMaterials": [],
+    "infoImages": [
+      "./images/materials/Basics/RuongNLDHT.png",
+      "./images/materials/Basics/TuiNLDHT.png",
+      "./images/materials/Basics/TuiNLDHTA.png"
+    ],
+    "exchangeShops": []
+  },
+  {
+    "id": "BiKiepHaki",
+    "name": "Bí Kiếp Haki- Viên Hoả/Long/Ảnh Sát",
+    "images": [
+      "./images/materials/Basics/BiKiepHaki.png"
+    ],
+    "description": "Bí Kiếp Haki là vật phẩm gom của 3 loại viên Hỏa/Long/Ảnh Sát. Viên Haki nói chung đầu game sẽ hơi khó kiếm nhưng về sau sẽ thừa rất nhiều",
+    "farmSources": [
+      {
+        "farmSourceId": "PhanHoiSieuLon"
+      },
+      {
+        "farmSourceId": "PhucLoiLeTet"
+      },
+      {
+        "farmSourceId": "TamBaoChien"
+      }
+    ],
+    "exchangeMaterials": [],
+    "infoImages": [
+    ],
+    "exchangeShops": [      
+      {
+        "shopId": "gift_exchange_center"
+      },
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "TomWorker"
+      },
+      {
+        "shopId": "TamBao"
+      },
+      {
+        "shopId": "Colosseum"
+      },
+      {
+        "shopId": "TauChien"
+      }
+    ]
+  }
+]

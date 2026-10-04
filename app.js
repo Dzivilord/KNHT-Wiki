@@ -1,0 +1,1 @@
+async function loadHeroes(){const res=await fetch("./data/heroes.json");const heroes=await res.json();document.getElementById("hero-grid").innerHTML=heroes.map(h=>`<a class="hero-card" href="./hero.html?id=${encodeURIComponent(h.id)}"><img src="${h.image}" alt="${h.name}"><div class="hero-name">${h.name}</div></a>`).join("")}loadHeroes();

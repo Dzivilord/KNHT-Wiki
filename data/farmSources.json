@@ -1,0 +1,158 @@
+[
+  {
+    "id": "NhatKyHanhTrinh",
+    "name": "Nhật ký hành trình",
+    "description": "Làm các nhiệm vụ hằng ngày và hằng tuần để đạt mốc điểm nhận thêm phần thưởng",
+    "images": ["./images/Information/NhatKyHanhTrinh.png"],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "LenSieuTuongCu",
+    "name": "Lên siêu tướng",
+    "description": "Lên các siêu tướng cũ từ yassop trở lại sẽ trả lại lượng dấu thông thường là +1 giúp giảm thời gian tìm kiếm con dấu chính phủ",
+    "images": [],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "grandline",
+    "name": "Grandline",
+    "description": "Tính năng grandline được mở tại level 140 giúp farm nhiều nguồn nguyên liệu hiếm và quan trọng thông qua việc đánh các quái PVE cực mạnh. Tham khảo tại #hướng dẫn tính năng trên discord",
+    "images": [
+      "./images/Information/grandline.png"
+    ],
+    "infoImages": [
+      "./images/Information/grandlineGift.png"
+    ],
+    "link": null
+  },
+  {
+    "id": "PhanHoiSieuLon",
+    "name": "Phản hồi siêu lớn",
+    "description": "Hoạt động nạp chính của game, phần lớn tài nguyên đến từ đây. Lưu ý phản hồi siêu lớn chỉ tính thời gian nạp từ 10h sáng thứ 7 đến 12h tối thứ 4 tuần sau và các vật phẩm là không cố định. Các key để góp phần đổi vật phẩm siêu tướng sẽ nằm ở các mốc 100 vạn và 250 vạn vào các tuần sự kiện lớn.",
+    "images": ["./images/Information/PhanHoiSieuLon.png"],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "LeBaoThoiHan",
+    "name": "Lễ bao thời hạn",
+    "description": "Hoạt động nạp để chủ yếu lấy cờ tăng thiên phú giá rẻ. Thời gian tính nạp là từ 10h sáng thứ 5 đến 12h tối thứ 6 và các vật phẩm là không cố định.",
+    "images": [],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "VuonAcMa",
+    "name": "Vườn ác ma",
+    "description": "Trồng các loại hạt giống để đổi nhận được nguyên liệu random từ hạt giống. Chi tiết hạt giống tham khảo tại https://kynguyenhaitac.vn/cap-nhat/cap-nhat-tinh-nang-vuon-ac-ma-1105.html",
+    "images": ["./images/Information/VuonAcMa.png"],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "NhaXuongVegapunk",
+    "name": "Nhà xưởng Vegapunk",
+    "description": "Nhà xưởng Vegapunk cung cấp nguồn tài nguyên free hằng ngày nhưng cần cống vật phẩm đạt 1 mốc điểm nhất định để mở khoá từng level. Đây là tính năng cực quan trọng để tiết kiệm lượng lớn haki đào hằng ngày và hơn thế nữa",
+    "images": ["./images/Information/Vegapunk.png"],
+    "infoImages": ["./images/Information/VegapunkGift.png"],
+    "link": null
+  },
+  {
+    "id": "TinhLinh",
+    "name": "Tinh linh",
+    "description": "Hệ thống tinh linh được mở ở tầm lv 109. Tinh linh ngoài việc tăng các chỉ số thì sẽ rớt thêm nhiều quà giá trị. Đây là nguồn kiếm các nguyên liệu hiệu cực hiệu quả thụ động. Đặc biệt từ tinh linh leo trở lên.",
+    "images": ["./images/Information/TinhLinh.png"],
+    "infoImages": ["./images/Information/TinhLinh1.png","./images/Information/TinhLinh2.png"],
+    "link": null
+  },
+  {
+    "id": "TamBaoChien",
+    "name": "Tầm bảo chiến",
+    "description": "Tính năng tầm bảo chiến được mở ở level 125 tại phần Hoạt Động diễn ra hằng ngày từ 10h-22h. Đây cũng là nguồn kiếm nguyên liệu chính hằng ngày thông qua việc thả tàu. Lưu ý tính năng này có đua bxh vào lúc 10h sáng và 2h30 chiều nên tránh thả tàu để không bức xúc. Thông tin chi tiết về quà từng loại tàu xem tại https://kynguyenhaitac.vn/cap-nhat/noi-dung-update-thang-6-2026-2189.html ",
+    "images": ["./images/Information/TamBaoChien.png"],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "ChienTruongWano",
+    "name": "Chiến trường Wano",
+    "description": "Hoạt động wano tham gia để nhận điểm Wano lúc 7h45 tối thứ 6 hằng tuần- Nhớ báo danh",
+    "images": [],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "HaiTacThongThai",
+    "name": "Hải tặc thông thái",
+    "description": "Hoạt động diễn ra tại phần hoạt động từ 12h-12h05 thứ 3/5/7 . Tham gia để nhận các loại điểm shop",
+    "images": ["./images/Information/HTTT.png"],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "CongHoiChien",
+    "name": "Công hội chiến",
+    "description": "Giải đấu công hội chiến",
+    "images": [],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "VuotAiDaiChien",
+    "name": "Vượt ải đại chiến",
+    "description": "Giải đấu vượt ải đại chiến. Tham khảo kinh nghiệm chơi tại youtube của Nguyễn Viết Xuân",
+    "images": [],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "VuongGiaChien",
+    "name": "Giải đấu vương giả chiến",
+    "description": "Giải đấu vương giả chiến",
+    "images": [],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "ToDoiChien",
+    "name": "Tổ đội chiến",
+    "description": "Giải đấu tổ đội chiến",
+    "images": [],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "CayAcMa",
+    "name": "Đua top cây ác ma",
+    "description": "Hoạt động cây ác ma. Trong thời gian diễn ra hoạt động người chơi có thể cống các loại vật phẩm để lấy điểm cống hiến tích luỹ và nhận quà top dựa trên điểm tích luỹ.",
+    "images": [],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "Uta",
+    "name": "Đại Chiến Uta",
+    "description": "Báo danh Uta sau 10h sáng thứ 3,5,7 hằng tuần và tham gia vào lúc 7h tối để nhận nhiều phần thưởng giá trị. Boss uta sẽ tính số lượt sống sót không phải lượng dame nên hãy build team để phòng thủ thích hợp.",
+    "images": ["./images/Information/Uta.png"],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "TuHoangTranhBa",
+    "name": "Tứ Hoàng Tranh bá",
+    "description": "Là Vương giả chiến nhưng liên server.",
+    "images": ["./images/Information/TuHoangTranhBa.png"],
+    "infoImages": [],
+    "link": null
+  },
+  {
+    "id": "PhucLoiLeTet",
+    "name": "Phúc lợi lễ tết",
+    "description": "Online nhận quà vào các tuần thứ 4 của tháng. Quà rất ok",
+    "images": ["./images/Information/PhucLoiLeTet.png"],
+    "infoImages": [],
+    "link": null
+  }
+]
