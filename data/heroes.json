@@ -252,13 +252,61 @@
     "id": "Oven_S",
     "name": "Oven-S",
     "image": "./images/heroes/Oven_S.png",
-    "note": "",
-    "skills": {},
+    "note": "Oven-S là siêu tướng được tiến hoá từ Oven-H chỉ thông qua Haki và các viên shura. Phần này chỉ đề cập cách chiêu mộ Oven-H.",
+    "skills": {
+      "basicAttack": "[MC]Heat Fist Rage: Sử dụng sức mạnh trái ác quỷ tấn công nhiều lần. Đầu tiên, gây 1 lần sát thương bỏ qua haki kèm thêm sát thương 30% MC bỏ qua MP lên toàn bộ mục tiêu đồng thời có tỷ lệ xóa bỏ miễn dịch Đốt cháy, miễn giảm sát thương về 0 hoặc giảm sát thương MC của mục tiêu đó về 0 2 lượt (hiệu quả trên từng mục tiêu, khi bộc phá sẽ ra toàn bộ). Lần 2, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu có tỷ lệ khiến mục tiêu hàng ngang bị cấm hồi sinh trong 1 lượt (Cấm hồi sinh: không thể hồi sinh khi tử vong, hiệu quả trên từng mục tiêu). Cuối cùng, gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và chọn ngẫu nhiên 2 đồng minh (không bao gồm bản thân) buff hiệu quả vách sắt kèm khiên miễn dịch vĩnh hằng, hoảng sợ trong 1 lượt. Hồi toàn đội 30 nộ khí và hiệu quả miễn dịch 1 số hiệu ứng trong 1 lượt (Miễn dịch: Đóng băng, giảm sát thương về 0, cấm tích nộ, tê liệt, giảm nộ, hóa đá, phong ấn trị liệu). Cuối cùng, bản thân Oven sẽ tiến vào trạng thái miễn sát thương đánh thường trong 1 lượt (tác dụng tối đa 3 lần cả trận).",
+      "ultimate": "[MC]Blazing Spear Column: Tập trung toàn bộ sức mạnh tiến hành tấn công lên toàn bộ mục tiêu đồng thời chọn mục tiêu trước mặt xóa hiệu quả miễn dịch đốt cháy, vách sắt đồng thời có tỷ lệ cao xóa bỏ hiệu quả hồi sinh của mục tiêu. Tiếp theo thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ khiến ngẫu nhiên 1 mục tiêu rơi vào trạng thái Đọa Đày 1 lượt (Đọa Đày: Vĩnh hằng, Trấn Áp, giảm 100 nộ). Lần 3 gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ xóa bỏ hiệu quả miễn dịch sát thương bỏ qua phòng ngự hoặc miễn dịch giảm sát thương về 0 của mục tiêu (hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 2). Cuối cùng, gây thêm 1 lần sát thương 35% MC bỏ qua MP lên toàn bộ mục tiêu đồng thời khiến mục tiêu bị phá giáp giảm 100% phòng thủ trong 2 lượt. Hồi toàn đội 35 khí kèm 25% lượng máu không bị ảnh hưởng bởi miễn sát thương bỏ qua phòng ngự và khiên miễn dịch 1 số hiệu ứng trong 1 lượt (Miễn dịch: Đóng băng, giảm sát thương về 0, cấm tích nộ, tê liệt, giảm nộ, hóa đá, phong ấn trị liệu, hỗn loạn, trầm mặc)",
+      "talent": "Aura of Heat\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 20% lượng máu giới hạn, 3 lượt đầu miễn dịch 1 số hiệu ứng bất lợi (Miễn dịch: Miễn sát thương bỏ qua phòng ngự, mê hoặc, phong ấn trị liệu, độc, trầm mặc, MC, cấm tích nộ, choáng). Miễn dịch vĩnh viễn Đốt cháy, hỗn loạn, tê liệt . Mỗi lần hành động có tỷ lệ 60% loại bỏ lớp giáp MC của mục tiêu\n\nCấp 3: S.Mệnh +10%, MP +10%\n\nCấp 5: Miễn stdt +12%, Miễn stdn +12%\n\nCấp 7: Mỗi lần hành động Oven sẽ có tỷ lệ gây nhụt chí giảm 100 nộ lên ngẫu nhiên 2 mục tiêu 1 lượt. Tấn công nộ bản thân có tỷ lệ hồi 100% máu, 100 nộ khí và đưa GHM về 15% trong 2 lượt (chỉ tác dụng 1 lần duy nhất trong trận). Kết thúc đánh nộ Oven có tỷ lệ thấp gây Phong Hồn lên ngẫu nhiên 1 mục tiêu 1 lượt",
+      "devilFruit": "[Trái Netsu Netsu]: Trái ác quỷ cho phép chủ nhân tạo ra nhiệt. Tấn công thường và nộ Oven sẽ có tỷ lệ 10%(mỗi cấp +2%) gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời chọn ngẫu nhiên 1 mục tiêu tiến vào trạng thái Đọa Đày trong 1 lượt. Ngoài ra, khi hành động Oven xét toàn bộ mục tiêu nếu mục tiêu nào đang dính hiệu quả đốt cháy thì sẽ xóa hiệu quả miễn sát thương bỏ qua phòng ngự và gây thêm 1 lần sát thương 30% MC bỏ qua VP lên mục tiêu. "
+    },
     "evolutionFrom": {
-      "name": "",
+      "name": "Oven-H",
       "heroId": null
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttOven"
+      },
+      {
+        "materialId": "theOven"
+      },
+      {
+        "materialId": "traiNetsu"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
+  },
+  {
+    "id": "Hitestu_S",
+    "name": "Hitetsu-S",
+    "image": "./images/heroes/Hitetsu_S.png",
+    "note": "Hitetsu-S được tiến hoá từ Hitetsu-H bằng haki và viên shura. Phần này chỉ đề cập cách chiêu mộ Hitetsu-H",
+    "skills": {
+      "basicAttack": "[VC] Tengubi: Hitetsu tấn công toàn bộ mục tiêu kèm theo hiệu quả xóa bỏ miễn dịch Choáng và gây Mộng cảnh giảm 10% tỷ lệ thi triển hiệu ứng lên mục tiêu hàng ngang trong 2 lượt (hiệu quả mộng cảnh có thể cộng dồn). Lần 2, thêm 1 lần sát thương bỏ qua haki kèm theo sát thương 30% VC bỏ qua VP lên toàn bộ mục tiêu và có tỷ lệ xóa bỏ hiệu quả miễn dịch độc hoặc gây Độc (khấu trừ 20% lượng máu tối đa) lên mục tiêu trong 2 lượt (hiệu quả trên từng mục tiêu, độc có thể cộng dồn từ các hiệu ứng khác). Cuối cùng, gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời xét xem nếu mục tiêu có dưới 70% lượng máu tối đa thì Hitetsu sẽ gây Suy Kiệt tăng 10% tỷ lệ nhận buff từ đối thủ khác đánh vào bản thân (không thể cộng dồn) kèm nhụt chí giảm 50 nộ lên mục tiêu trong 1 lượt . Hồi 30 nộ khí, khiên miễn sát thương bỏ qua phòng ngự 1 lượt và xóa một số hiệu quả bất lợi lên toàn đội (Xóa: Nhụt chí, tê liệt, hóa đá, phong ấn trị liệu, cấm tích nộ)",
+      "ultimate": "[VC] Tengu Tsubute: Tập trung toàn bộ sức mạnh tấn công mục tiêu hình chữ thập và phá hủy hiệu quả miễn dịch sát thương đánh thường lên mục tiêu. Tiếp theo, thêm 1 lần sát thương bỏ qua haki toàn bộ mục tiêu kèm hiệu ứng mặt nạ Tengu lên toàn bộ mục tiêu trong 2 lượt (trầm mặc, nhụt chí giảm 65 nộ, đóng băng, mộng cảnh giảm 10% tỷ lệ ra hiệu ứng). Lần 3, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời xét xem nếu mục tiêu nào đang có dưới 80 nộ khí thì Hitetsu sẽ buff cho mục tiêu đó hiệu quả Kiếm Sát trong 1 lượt (Kiếm Sát: Sau khi kết thúc hành động sẽ có tỷ lệ cao xóa bỏ hiệu quả miễn dịch sát thương bỏ qua phòng ngự và khấu trừ 20% lượng máu tối đa lên 2 mục tiêu đồng minh ngẫu nhiên). Cuối cùng, gây 1 lần sát thương bỏ qua haki kèm theo sát thương 35% VC bỏ qua VP lên toàn bộ mục tiêu kèm hiệu quả hồi 15% máu xóa bỏ một 1 số hiệu quả bất lợi lên đồng đội (không bao gồm bản thân) (xóa bỏ: Nhụt chí, tê liệt, hóa đá, trầm mặc, phong ấn trị liêu, cấm tích nộ, choáng). Hồi toàn đội 40 nộ khí kèm theo hiệu quả miễn dịch một số hiệu ứng trong 1 lượt (Miễn dịch: Tê liệt, hóa đá, giảm sát thương về 0, cấm tích nộ, phong ấn trị liệu, trầm mặc, hỗn loạn, choáng)",
+      "talent": "Lửa Rèn Quỷ Khí\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 20% lượng máu giới hạn, 3 lượt đầu miễn dịch 1 số hiệu ứng bất lợi (Miễn dịch: Miễn sát thương bỏ qua phòng ngự, mê hoặc, hóa đá, đốt cháy, trầm mặc, MC, cấm tích nộ, tê liệt, giảm sát thương về 0). Miễn dịch vĩnh viễn choáng, giảm nộ, phong ấn trị liệu . Mỗi lần hành động có tỷ lệ 60% loại bỏ lớp giáp VC của mục tiêu\n\nCấp 3: VP +10%, S.Mệnh +10%\n\nCấp 5: VC +10%, Miễn STĐT+12%\n\nCấp 7: Ra trận Hitetsu sẽ buff cho toàn đội hiệu quả miễn dịch Vĩnh Hằng 1 lượt. Khi tử vong Hitetsu sẽ hồi sinh lại với 100% máu. Mỗi lần hành động Hitetsu sẽ chọn ngẫu nhiên 1 mục tiêu đưa kẻ địch vào hiệu quả Vĩnh Hằng trong 1 lượt. Khi bị tấn công thường có tỷ lệ cho mục tiêu tấn công Hitetsu bị choáng trong 1 lượt. ",
+      "devilFruit": ""
+    },
+    "evolutionFrom": {
+      "name": "Hitetsu-H",
+      "heroId": null
+    },
+    "materials": [
+      {
+        "materialId": "lttHitetsu"
+      },
+      {
+        "materialId": "matNaTengu"
+      },
+      {
+        "materialId": "Nidai"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Rayleigh_S2",
@@ -297,13 +345,34 @@
     "id": "Smoothie_S",
     "name": "Smoothie-S",
     "image": "./images/heroes/Smoothie_S.png",
-    "note": "",
-    "skills": {},
+    "note": "Smoothie-S là siêu tướng được tiến hoá từ Smoothie-H chỉ thông qua Haki và các viên shura. Phần này chỉ đề cập cách chiêu mộ Smoothie-H.",
+    "skills": {
+      "basicAttack": "[MC]Juicy Power: Tấn công toàn bộ mục tiêu đồng thời chọn mục tiêu trước mặt tiến hành xóa hiệu quả miễn dịch sát thương bỏ qua phòng ngự, miễn dịch giảm sát thương về 0 và xét xem nếu mục tiêu trước mặt đang có hơn 50 nộ khí thì sẽ gây thêm 1 lần sát thương 30% MC bỏ qua MP và làm sát thương của mục tiêu đó giảm về 0 trong 1 lượt. Lần 2 thêm một lần sát thương bỏ qua Haki lên toàn bộ mục tiêu đồng thời Smoothie tiếp tục xét ngẫu nhiên 2 mục tiêu nếu có lượng máu thấp hơn 100% lượng máu hiện tại (tại thời điểm ra đòn) của Smoothie thì Smoothie sẽ tiến hành xóa hiệu quả miễn sát thương bỏ qua phòng ngự và gây thêm lượng sát thương tương đương 10% lượng máu tối đa của mục tiêu đó. Cuối cùng, gây thêm 1 lần sát thương bỏ qua haki kèm sát thương khấu trừ 15% lượng máu tối đa lên toàn bộ mục tiêu và có tỷ lệ gây Trích Xuất lên mục tiêu trong 1 lượt (Trích Xuất: Sau khi thực hiện đòn đánh thì sẽ gây thêm 1 lần sát thương bỏ qua haki lên đồng minh và có tỷ lệ khiến mục tiêu bị xóa bỏ hiệu quả miễn dịch trầm mặc hoặc gây Vĩnh Hằng 1 lượt (khi bộc phá có thể ra cả 2)). Bản thân hồi 40 nộ khí kèm hiệu quả miễn MC, miễn dịch hỗn loạn, mê hoặc, độc, đốt cháy, choáng, cấm tích nộ) trong 1 lượt",
+      "ultimate": "[MC]Juicy Saber: Sử dụng năng lực trái ác quỷ tiến hành tấn công xóa bỏ toàn bộ hiệu quả miễn dịch MC lên toàn bộ mục tiêu và kích hoạt hiệu quả Thủy Nhân lên ngẫu nhiên 3 mục tiêu trong 1 lượt (Thủy Nhân: Giảm 10% tỷ lệ ra hiệu ứng, khấu trừ 10% lượng máu tối đa, nhụt chí giảm 35 nộ (có thể ghép chồng), giảm 80% sát thương VC,TC). Tiếp theo, thêm 1 lần sát thương bỏ qua haki kèm sát thương tương đương 35% MC bỏ qua MP lên toàn bộ mục tiêu đồng thời xét xem nếu mục tiêu nào đang có nộ khí lớn hơn 100 thì Smoothie tiếp tục gây thêm 1 lần sát thương khấu trừ 10% máu của mục tiêu đó và gây hiệu quả Vĩnh Hằng trong 1 lượt. Lần 3 gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và xét nếu mục tiêu nào đang trong trạng thái Vĩnh Hằng thì Smoothie gây thêm 1 lần sát thương tương đương 15% lượng máu tối đa lên mục tiêu. Cuối cùng gây thêm 1 lần sát thương tương đương 20% máu tối đa lên toàn bộ mục tiêu và buff cho toàn đội hiệu quả miễn dịch Vĩnh Hằng, Hỗn Loạn, Độc, Phong ấn trị liệu trong 1 lượt. Hồi bản thân 45 nộ khí và đồng đội 20 nộ khí",
+      "talent": "Juicy Giant\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 20% lượng máu giới hạn, 3 lượt đầu miễn dịch 1 số hiệu ứng bất lợi (Miễn dịch: Miễn sát thương bỏ qua phòng ngự, mê hoặc, phong ấn trị liệu, hóa đá, đốt cháy, VC,TC, choáng). Miễn dịch vĩnh viễn trầm mặc, độc, giảm sát thương về 0. Đánh thường có tỷ lệ 60% loại bỏ lớp giáp MC của mục tiêu\n\nCấp 3: VP +10%, Miễn stdt +12%\n\nCấp 5: S.Mệnh +10%, MP +10%\n\nCấp 7: Vào trận Smoothie sẽ xét xem nếu phe ta có Daifuku thì sẽ buff cho Daifuku hiệu quả miễn sát thương đánh thường (vẫn nhận buff từ đồng đội) 1 lượt và khiên Trấn Áp 2 lượt (Khiên Trấn Áp: Sau khi kết thúc hành động có tỷ lệ gây Trấn Áp lên mục tiêu 1 lượt. Đánh thường và nộ có tỷ lệ gây sát thương bỏ qua haki lên toàn bộ mục tiêu. Khi tử vong Smoothie sẽ được hồi sinh 100% máu. ",
+      "devilFruit": "[Trái Shibo Shibo]Trái ác quỷ thuộc hệ Paramecia, cho phép người dùng hút chất lỏng từ cả vật sống và không sống bằng cách vắt chúng. Mỗi lần hành động Smoothie sẽ thêm 1 lần sát thương 10.000.000 nguyên tố thủy lên toàn bộ mục tiêu và xét xem nếu lượng máu của mục tiêu dưới 5% (mỗi cấp +1%) thì sẽ lập tức kết liêu mục tiêu đó.Đánh nộ Smoothie sẽ xét xem nếu có mục tiêu có nộ khí thấp hơn hoặc bằng 100 thì sẽ gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu. Đầu mỗi lượt có tỷ lệ 5% (mỗi cấp +2.5%) buff bản thân hiệu quả vách sắt 1 lượt."
+    },
     "evolutionFrom": {
-      "name": "",
+      "name": "Smoothie-H",
       "heroId": null
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttSmoothie"
+      },
+      {
+        "materialId": "huyHieuSmoothie"
+      },
+      {
+        "materialId": "shiBo"
+      },
+      {
+        "materialId": "theBaiSmoothie"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Shanks_S2",
@@ -342,6 +411,18 @@
     "id": "Akainu_S2",
     "name": "Akainu-S2",
     "image": "./images/heroes/Akainu_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Kizaru_S2",
+    "name": "Kizaru-S2",
+    "image": "./images/heroes/Kizaru_S2.png",
     "note": "",
     "skills": {},
     "evolutionFrom": {
@@ -450,6 +531,18 @@
     "id": "Ichiji_S",
     "name": "Ichiji-S",
     "image": "./images/heroes/Ichiji_S.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Bennbeckman_S",
+    "name": "Benn Beckman-S",
+    "image": "./images/heroes/Bennbeckman_S.png",
     "note": "",
     "skills": {},
     "evolutionFrom": {
@@ -822,48 +915,6 @@
     "id": "Kizaru_S",
     "name": "Kizaru-S",
     "image": "./images/heroes/Kizaru_S.png",
-    "note": "",
-    "skills": {},
-    "evolutionFrom": {
-      "name": "",
-      "heroId": null
-    },
-    "materials": []
-  },
-  {
-    "id": "Hitetsu_S",
-    "name": "Hitetsu-S",
-    "image": "./images/heroes/Hitetsu_S.png",
-    "note": "Hitetsu-S được tiến hoá từ Hitetsu-H bằng haki và viên shura. Phần này chỉ đề cập cách chiêu mộ Hitetsu-H",
-    "skills": {
-      "basicAttack": "[VC] Tengubi: Hitetsu tấn công toàn bộ mục tiêu kèm theo hiệu quả xóa bỏ miễn dịch Choáng và gây Mộng cảnh giảm 10% tỷ lệ thi triển hiệu ứng lên mục tiêu hàng ngang trong 2 lượt (hiệu quả mộng cảnh có thể cộng dồn). Lần 2, thêm 1 lần sát thương bỏ qua haki kèm theo sát thương 30% VC bỏ qua VP lên toàn bộ mục tiêu và có tỷ lệ xóa bỏ hiệu quả miễn dịch độc hoặc gây Độc (khấu trừ 20% lượng máu tối đa) lên mục tiêu trong 2 lượt (hiệu quả trên từng mục tiêu, độc có thể cộng dồn từ các hiệu ứng khác). Cuối cùng, gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời xét xem nếu mục tiêu có dưới 70% lượng máu tối đa thì Hitetsu sẽ gây Suy Kiệt tăng 10% tỷ lệ nhận buff từ đối thủ khác đánh vào bản thân (không thể cộng dồn) kèm nhụt chí giảm 50 nộ lên mục tiêu trong 1 lượt . Hồi 30 nộ khí, khiên miễn sát thương bỏ qua phòng ngự 1 lượt và xóa một số hiệu quả bất lợi lên toàn đội (Xóa: Nhụt chí, tê liệt, hóa đá, phong ấn trị liệu, cấm tích nộ)",
-      "ultimate": "[VC] Tengu Tsubute: Tập trung toàn bộ sức mạnh tấn công mục tiêu hình chữ thập và phá hủy hiệu quả miễn dịch sát thương đánh thường lên mục tiêu. Tiếp theo, thêm 1 lần sát thương bỏ qua haki toàn bộ mục tiêu kèm hiệu ứng mặt nạ Tengu lên toàn bộ mục tiêu trong 2 lượt (trầm mặc, nhụt chí giảm 65 nộ, đóng băng, mộng cảnh giảm 10% tỷ lệ ra hiệu ứng). Lần 3, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời xét xem nếu mục tiêu nào đang có dưới 80 nộ khí thì Hitetsu sẽ buff cho mục tiêu đó hiệu quả Kiếm Sát trong 1 lượt (Kiếm Sát: Sau khi kết thúc hành động sẽ có tỷ lệ cao xóa bỏ hiệu quả miễn dịch sát thương bỏ qua phòng ngự và khấu trừ 20% lượng máu tối đa lên 2 mục tiêu đồng minh ngẫu nhiên). Cuối cùng, gây 1 lần sát thương bỏ qua haki kèm theo sát thương 35% VC bỏ qua VP lên toàn bộ mục tiêu kèm hiệu quả hồi 15% máu xóa bỏ một 1 số hiệu quả bất lợi lên đồng đội (không bao gồm bản thân) (xóa bỏ: Nhụt chí, tê liệt, hóa đá, trầm mặc, phong ấn trị liêu, cấm tích nộ, choáng). Hồi toàn đội 40 nộ khí kèm theo hiệu quả miễn dịch một số hiệu ứng trong 1 lượt (Miễn dịch: Tê liệt, hóa đá, giảm sát thương về 0, cấm tích nộ, phong ấn trị liệu, trầm mặc, hỗn loạn, choáng)",
-      "talent": "Lửa Rèn Quỷ Khí\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 20% lượng máu giới hạn, 3 lượt đầu miễn dịch 1 số hiệu ứng bất lợi (Miễn dịch: Miễn sát thương bỏ qua phòng ngự, mê hoặc, hóa đá, đốt cháy, trầm mặc, MC, cấm tích nộ, tê liệt, giảm sát thương về 0). Miễn dịch vĩnh viễn choáng, giảm nộ, phong ấn trị liệu . Mỗi lần hành động có tỷ lệ 60% loại bỏ lớp giáp VC của mục tiêu\n\nCấp 3: VP +10%, S.Mệnh +10%\n\nCấp 5: VC +10%, Miễn STĐT+12%\n\nCấp 7: Ra trận Hitetsu sẽ buff cho toàn đội hiệu quả miễn dịch Vĩnh Hằng 1 lượt. Khi tử vong Hitetsu sẽ hồi sinh lại với 100% máu. Mỗi lần hành động Hitetsu sẽ chọn ngẫu nhiên 1 mục tiêu đưa kẻ địch vào hiệu quả Vĩnh Hằng trong 1 lượt. Khi bị tấn công thường có tỷ lệ cho mục tiêu tấn công Hitetsu bị choáng trong 1 lượt. ",
-      "devilFruit": ""
-    },
-    "evolutionFrom": {
-      "name": "Hitestu-H",
-      "heroId": null
-    },
-    "materials": [
-      {
-        "materialId": "lttHitetsu"
-      },
-      {
-        "materialId": "matNaTengu"
-      },
-      {
-        "materialId": "Nidai"
-      },
-      {
-        "materialId": "BiKiepHaki"
-      }
-    ]
-  },
-  {
-    "id": "Benbeckman_S",
-    "name": "Benn Beckman-S",
-    "image": "./images/heroes/Benbeckman_S.png",
     "note": "",
     "skills": {},
     "evolutionFrom": {

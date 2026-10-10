@@ -1561,5 +1561,195 @@
         "amount": 1000000
       }
     ]
+  },
+  {
+    "id": "lttOven",
+    "name": "LTT Oven",
+    "images": [
+      "./images/materials/Oven_S/lttOven.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Oven_S/Oven.png",
+      "./images/materials/Oven_S/lttOven1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "ngocChiemTinh",
+        "amount": 400
+      },
+      {
+        "materialId": "theOven",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "theOven",
+    "name": "Thẻ bài Oven",
+    "images": [
+      "./images/materials/Oven_S/theOven.png"
+    ],
+    "description": "Thẻ bài chỉ có thể lấy qua grandline map 8.",
+    "infoImages": [
+      "./images/materials/Oven_S/theOven1.png"
+    ],
+    "exchangeShops": [],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "traiNetsu",
+    "name": "Trái Netsu Netsu",
+    "images": [
+      "./images/materials/Oven_S/Netsu.png"
+    ],
+    "description": "Rương NL trung cấp có thể lấy tại hộp 25 big Event.",
+    "infoImages": [
+      "./images/materials/Oven_S/Netsu1.png",
+      "./images/materials/Oven_S/Netsu2.png",
+      "./images/materials/Oven_S/Netsu3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      },
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 1000000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 1000000
+      }
+    ]
+  },
+  {
+    "id": "lttSmoothie",
+    "name": "Lệnh Triệu Tập Smoothie",
+    "images": [
+      "./images/materials/Smoothie_S/lttSmoothie.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "/images/materials/Smoothie_S/Smoothie.png",
+      "/images/materials/Smoothie_S/lttSmoothie1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 400
+      },
+      {
+        "materialId": "theBaiSmoothie",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "huyHieuSmoothie",
+    "name": "Huy Hiệu Tư Lệnh Ngọt",
+    "images": [
+      "./images/materials/Smoothie_S/huyHieu.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Smoothie_S/huyHieu1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "ngocChiemTinh",
+        "amount": 400
+      }
+    ]
+  },
+  {
+    "id": "shiBo",
+    "name": "Trái Shibo Shibo",
+    "images": [
+      "./images/materials/Smoothie_S/shibo.png"
+    ],
+    "description": "Trái Shibo có thể farm từ hộp 25 trong Big Event",
+    "infoImages": [
+      "./images/materials/Smoothie_S/shibo1.png",
+      "./images/materials/Smoothie_S/shibo2.png",
+      "./images/materials/Smoothie_S/shibo3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      },
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 1000000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 1000000
+      }
+    ]
+  },
+  {
+    "id": "theBaiSmoothie",
+    "name": "Thẻ Bài Smoothie",
+    "images": [
+      "./images/materials/Smoothie_S/theBaiSmoothie.png"
+    ],
+    "description": "Grandline map 8 và độ tích cực hằng ngày cho 1 thẻ bài Smoothie.",
+    "infoImages": [
+      "./images/materials/Smoothie_S/theBaiSmoothie1.png",
+      "./images/materials/Smoothie_S/theBaiSmoothie2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": []
   }
 ]

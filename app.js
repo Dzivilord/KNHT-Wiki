@@ -13,7 +13,7 @@ const heroOrder = [
   ["Smoothie-S", "Smoothie_S.png"],
   ["Shanks-S2", "Shanks_S2.png"],
   ["Akainu-S2", "Akainu_S2.png"],
-  ["Kizaru-S", "Kizaru_S2.png"],
+  ["Kizaru-S2", "Kizaru_S2.png"],
   ["Aramaki-S", "Aramaki_S.png"],
   ["Yasopp-S", "Yassop_S.png"],
   ["Daifuku-S", "Daifuku_S.png"],
