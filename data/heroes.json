@@ -128,7 +128,7 @@
   {
     "id": "Denjiro_S",
     "name": "Denjiro-S",
-    "image": "./images/heroes/Denjiro_S.png",
+    "image": "./images/heroes/Denjiro_s.png",
     "note": "Denjiro-S được tiến hoá từ Denjiro. Mục này mô tả cách chiêu mộ Denjiro.",
     "skills": {
       "basicAttack": "[TC] Kage no Zanshin: Vận dụng  kiếm thuật đình cao Denjiro tiến hành tấn công toàn bộ mục tiêu đồng thời Denjiro có tỷ lệ xóa bỏ miễn dịch tê liệt lên mục tiêu (hiệu quả trên từng mục tiêu). Lần 2, gây thêm 1 lần sát thương bỏ qua haki lên mục tiêu có nộ khí thấp nhất đồng thời có tỷ lệ xóa bỏ miễn dịch đóng băng hoặc giảm 40 nộ lên mục tiêu (khi bộc phá sẽ ra cả 2). Lần 3, gây 1 lần sát thương bỏ qua haki và gây hiệu quả Quỷ Kiếm 1 lượt lên toàn bộ mục tiêu (Quỷ Kiếm: Nhụt chí giảm 35 nộ (có thể cộng dồn), tê liệt, đóng băng, giảm 30 nộ). Cuối cùng, Denjiro gây 1 lần sát thương bỏ qua haki kèm sát thương 20% lượng máu tối đa lên mục tiêu hàng ngang phía sau và xét nếu nộ khí hiện tại của mục tiêu thấp hơn nộ khí của Denjro tại lần ra đòn này thì Denjiro sẽ gắn ấn Kiếm Nô 1 lượt lên mục tiêu (Kiếm Nô: Xóa hiệu quả Hộ thân, gây mê hoặc, hỗn loạn). Hồi đồng đội 30 nộ khí, bản thân hồi 35 nộ khí kèm một số hiệu quả có lợi 1 lượt (Miễn dịch: Choáng, mê hoặc, hỗn loạn, cấm tích nộ, độc, đốt cháy, phong ấn trị liệu, vách sắt)",
@@ -158,7 +158,7 @@
   {
     "id": "XDrake_S",
     "name": "XDrake-S",
-    "image": "./images/heroes/XDrake_S.png",
+    "image": "./images/heroes/XDrake_s.png",
     "note": "XDrake-S được tiến hoá từ XDrake-H, XDrake-H được tiến hoá từ Xdrake sau khi nâng cấp từ ảnh hồn. XDrake được chiêu mộ bằng danh vọng tại quán rượu.",
     "skills": {
       "basicAttack": "[VC] X Caliber: X.Drake nhảy lên tấn công toàn bộ mục tiêu và có tỷ lệ cao khiến ngẫu nhiên 1 mục tiêu bị Xuyên Giáp (Xuyên Giáp: Xóa miễn sát thương bỏ qua phòng ngự, miễn dịch VC, vách sắt, miễn dịch trầm mặc). Lần 2, thêm 1 lần sát thương bỏ qua haki kèm sát thương 20% lượng máu tối đa lên toàn bộ mục tiêu, lần sát thương này X.Drake có tỷ lệ xét ngẫu nhiên 2 đồng đội (không bao gồm bản thân) nếu trong trạng thái Độc thì sẽ buff cho 2 đồng đội hiệu quả Cổ Long 1 lượt (Cổ Long: Xóa hiệu quả Độc, vách sắt 1 lượt, khi kết thúc hành động sẽ gây thêm 1 lần sát thương bỏ qua haki lên mục tiêu hình chữ thập kèm hóa đá 1 lượt). Cuối cùng, X.Drake gây thêm 1 lần sát thương bỏ qua haki mục tiêu hình chữ thập và có tỷ lệ thấp khiến mục tiêu bị Xé Rách ( Xé Rách: xóa toàn bộ hiệu quả miễn sát thương bỏ qua phòng ngự kèm khấu trừ 20% máu). Hồi đồng đội 25 nộ khí, bản thần hồi 30 nộ khí kèm khiên miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: phong ấn trị liệu, choáng, cấm tích nộ, hỗn loạn, giảm nộ, vĩnh hằng kèm xóa nhụt chí)",
@@ -507,61 +507,148 @@
     "id": "Aramaki_S",
     "name": "Aramaki-S",
     "image": "./images/heroes/Aramaki_S.png",
-    "note": "",
-    "skills": {},
+    "note": "Aramaki-S được tiến hoá từ Aramaki-H bằng haki và viên shura. Phần này chỉ mô tả cách chiêu mộ Aramaki-H",
+    "skills": {
+      "basicAttack": "[MC] Kinniku: Aramaki tiến hành tấn công toàn bộ mục tiêu và có tỷ lệ 50% tiến hành xóa bỏ hiệu quả miễn dịch giảm hộ hoặc gây hiệu ứng hoảng sợ (cần 30 nộ mới có thể nộ) lên mục tiêu trong 2 lượt (hiệu quả trên từng mục tiêu, khi bộc phá mục tiêu có thể dính cả 2 hiệu ứng). Tiếp theo, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời Aramaki sẽ tiến hành xét xem nếu mục tiêu nào đang tiến vào trạng thái Hoảng sợ thì sẽ gây cho mục tiêu đó hiệu quả Diệp Trận (xóa bỏ hiệu quả miễn dịch tê liệt, tiến hành gây Tê liệt, giảm 50 nộ) 2 lượt. Cuối cùng, gây thêm 1 lần sát thương 30% MC bỏ qua MP lên toàn bộ mục tiêu đồng thời Aramaki sẽ tự động khấu trừ bản thân đi 10% máu (xóa lời nguyền, khấu trừ 10% máu, buff lại lời nguyền trong 2 lượt) và buff cho đồng đội (ngoại trừ bản thân)  hiệu quả Diệp Tâm ( Hồi phục 15% máu, buff hiệu quả miễn sát thương bỏ qua phòng ngự 2 lượt, miễn dịch trầm mặc, hỗn loạn, độc, đốt cháy, miễn giảm nộ) trong 2 lượt. Hồi bản thân 60 nộ khí và đồng đội 35 nộ khí ",
+      "ultimate": "[MC] Bokarin: Sử dụng năng lực trái ác quỷ hóa thân khổng lồ tiến hành tấn công toàn bộ mục tiêu đồng thời chắc chắn xóa bỏ hiệu quả miễn dịch vách sắt, tận lực lên mục tiêu hình chữ thập. Tiếp đến, gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ buff cho toàn đội hiệu quả Vách sắt, miễn sát thương đánh nộ, miễn dịch Hoảng sợ trong 1 lượt. Tiếp theo, Aramaki sẽ tiến hành xóa bỏ một số hiệu quả bất lợi cho toàn đội (choáng, mê hoặc, hỗn loạn, độc, đốt cháy, giảm sát thương về 0, cấm tích nộ, trầm mặc, đóng băng, Hoảng sợ, nhụt chí, phong ấn trị liệu), ngoài ra sẽ đưa bản thân và đồng đội có chỉ số TC cao nhất hiệu quả miễn dịch Vĩnh hằng, phong ấn trị liệu, trầm mặc, hoảng sợ giảm 90% sát thương nhận vào) trong 1 lượt. Hồi phục bản thân 65 nộ khí và toàn đội 35 nộ khí kèm theo hiệu quả hồi 20% máu và miễn sát thương bỏ qua phòng ngự 2 lượt (xóa lời nguyền, buff máu, buff lời nguyền lại)",
+      "talent": "Groves of Wrath\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 20% lượng máu giới hạn, 3 lượt đầu miễn dịch 1 số hiệu ứng bất lợi (Miễn dịch:Choáng, trầm mặc, mê hoặc, đóng băng, độc, cấm tích nộ, phong ấn trị liệu, miễn sát thương bỏ qua phòng ngự, MC, VC ). Miễn dịch vĩnh viễn Tê liệt, giảm sát thương về 0, hỗn loạn. Đánh nộ có tỷ lệ 60% loại bỏ lớp giáp MC của kẻ địch.\n\nCấp 3: MP+10% Miễn STĐT+12%\n\nCấp 5: VP+10% TCP+ 10%\n\nCấp 7: Ra trận sẽ khiến bản thân và đồng đội có chỉ số NN cao nhất hồi sinh 100% máu khi tử vong. Kết thúc đánh nộ có tỷ lệ cao buff cho toàn đội hiệu quả khiên bảo hộ (lượng sát thương bảo hộ phụ thuộc vào tam phòng của Aramaki hoặc Tận lực trong 1 lượt (khi bùng phát có thể xảy ra 2)",
+      "devilFruit": "[Trái Mori Mori] Trái ác quỷ hệ Logia cho phép chủ sở hữu có thể tạo thành 1 khu rừng và chuyển đội năng lượng của khu rừng thành sức mạnh của bản thân. Đánh thường và nộ có tỷ lệ 5% (mỗi cấp +1%) gây hiệu ứng Vĩnh Hằng lên mục tiêu trong 1 lượt (hiệu quả trên từng mục tiêu). Khi mục tiêu dính Vĩnh Hằng thì Aramaki sẽ tiến hành gây cho mục tiêu đó hiệu quả Mộng Cảnh (giảm 7,5% tỷ lệ thi triển buff của mục tiêu). Ngoài ra, ở lần đánh nộ đầu tiên Aramaki chắc chắn gây hiệu quả Diệp Trận lên mục tiêu theo hàng dọc (chỉ tác dụng 1 lần)"
+    },
     "evolutionFrom": {
-      "name": "",
+      "name": "Aramaki-H",
       "heroId": null
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "thebaiAramaki"
+      },
+      {
+        "materialId": "traiMori"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
-    "id": "Yassop_S",
+    "id": "Yasopp_S",
     "name": "Yasopp-S",
-    "image": "./images/heroes/Yassop_S.png",
-    "note": "",
-    "skills": {},
+    "image": "./images/heroes/Yasopp_S.png",
+    "note": "Yasopp-S là siêu tướng được tiến hoá từ Yasopp-H bằng haki và viên shura. Phần này chỉ mô tả cách chiêu mộ Yassop-H",
+    "skills": {
+      "basicAttack": "[MC]RapidFire: Bách phát bách trúng gây sát thương toàn bộ mục tiêu và tiến hành xoá bỏ hiệu quả miễn dịch giảm sát thương về 0 cho mục tiêu hàng ngang phía sau, đồng thời làm sát thương VC,TC,MC của mục tiêu về 0 trong 1 lượt, nhụt trí giảm 40 nộ trong 2 lượt. Phát đạn thứ 2 gây thêm 1 lần sát thương bỏ qua haki lên mục tiêu hình chữ X và gây khúc xạ lên toàn bộ mục tiêu trong 1 lượt (Khúc xạ: Giảm toàn bộ tỷ lệ ra buff trên bản thân 15%, nhụt chí giảm 45 nộ, xóa bỏ miễn dịch sát thương bỏ qua phòng ngự). Tiếp theo gây thêm 1 lần sát thương bỏ qua haki kèm theo 45% sát thương MC, bỏ qua MP toàn mục tiêu và lần sát thương này sẽ có tỷ lệ đưa bản thân nhận hiệu quả hồi sinh trong 2 lượt (không cộng dồn) và hồi phục 40% sinh mệnh. Cuối cùng gây sát thương bỏ qua haki kèm thêm 1 lần sát thương 35% MC bỏ qua MP lên toàn bộ kẻ địch và buff cho bản thân hiệu quả Hộ Mệnh (giảm 20% tỷ lệ nhận buff từ đối thủ đánh vào bản thân, miễn dịch trấn Áp) 1 lượt. Hồi động đội 30 nộ khí và bản thân hồi 60 nộ",
+      "ultimate": "[MC]Deadshot: Không để đối phương chạy thoát tấn công gây sát thương toàn bộ mục tiêu trong nhiều lần. Lần 1 sát thương bỏ qua haki lên toàn bộ mục tiêu, đồng thời xóa toàn bộ hiệu quả sát thương đánh thường và có tỷ lệ gây Trấn áp lên mục tiêu hoặc xóa miễn dịch giảm sát thương về 0 lên mục tiêu (khi bộc phá có thể xảy ra cả 2). . Tiếp theo, thêm 1 lần sát thương bỏ qua haki toàn bộ mục tiêu và giảm toàn bộ sát thương của mục tiêu về 0 trong 1 lượt. Lần 3 gây sát thương bỏ qua haki lên toàn bộ mục tiêu và xóa bỏ toàn bộ hiệu ứng vĩnh hằng, trấn áp, hỗn loạn, giảm sát thương cho toàn đội kèm theo hiệu quả vách sắt cho toàn đội trong 1 lượt. Cuối cùng gây thêm 1 lần sát thương sát thương bỏ qua haki kèm theo sát thương 30% MC, bỏ qua MP lên toàn bộ kẻ địch và xét xem nếu thấy đồng đội có lượng máu nhỏ hơn 40% sinh mệnh sẽ lập tức hồi phục 20% sinh mệnh cho đồng đội đó và tăng cho đồng đội 50 nộ khí. Hồi đồng đội 30 nộ khí kèm theo bản thân hồi 65 nộ và khiên miễn dịch sát thương bỏ qua phòng ngự 2 lượt ",
+      "talent": "Flintlock Pistol\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, Vĩnh hằng, Choáng, Hỗn loạn, Cấm tích nộ, Phong ấn trị liệu, trầm mặc, đóng băng, hoá đá, độc, đốt cháy). Miễn dịch vĩnh viễn Mê hoặc, giảm sát thương, Tê liệt, Độc, Tê liệt. Mỗi lần hành động sẽ chắc chắn xoá bỏ lớp giáp MC của kẻ địch\n\nCấp 3: TL+5% S.Mệnh+10%\n\nCấp 5: MP+10% STĐN+ 10%\n\nCấp 7: Khi tử vong Yasopp sẽ tự hồi bản thân 100% máu. Đánh nộ Yasopp sẽ có tỷ lệ thấp kết liễu mục tiêu trước mặt, khi tỷ lệ xảy ra bản thân được nhận hiệu quả cường hóa (cường hóa: tăng toàn bộ tỷ lệ buff của bản thân thêm 20%) duy trì 1 lượt. Ngoài ra, mỗi lần hành động Yasopp có tỷ lệ gây thêm 1 lần sát thương 30% MC bỏ qua MP toàn bộ mục tiêu và chọn kẻ địch có VC cao nhất xóa bỏ bỏ toàn bộ hiệu quả miễn dịch từ đòn đánh thường, đánh nộ, thiên phú.",
+      "devilFruit": ""
+    },
     "evolutionFrom": {
-      "name": "",
+      "name": "Yassop-H",
       "heroId": null
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttYassop"
+      },
+      {
+        "materialId": "sung"
+      },
+      {
+        "materialId": "coYassop"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Daifuku_S",
     "name": "Daifuku-S",
     "image": "./images/heroes/Daifuku_S.png",
-    "note": "",
-    "skills": {},
+    "note": "Daifuku-S được tiến hoá từ Daifuku-H bằng haki và viên Shura. Phần này chỉ mô tả cách chiêu mộ Daifuku-H.",
+    "skills": {
+      "basicAttack": "[VC]Rage Hunt: Daifuku tiến hành triệu hoán linh hồn từ đai lưng tấn công toàn bộ mục tiêu và có tỷ lệ gây hiệu quả Vết Cắt (Xoá miễn dịch giảm sát thương, giảm 50% toàn bộ sát thương, nhụt chí giảm 30 nộ) trong 1 lượt ngẫu nhiên 3 mục tiêu. Tiếp theo, gây thêm 1 lần sát thương bỏ qua haki kèm thêm sát thương 25% VC bỏ qua VP lên toàn bộ kẻ địch và buff cho toàn đội hiệu quả Chúc Phúc (giảm 50% sát thương nhận vào, miễn dịch hỗn loạn, trầm mặc, độc) 1 lượt. Cuối cùng gây thêm 1 lần sát thương bỏ qua haki kèm theo sát thương 30% VC bỏ qua VP lên toàn bộ kẻ địch và có tỷ lệ buff cho toàn đội hiệu quả Tận Lực (sát thương tử vong không thể tử vong, bảo lưu 1 sinh mệnh trong 1 lượt. Bản thân hồi 45 nộ khí kèm theo khiên miễn dịch sát thương đánh nộ 1 lượt.",
+      "ultimate": "[VC]Rage Split: Daifuku kết hợp với linh hồn tung ra đòn đánh hợp kích cực mạnh vào toàn bộ mục tiêu, đồng thời chắc chắn gây hiệu quả Vết Cắt lên những mục tiêu này trong 1 lượt, đồng thời Daifuku sẽ có tỷ lệ tiến vào trạng thái miễn sát thương đánh thường trong 1 lượt. Tiếp theo, gây thêm 1 lần sát thương bỏ qua haki kèm theo sát thương 30% VC bỏ qua VP toàn bộ kẻ địch và chọn kẻ địch có chỉ số sức mạnh cao nhất gây vĩnh hằng trong 1 lượt và xoá bỏ khiên miễn dịch sát thương bỏ qua phòng ngự của kẻ đó. Lần 3, gây thêm 1 lần sát thương bỏ qua haki kèm theo 1 lần sát thương 35% VC bỏ qua VP lên toàn bộ kẻ địch và buff cho toàn đội (ngoại trừ bản thân) hiệu quả Chúc Phúc trong 1 lượt. Cuối cùng, Daifuku gây thêm 1 lần sát thương 25% VC bỏ qua VP lên mục tiêu trước mặt và có tỷ lệ thấp xoá bỏ hiệu quả hồi sinh của kẻ này. Bản thân hồi 50 nộ khí ",
+      "talent": "Genie\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 20% lượng máu giới hạn, 3 lượt đầu miễn dịch 1 số hiệu ứng bất lợi (Miễn dịch:Cấm tích nộ, phong ấn trị liệu, Hỗn loạn, Đốt cháy, Tê liệt, Hoá đá, Độc, miễn sát thương bỏ qua phòng ngự ). Miễn dịch vĩnh viễn Trầm mặc, Mê hoặc, Đóng băng. Đánh nộ có tỷ lệ 60% loại bỏ lớp giáp VC của kẻ địch.\n\nCấp 3: VC+10% SM+3%\n\nCấp 5: TCPTP+ 0.05 VPTP+ 0.05\n\nCấp 7: Đánh nộ Daifuku sẽ có tỉ lệ 20%(mỗi cấp +5%) gây nhụt chí giảm 100 nộ trong 1 lượt cho mục tiêu có nộ khí lớn nhất kèm theo hiệu quả Hoảng sợ (cần 50 nộ mới có thể nộ được), khi tỷ lệ này xảy ra, bản thân Daifuku sẽ được nhận 100 nộ khí. Càng đánh càng hăng, nếu máu của Daifuku giảm 1% thì sát thương Daifuku gây ra tăng 2%, sát thương nhận vào giảm 2%. Trong 3 lượt đầu, mỗi lần hành động Daifuku cũng sẽ tự buff cho bản thân khiên Tận Lực hiệu quả trong 1 lượt.",
+      "devilFruit": "[Trái Hoya Hoya]: Mỗi lần hành động Daifuku có tỷ lệ 0% (mỗi cấp +1,5%) gây Vĩnh Hằng lên mục tiêu. Ngoài ra, khi máu của mục tiêu thấp hơn 40% thì Daifuku sẽ tiến hành xoá miễn dịch phong ấn trị liệu và gây phong ấn trị liệu lên kẻ đó trong 2 lượt."
+    },
     "evolutionFrom": {
-      "name": "",
+      "name": "Daifuku-H",
       "heroId": null
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttDai"
+      },
+      {
+        "materialId": "traiHoya"
+      },
+      {
+        "materialId": "thebaiDai"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Momonosuke_S",
     "name": "Momonosuke-S",
     "image": "./images/heroes/Momonosuke_S.png",
-    "note": "",
-    "skills": {},
+    "note": "Momonosuke-S được tiến hoá từ Momonosuke-H bằng haki và viên Shura. Phần này chỉ mô tả cách chiêu mộ Momonosuke.",
+    "skills": {
+      "basicAttack": "[TC]Flame Sword: Momonosuke thực hiện nhát chém liên tiếp nhiều nhát tấn công toàn bộ kẻ địch. Lần đầu gây 1 lần sát thương bỏ qua haki kèm theo sát thương 30% TC bỏ qua TCP toàn bộ kẻ địch đồng thời có tỉ lệ gây Vĩnh Hằng hoặc Trấn áp lên kẻ địch (Hiệu quả trên từng mục tiêu, khi bộc phá có thể ra cả 2). Lần 2 gây thêm 1 lần sát thương bỏ qua Haki toàn bộ kẻ địch đồng thời có tỉ lệ tạo thêm 1 nhát chém haki cho 2 kẻ địch ngẫu nhiên và buff cho bản thân và đồng đội có chỉ số VCTP cao nhất bộ giáp Thần Long (Buff vách sắt. Miễn Dịch: vĩnh hằng, trấn áp. Khi bị tấn công sẽ có tỉ lệ khiến kẻ địch bị dính Mộng Cảnh) trong 1 lượt. Cuối cùng, gây thêm 1 lần sát thương bỏ qua haki kèm theo 1 lần sát thương 30% TC bỏ qua TCP và buff cho toàn đội (ngoại trừ bản thân) hiệu quả Long Ngâm (Miễn dịch Vĩnh Hằng, tăng TCTP 0.2 ) trong 1 lượt. Hồi phục đồng đội 45 nộ khí.",
+      "ultimate": "[TC]Bolo Breath: Momonosuke hoá thân thành thần long sử dụng hơi thở của rồng tấn công toàn bộ kẻ địch kèm theo 1 lần sát thương 30% TC bỏ qua TCP, đồng thời xóa bỏ hiệu quả vách sắt, miễn sát thương đánh thường toàn mục tiêu. Tiếp theo, gây thêm 1 lần sát thương bỏ qua haki kèm theo 1 lần sát tương 30% TC bỏ qua TCP toàn bộ kẻ địch và chọn mục tiêu hàng dọc tiến hành xóa bỏ miễn dịch giảm sát thương và tiến hành giảm toàn bộ sát thương của kẻ địch về 0 kèm hiệu quả nhụt chí (trừ 100 nộ) trong 1 lượt. Tiếp tục gây thêm 1 lần sát thương bỏ qua haki toàn bộ kẻ địch và đưa bản thân vào trạng thái Ẩn thân (miễn sát thương đánh thường, nộ) 1 lượt và hóa giải một số hiệu ứng xấu cho đồng đội (Vĩnh hằng, nhụt chí, độc, đốt cháy). Hồi toàn đội 40 nộ",
+      "talent": "Kozuki Family\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, Hỗn loạn, Mê hoặc, Giảm nộ, cấm tích nộ, trầm mặc, phong ấn trị liệu, đóng băng, vĩnh hằng, TC, VC ). Miễn dịch vĩnh viễn Độc, Đốt cháy, Choáng, Tê liệt, Hoá đá. Mỗi lần hành động sẽ chắc chắn xoá bỏ lớp giáp TC của kẻ địch.\n\nCấp 3: TC+15% TCP+15%\n\nCấp 5: S.Mệnh +15% TCPTP+ 0.01\n\nCấp 7: Mỗi lần hành động nếu TCP của kẻ địch nhỏ hơn 70% TC của Momonosuke thì Momonosuke tiến hành gây Trấn Áp. Khi gặp nộ công, bản thân Momonosuke sẽ được tự động tăng 20% máu (tối đá 2 lần). Khi tử vong bản thân sẽ được hồi sinh 1 lần",
+      "devilFruit": "[Trái Uo Uo Model: Seiryu: Trái Ác Quỷ nhân tạo do Vegapunk đặc biệt chế tạo. Mỗi lần hành động có tỉ lệ 15% (mỗi cấp + 2%) gây thêm 1 lần sát thương bỏ haki kèm sát thương 30% TC bỏ qua TCP 2 kẻ địch ngẫu nhiên đồng thời tiến hành xóa miễn dịch Hỗn Loạn và gây Hỗn Loạn cho kẻ đó trong 2 lượt và gây thêm hiệu ứng Sát Long 1 lượt (Sau khi kẻ địch thực hiện đòn đánh Hỗn Loạn xong thì sẽ tấn công gây 1 lần sát thương bỏ qua haki lên đồng minh và có tỉ lệ gây Vĩnh Hằng lên chúng). Mỗi lần hành động có tỉ lệ hồi phục bản thân 100% máu."
+    },
     "evolutionFrom": {
-      "name": "",
+      "name": "Momonosuke-H",
       "heroId": null
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttMomo"
+      },
+      {
+        "materialId": "traiSmile"
+      },
+      {
+        "materialId": "tinVat"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Kaido_S",
     "name": "Kaido-S",
     "image": "./images/heroes/Kaido_S.png",
-    "note": "",
-    "skills": {},
+    "note": "Kaido-S là siêu tướng tiến hoá từ Kaido-H bằng điểm Haki và viên Shura. Phần này chỉ mô tả cách chiêu mộ Kaido-H.",
+    "skills": {
+      "basicAttack": "[VC]Thunder Bagua : Kaido sử dụng vũ khí của mình tiến hành tấn công mục tiêu nhiều lần. Lần thứ nhất tấn công toàn bộ kẻ địch kèm theo sát thương 30% VC bỏ qua VP và chắc chắn gây Vĩnh Hằng cho 3 mục tiêu ngẫu nhiên.Tiếp theo, gây thêm 1 lần sát thương haki kèm theo sát thương 25% VC bỏ qua VP toàn bộ kẻ địch, có tỷ lệ cao xoá bỏ miễn dịch cấm tích nộ và gây cấm tích nộ trong 2 lượt cho toàn mục tiêu. Lần 3, gây thêm 1 lần sát thương bỏ quả haki kèm theo 1 lần sát thương 30% VC bỏ qua VP lên toàn bộ kẻ địch và xét xem nếu có mục tiêu nào đang dính phải Cấm Tích Nộ thì Kaido sẽ gây cho mục tiêu hiệu quả Suy Kiệt (Tăng 15% tỷ lệ nhận hiệu ứng xấu từ kẻ địch) 1 lượt. Cuối cùng, gây thêm 1 lần sát thương 15.000.000 nguyên tố Lôi cho kẻ địch có nộ khí cao nhất kèm theo nhụt chí 50 nộ và buff cho bản thân hiệu quả miễn dịch (Vĩnh Hằng, miễn giảm nộ, giảm sát thương về 0) trong 2 lượt. Hồi phục cho đồng đội 30 nộ khí và bản thân 75 nộ khí",
+      "ultimate": "[VC]Dragon Flame Bagua: Hoá thân thành Rồng tấn công toàn bộ kẻ địch và xoá bỏ toàn bộ hiệu quả sát thương bảo lưu 1 sinh mệnh, miễn sát thương đánh thường đồng thời bản thân kích hoạt thêm 1 lần tỉ lệ ra Long Uy ở trái lên mục tiêu. Tiếp theo, thêm 1 lần sát thương bỏ qua haki và bản thân có tỷ lệ kích hoạt Ẩn Nấp (không thể bị đánh thường, vẫn nhận buff từ đồng đội), và khi bản thân ra Ẩn Nấp sẽ buff toàn đội khiên miễn dịch (trừ bản thân) (Vĩnh hằng, cấm tích nộ, tê liệt, hỗn loạn, độc, đốt cháy, giảm nộ) trong 2 lượt và hồi phục 35% sinh mệnh. Lần 3 gây thêm 1 lần sát thương bỏ qua haki kèm theo sát thương 30% VC bỏ qua VP toàn bộ kẻ địch đồng thời buff hiệu quả Hồi Sinh trong 2 lượt (không cộng dồn) cho đồng đội có nộ khí cao nhất (tác dụng tối đa 3 lần cho cả trận) và có tỉ lệ gây Vĩnh Hằng 1 lượt lên mục tiêu. Cuối cùng gây thêm 1 lần sát thương bỏ qua haki cho mục tiêu hình chữ X đồng thời xét xem nếu VP của mục tiêu thấp hơn 70% VP của Kaido thì Kaido sẽ tiến hành xoá hiệu quả miễn dịch Vĩnh Hằng của mục tiêu. Hồi bản thân 110 nộ và đồng đội 35 nộ khí.",
+      "talent": "Flame Dragon\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, TC,VC,MC, cấm tích nộ, tê liệt, hỗn loạn, độc, đốt cháy, giảm nộ, vĩnh hằng, giảm sát thương về 0, hoá đá). Miễn dịch vĩnh viễn choáng, phong ấn trị liệu, đóng băng, mê hoặc, trầm mặc. Mỗi lần hành động sẽ chắc chắn xoá bỏ lớp giáp VC của kẻ địch\n\nCấp 3: Miễn S.thương đánh thường +10% Miễn S.thương đánh nộ +10%\n\nCấp 5: VC +15% VP +10%\n\nCấp 7: Khi Kaido bị tấn công, hồi 3% lượng máu lớn nhất (không bị ảnh hưởng tới lời nguyền). Mỗi lần hành động Kaido sẽ tự buff cho bản thân hiệu quả miễn sát thương bỏ qua phòng ngự trong 2 lượt. Lần đầu tiên ra trận Kaido bộc phá haki bá vương phá huỷ khiên miễn dịch sát thương bỏ qua phòng ngự của kẻ địch đứng ở vị trí trước mặt. Sau khi kết thúc Đánh nộ, Kaido sẽ tiến hành Buff cho bản thân hiệu quả miễn dịch Trấn Áp trong 3 lượt, đồng thời tiến hành lựa chọn ngẫu nhiên 1 mục tiêu địch và đưa GHM của mục tiêu đó về 20% (hiệu quả tác dụng 1 lần)",
+      "devilFruit": "[Trái Uo Uo]: Trái ác quỷ hệ Zoan thần thoại cho phép bản thân Kaido biến thành 1 còn rồng Phương Đông. Đánh thường và nộ có tỷ lệ 10%(mỗi cấp + 2%) bộc phá Long Uy (Xoá vách sắt, tận lực, miễn sát thương bỏ qua phòng ngự, khấu trừ 20% máu, gây Trấn Áp) 2 mục tiêu ngẫu nhiên và khi lượng máu của kẻ đó còn dưới 50% thì sẽ gây Mộng Cảnh (giảm 10% tỉ lệ ra hiệu ứng) trong 1 lượt."
+    },
     "evolutionFrom": {
-      "name": "",
+      "name": "Kaido-H",
       "heroId": null
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttKaido"
+      },
+      {
+        "materialId": "traiUo"
+      },
+      {
+        "materialId": "coKaido"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Reiju_S",
@@ -615,13 +702,31 @@
     "id": "Bigmom_S",
     "name": "Bigmom-S",
     "image": "./images/heroes/Bigmom_S.png",
-    "note": "",
-    "skills": {},
+    "note": "Bigmom-S được tiến hoá từ Benn Bigmom-H. Phần này chỉ mô tả cách chiêu mộ BigmomH",
+    "skills": {
+      "basicAttack": "[MC] Zeus Thunderbolt: [MC]: BigMom tiến hành triệu hồi Zeus tấn công toàn bộ mục tiêu trong nhiều lần. Đầu tiên tấn công toàn bộ mục tiêu và có tỉ lệ gây Vĩnh Hằng 1 lượt cho kẻ địch. Tiếp theo, gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ kẻ địch và gây hiệu ứng Sấm chớp (Nhụt chí giảm 50 nộ, Cấm tích nộ, trầm mặc, tê liệt) 2 lượt lên toàn bộ kẻ địch. Cuối cùng Bigmom gây thêm một lần sát thương bỏ qua haki toàn bộ kẻ địch đồng thời có tỉ lệ chọn kẻ địch ở hàng phía trước tiến hành buff hiệu quả 20% GHM cho kẻ đó. Hồi toàn đội và bản thân 55 nộ khí kèm theo hiệu quả xoá bỏ một số hiệu ứng bất lợi ( Nhụt chí, Hỗn Loạn, Choáng, Mê Hoặc, Hoá Đá, Phong ấn trị liệu).",
+      "ultimate": "[MC]Prometheus Fireball: BigMom thay đổi hình dạng triệu hồi Promethus tấn công toàn bộ kẻ địch, hoá giải 1 số hiệu ứng bất lợi cho toàn đội (Choáng, hỗn loạn, mê hoặc, hoá đá, tê liệt, cấm tích nộ, đốt cháy, độc, đóng băng, trầm mặc, phong ấn trị liệu) và buff khiên miễn dịch hiệu ứng (Choáng, hỗn loạn, mê hoặc, hoá đá, tê liệt, cấm tích nộ, đốt cháy, độc, đóng băng, trầm mặc, phong ấn trị liệu) cho toàn đội trong 2 lượt. Tiếp theo thêm 1 lần sát thương bỏ qua haki toàn bộ kẻ địch và hồi 40% máu (không bị ảnh hưởng bởi Lời Nguyền) cho toàn đội. Tiếp theo sẽ gây thêm 1 lần sát thương bỏ qua haki cho toàn bộ kẻ địch và có tỷ lệ buff miễn dịch đánh nộ cho đồng đội. Cuối cùng gây thêm 1 lần sát thương vào 2 kẻ địch ngẫu nhiên và chắc chắn gây Vĩnh Hằng lên kẻ đó. Bản thân và đồng đội hồi 55 nộ khí",
+      "talent": "BigMom Pirates\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn, 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Cấm tích nộ, giảm sát thương về 0, Độc, Đốt Cháy, Trầm Mặc, Đóng Băng, Sát thương bỏ quả phòng ngự, TC,MC). Miễn dịch vĩnh viễn Hỗn Loạn, Mê Hoặc, Tê Liệt. Ngoài ra, khi ra trận Bigmom sẽ được miễn dịch hiệu ứng Vĩnh Hằng, Trấn Áp trong 2 lượt.\n\nCấp 3: MC +10% S.Mệnh +10%\n\nCấp 5: S.thương đánh thường +10% S.thương đánh nộ +10%\n\nCấp 7: Tấn công thường nếu Bigmom có dưới 80 nộ khí thì sẽ thêm một lần sát thương 35% MC bỏ qua MP và buff cho 2 đồng đội ngẫu nhiên vào trạng thái Miễn sát thương đánh thường trong 1 lượt. Ra trận sẽ chọn bản thân và đồng đội có chỉ sô NN cao nhất hồi sinh 1 lần (không cộng dồn với hồi sinh khác). Nếu có 1 đồng đội tử vong thì ở các lượt hành động kế tiếp Bigmom sẽ khấu trừ 20% máu của toàn bộ kẻ địch.",
+      "devilFruit": "[Trái Soru Soru]: Bigmom sẽ chuyển đổi khả năng của mình theo cấp trái. Nếu cấp độ trái của Bigmom là số lẻ thì đánh thường và nộ sẽ có tỉ lệ (10%) (+5% ở cấp độ 1,3,5,7,9) gây hiệu ứng Hoảng Sợ (Cần thêm 75 nộ mới có thể đánh nộ) lên kẻ địch. Đồng thời sẽ xét xem nếu kẻ địch nào đang ở trạng thái Hoảng Sợ thì Bigmom sẽ tiến hành xoá hiệu quả có lợi (miễn dịch thiên phú, miễn dịch ở trái, miễn giảm nộ, lời nguyền) và gây phong ấn trị liệu trong 2 lượt. Nếu cấp độ trái của Bigmom là số chẵn thì đánh thường và nộ Bigmom có tỉ lệ (10%) (+5% ở cấp độ 2,4,6,8,10) buff hiệu quả Cường Hoá (tăng thêm 20% tất cả hiệu ứng đến từ mọi nguồn), 50 nộ kèm theo khiên miễn dịch vĩnh hằng và hiệu quả tăng 100% sát thương tấn công, giảm 70% sát thương nhận vào 1 lượt cho 3 đồng đội ngẫu nhiên. Miễn dịch vĩnh viễn Phong ấn trị liệu, hoá đá, choáng"
+    },
     "evolutionFrom": {
-      "name": "",
+      "name": "Bigmom-H",
       "heroId": null
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttBigmom"
+      },
+      {
+        "materialId": "Prometheus"
+      },
+      {
+        "materialId": "Zues"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Nami_S3",
@@ -975,13 +1080,28 @@
     "id": "Kizaru_S2",
     "name": "Kizaru-S2",
     "image": "./images/heroes/Kizaru_S2.png",
-    "note": "",
-    "skills": {},
+    "note": "Kizaru-S2 được tiến hoá từ Kizaru-S. Kizaru-S chỉ cần tiến hoá từ Kizaru bằng Haki và viên Shura. Kizaru có thể mua tại shop làng cối xay gió.",
+    "skills": {
+      "basicAttack": "[TC] Light Sword: Kizaru tiến hành tấn công toàn bộ mục tiêu và có tỷ lệ xóa hiệu quả miễn dịch Hóa Đá, Phong ấn trị liệu lên mục tiêu (hiệu quả trên từng mục tiêu, khi bộc phá có thể xóa cả 3). Tiếp theo, Kizaru tiếp tục tấn công toàn bộ mục tiêu và chắc chắn gây ra hiệu ứng Quang Phá (Hóa đá, phong ấn trị liệu, nhụt chí giảm 35 nộ, cấm tích nộ) 1 lượt. Lần 3, thêm 1 lần sát thương bỏ qua haki hình chữ thập và Kizaru sẽ xét xem nếu TCP của mục tiêu nhỏ hơn 90% TCP của Kizaru thì chắc chắn sẽ gây Bỏng cho mục tiêu đó (xóa miễn sát thương bỏ qua phòng ngự, gây thêm 1 lần sát thương 15% TC bỏ qua TCP, Vĩnh Hằng) 1 lượt. Cuối cùng, gây thêm 1 lần sát thương 30% TC bỏ qua TCP lên mục tiêu hàng ngang và có tỷ lệ xóa bỏ khiên miễn dịch hiệu ứng của kẻ đó. Hồi đồng đội 30 nộ khí, bản thân hồi 30 nộ kèm theo hiệu quả miễn dịch 1 sốt hiệu ứng bất lợi trong 1 lượt (Miễn dịch: Cấm tích nộ, trầm mặc, hỗn loạn, giảm sát thương về 0, tê liệt, đóng băng) ",
+      "ultimate": "[TC] Yasakani Sacred Jewel: Triệu hồi hàng loạt cột sáng tấn công vào toàn bộ mục tiêu và có tỷ lệ kích hoạt hiệu quả Suy Yếu (nhụt chí giảm 50 nộ, choáng, giảm 5% tỷ lệ thi triển buff) lên toàn mục tiêu trong 1 lượt. Tiếp theo, gây thêm 1 lần sát thương bỏ qua haki kèm theo sát thương 30% TC bỏ qua TCP lên toàn bộ mục tiêu kèm theo hiệu quả buff bản thân và 2 đồng đội hiệu quả tăng 100% VP, miễn sát thương bỏ qua phòng ngự trong 2 lượt. Lần 3, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và chọn kẻ địch có chỉ số VC lớn nhất khiến hắn sát thương của hắn bị đưa về 0 trong 2 lượt và Vĩnh Hằng 1 lượt. Cuối cùng gây thêm 1 lần sát thương 35% TC bỏ qua TCP lên toàn bộ mục tiêu và xóa bỏ một số hiệu ứng bất lợi và buff miễn dịch những hiệu ứng đó cho toàn đội trong 1 lượt (Nhụt chí, độc, cấm tích nộ, mê hoặc, giảm sát thương về 0). Bản thân hồi 50 nộ khí và hồi đồng đội 40 nộ khí",
+      "talent": "Light Beam\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 20% lượng máu giới hạn, 3 lượt đầu miễn dịch 1 số hiệu ứng bất lợi (Miễn dịch: Miễn sát thương bỏ qua phòng ngự, hỗn loạn, phong ấn trị liệu, tê liệt, đóng băng, TC, cấm tích nộ, đóng băng). Miễn dịch vĩnh viễn Hóa đá, đốt cháy, trầm mặc. Đánh nộ có tỷ lệ 60% loại bỏ lớp giáp TC của mục tiêu\n\nCấp 3: TC+10% S.Mệnh+10%\n\nCấp 5: Miễn STĐT+10% Miễn STĐN+ 10%\n\nCấp 7: Vào trận Kizaru sẽ được buff hiệu quả bảo vệ không nhận sát thương đánh thường và nộ trong 1 lượt (không thể nhận buff từ đồng đội). Mỗi lần hành động Kizaru sẽ có tỷ lệ buff hiệu quả Chặn Đòn lên bản thân. Nếu Kizaru tiến hành Phản Kích thành công thì sẽ tấn công gây 1 lần sát thương haki kèm theo sát thương 30% TC bỏ qua TCP lên 1 kẻ địch ngẫu nhiên và có tỷ lệ cao gây Vĩnh Hằng hoặc giảm 30 nộ cho kẻ đó (khi bộc phá có thể ra cả 2)",
+      "devilFruit": "[Trái Pika Pika]: Thuộc hệ Logia, ban cho chủ sở hữu sức mạnh điều khiển ánh sáng. Mỗi lần hành động có tỷ lệ 20% (mỗi cấp +1,5%) gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời xóa hiệu quả miễn dịch Đốt cháy và gây Đốt cháy (thiêu đốt 20% máu) trong 1 lượt lên 2 mục tiêu ngẫu nhiên. Đánh nộ nếu mục tiêu có dưới 30% (mỗi cấp +2%) máu thì Kizaru sẽ tiến hành gây thêm 1 lần sát thương 20% TC bỏ qua TCP lên mục tiêu, đồng thời nếu mục tiêu có dưới 10% (mỗi cấp +1%) máu thì sẽ bị tiêu diệt ngay lập tức."
+    },
     "evolutionFrom": {
-      "name": "",
+      "name": "Kizaru-S",
       "heroId": null
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "huyHieuKiz"
+      },
+      {
+        "materialId": "traiPika"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Hitetsu_S",
@@ -995,7 +1115,7 @@
       "devilFruit": ""
     },
     "evolutionFrom": {
-      "name": "Hitestu-H",
+      "name": "Hitetsu-H",
       "heroId": null
     },
     "materials": [
@@ -1017,12 +1137,30 @@
     "id": "Bennbeckman_S",
     "name": "Benn Beckman-S",
     "image": "./images/heroes/Bennbeckman_S.png",
-    "note": "",
-    "skills": {},
+    "note": "Benn Beckman-S được tiến hoá từ Benn Beckman-H. Phần này chỉ mô tả cách chiêu mộ Benn Beckman-H",
+    "skills": {
+      "basicAttack": "[TC] Bullet Gun: Benn Beckman tiến hành gây sát thương toàn bộ mục tiêu và kèm theo hiệu quả Hỗn Loạn, Mê Hoặc 2 lượt. Tiếp theo gây thêm 1 lần sát thương bỏ qua haki kèm theo sát thương 30% TC bỏ qua TCP và chọn 2 kẻ địch ngẫu nhiên tiến hành gây hiệu ứng Trấn Áp (Phong ấn mọi hiệu ứng đến từ đòn đánh và trái, chỉ có thể ra đòn đánh thường). Cuối cùng gây thêm 1 lần sát thương bỏ qua haki kèm theo sát thương 35% TC bỏ qua TCP đồng thời có tỉ lệ buff ngẫu nhiên 1 đồng đội hiệu quả miễn dịch Vĩnh Hằng trong 1 lượt. Hồi phục bản thân 75 nộ khí và đồng đội 30 nộ khí",
+      "ultimate": "[TC] Explosion Power: Benn Beckman tấn công toàn bộ mục tiêu và tiến hành xoá toàn bộ hiệu quả miễn dịch đánh thường, vách sắt, bảo lưu sinh mệnh không thể tử vong của toàn bộ kẻ địch. Thêm 1 lần sát thương bỏ qua haki kèm theo sát thương 30% TC bỏ qua TCP và có tỉ lệ kích hoạt hiệu quả Trấn Áp lên 3 mục tiêu. Tiếp tục gây thêm 1 lần sát thương bỏ qua haki toàn bộ kẻ địch kèm theo 1 lần sát thương 30% TC bỏ qua TCP, đồng thời xem xét nếu bản thân có lượng máu thấp hơn 60% thì sẽ chắc chắn gây Vĩnh Hằng lên 3 mục tiêu ngẫu nhiên. Lần 4 gây thêm 1 lần sát thương bỏ qua haki toàn bộ kẻ địch và buff cho bản thân hiệu quả miễn dịch Vĩnh Hằng, miễn giảm nộ trong 1 lượt. Cuối cùng tấn công bằng sát thương bỏ qua haki vào kẻ địch có chỉ số VCTP cao nhất và tiến hành xoá toàn bộ hiệu quả có lợi của kẻ đó (xoá miễn dịch thiên phú, trái ác quỷ, buff chặn đòn, hồi sinh). Hồi bản thân 100 nộ và đồng đội 35 nộ khí",
+      "talent": "Stealth\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Choáng, Phong ấn trị liệu, trầm mặc, hỗn loạn, mê hoặc, tê liệt, Sát thương bỏ quả phòng ngự, TC,VC). Miễn dịch vĩnh viễn Hoá Đá, Cấm Tích Nộ, Đóng Băng, Đốt cháy, Độc.\n\nCấp 3: NN +5% S.Mệnh +10%\n\nCấp 5: S.thương đánh thường +10% S.thương đánh nộ +10%\n\nCấp 7: Mỗi lần hành động bản thân sẽ Benn Beckman sẽ hồi 20% máu kèm theo hiệu quả Lời Nguyền trong 2 lượt. Khi bị tấn công thường Benn Beckman sẽ có tỷ lệ khiến kẻ tấn công dính phải hiệu quả Trấn Áp trong 1 lượt. Nếu có 2 đồng đội tử vong lượt hành động tiếp theo của Benn sẽ xoá toàn bộ hiệu quả Lời Nguyền của toàn địch. 3 đồng đội tử vong sẽ gây thêm 1 lần sát thương 30% TC bỏ qua TCP.",
+      "devilFruit": ""
+    },
     "evolutionFrom": {
-      "name": "",
+      "name": "Benn Beckman-H",
       "heroId": null
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttBen"
+      },
+      {
+        "materialId": "coBen"
+      },
+      {
+        "materialId": "sungFireArm"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   }
 ]

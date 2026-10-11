@@ -114,29 +114,34 @@
       "./images/materials/Basics/conDauChinhPhu.png"
     ],
     "description": "Vật phẩm ghép lệnh triệu tập của một số siêu tướng từ sau Uta trở đi. Thông thường sễ là rào cản để tránh người chơi skip tướng vì kiếm rất khó",
-    "farmSources": [
-      {
-        "farmSourceId": "grandline",
-        "amount": null
-      },
-      {
-        "farmSourceId": "Uta",
-        "amount": null
-      },
-      {
-        "farmSourceId": "NhatKyHanhTrinh",
-        "amount": null
-      },
-      {
-        "farmSourceId": "LenSieuTuongCu",
-        "amount": null
-      }
-    ],
-    "exchangeMaterials": [],
     "infoImages": [
       "./images/materials/Basics/tuiNLDHTA.png"
     ],
-    "exchangeShops": []
+    "exchangeShops": [],
+    "farmSources": [
+      {
+        "sourceId": "NhatKyHanhTrinh"
+      },
+      {
+        "sourceId": "LenSieuTuongCu"
+      },
+      {
+        "sourceId": "grandline"
+      },
+      {
+        "sourceId": "PhanHoiSieuLon"
+      },
+      {
+        "sourceId": "ToDoiChien"
+      },
+      {
+        "sourceId": "Uta"
+      },
+      {
+        "sourceId": "Belly"
+      }
+    ],
+    "exchangeMaterials": []
   },
   {
     "id": "universal_coin",
@@ -145,34 +150,38 @@
       "./images/materials/Basics/xuVanNang.png"
     ],
     "description": "Vật phẩm rất khó kiếm nếu chơi chay. Được sử dụng chủ yếu đổi đổi trái ác quỷ và siêu tướng, phụ thuộc rất nặng vào việc nạp hoặc tích key của siêu tướng cũ",
-    "farmSources": [
-      {
-        "farmSourceId": "grandline",
-        "amount": null
-      },
-      {
-        "farmSourceId": "NhatKyHanhTrinh",
-        "amount": null
-      },
-      {
-        "farmSourceId": "PhanHoiSieuLon",
-        "amount": null
-      },
-      {
-        "farmSourceId": "LeBaoThoiHan",
-        "amount": null
-      },
-      {
-        "farmSourceId": "VuonAcMa",
-        "amount": null
-      }
-    ],
-    "exchangeMaterials": [],
     "infoImages": [
       "./images/Information/quaPhan.png",
       "./images/Information/xuKey.png"
     ],
-    "exchangeShops": []
+    "exchangeShops": [],
+    "farmSources": [
+      {
+        "sourceId": "NhatKyHanhTrinh"
+      },
+      {
+        "sourceId": "grandline"
+      },
+      {
+        "sourceId": "PhanHoiSieuLon"
+      },
+      {
+        "sourceId": "LeBaoThoiHan"
+      },
+      {
+        "sourceId": "VuonAcMa"
+      },
+      {
+        "sourceId": "TinhLinh"
+      },
+      {
+        "sourceId": "PhucLoiLeTet"
+      },
+      {
+        "sourceId": "KibiDango"
+      }
+    ],
+    "exchangeMaterials": []
   },
   {
     "id": "chieuMo_point",
@@ -181,35 +190,44 @@
       "./images/materials/Basics/chieuMo.png"
     ],
     "description": "Điểm chiêu mộ dùng để đổi các vật phẩm trong shop cây ác ma. Điểm có thể được khai thác ở rất nhiều nguồn khác nhau",
+    "infoImages": [],
+    "exchangeShops": [],
     "farmSources": [
       {
-        "farmSourceId": "NhaXuongVegapunk",
-        "amount": null
+        "sourceId": "NhatKyHanhTrinh"
       },
       {
-        "farmSourceId": "grandline",
-        "amount": null
+        "sourceId": "grandline"
       },
       {
-        "farmSourceId": "TinhLinh",
-        "amount": null
+        "sourceId": "PhanHoiSieuLon"
       },
       {
-        "farmSourceId": "TamBaoChien",
-        "amount": null
+        "sourceId": "LeBaoThoiHan"
       },
       {
-        "farmSourceId": "PhanHoiSieuLon",
-        "amount": null
+        "sourceId": "VuonAcMa"
       },
       {
-        "farmSourceId": "LeBaoThoiHan",
-        "amount": null
+        "sourceId": "NhaXuongVegapunk"
+      },
+      {
+        "sourceId": "TinhLinh"
+      },
+      {
+        "sourceId": "TamBaoChien"
+      },
+      {
+        "sourceId": "CayAcMa"
+      },
+      {
+        "sourceId": "TichLuyTieuHao"
+      },
+      {
+        "sourceId": "KibiDango"
       }
     ],
-    "exchangeMaterials": [],
-    "infoImages": [],
-    "exchangeShops": []
+    "exchangeMaterials": []
   },
   {
     "id": "oniPoint",
@@ -220,7 +238,11 @@
     "description": "Điểm oni hiện chỉ có thể lấy qua top 1 sự kiện Onigashima",
     "infoImages": [],
     "exchangeShops": [],
-    "farmSources": [],
+    "farmSources": [
+      {
+        "sourceId": "Onigashima"
+      }
+    ],
     "exchangeMaterials": []
   },
   {
@@ -278,39 +300,41 @@
       "./images/materials/Basics/chienCongPoint.png"
     ],
     "description": "Điểm chiến công dùng để đổi các vật phẩm trong shop colosseum. Điểm có thể được khai thác ở rất nhiều nguồn khác nhau",
+    "infoImages": [],
+    "exchangeShops": [],
     "farmSources": [
       {
-        "farmSourceId": "NhaXuongVegapunk",
-        "amount": null
+        "sourceId": "NhatKyHanhTrinh"
       },
       {
-        "farmSourceId": "grandline",
-        "amount": null
+        "sourceId": "PhanHoiSieuLon"
       },
       {
-        "farmSourceId": "TinhLinh",
-        "amount": null
+        "sourceId": "LeBaoThoiHan"
       },
       {
-        "farmSourceId": "TamBaoChien",
-        "amount": null
+        "sourceId": "VuonAcMa"
       },
       {
-        "farmSourceId": "PhanHoiSieuLon",
-        "amount": null
+        "sourceId": "NhaXuongVegapunk"
       },
       {
-        "farmSourceId": "TichLuyTieuHao",
-        "amount": null
+        "sourceId": "TinhLinh"
       },
       {
-        "farmSourceId": "HTTT",
-        "amount": null
+        "sourceId": "TamBaoChien"
+      },
+      {
+        "sourceId": "HaiTacThongThai"
+      },
+      {
+        "sourceId": "PhucLoiLeTet"
+      },
+      {
+        "sourceId": "KibiDango"
       }
     ],
-    "exchangeMaterials": [],
-    "infoImages": [],
-    "exchangeShops": []
+    "exchangeMaterials": []
   },
   {
     "id": "CongHuan_point",
@@ -319,39 +343,38 @@
       "./images/materials/Basics/congHuanPoint.png"
     ],
     "description": "Điểm công huân dùng để đổi các vật phẩm trong shop colosseum. Điểm có thể được khai thác ở rất nhiều nguồn khác nhau",
+    "infoImages": [],
+    "exchangeShops": [],
     "farmSources": [
       {
-        "farmSourceId": "NhaXuongVegapunk",
-        "amount": null
+        "sourceId": "LeBaoThoiHan"
       },
       {
-        "farmSourceId": "grandline",
-        "amount": null
+        "sourceId": "VuonAcMa"
       },
       {
-        "farmSourceId": "TinhLinh",
-        "amount": null
+        "sourceId": "NhaXuongVegapunk"
       },
       {
-        "farmSourceId": "TamBaoChien",
-        "amount": null
+        "sourceId": "TinhLinh"
       },
       {
-        "farmSourceId": "PhanHoiSieuLon",
-        "amount": null
+        "sourceId": "TamBaoChien"
       },
       {
-        "farmSourceId": "TichLuyTieuHao",
-        "amount": null
+        "sourceId": "HaiTacThongThai"
       },
       {
-        "farmSourceId": "HTTT",
-        "amount": null
+        "sourceId": "PhucLoiLeTet"
+      },
+      {
+        "sourceId": "TichLuyTieuHao"
+      },
+      {
+        "sourceId": "PandaMan"
       }
     ],
-    "exchangeMaterials": [],
-    "infoImages": [],
-    "exchangeShops": []
+    "exchangeMaterials": []
   },
   {
     "id": "PhienPoneglyphs",
@@ -362,7 +385,26 @@
     "description": "Một trong những vật phẩm cực quan trọng để chiêu mộ/ tiến hoá tướng tầm trung.\nCó thể đổi thêm tại Bigevent hoặc bằng đồng Berry.\nNếu đổi bằng đồng Berry thì tỉ lệ 8k lực- 100 phiến, nếu farm tại big event thì 10 hộp ~13k lực cho 100 phiến.",
     "infoImages": [],
     "exchangeShops": [],
-    "farmSources": [],
+    "farmSources": [
+      {
+        "sourceId": "NhatKyHanhTrinh"
+      },
+      {
+        "sourceId": "PhanHoiSieuLon"
+      },
+      {
+        "sourceId": "VuonAcMa"
+      },
+      {
+        "sourceId": "TinhLinh"
+      },
+      {
+        "sourceId": "TamBaoChien"
+      },
+      {
+        "sourceId": "Belly"
+      }
+    ],
     "exchangeMaterials": []
   },
   {
@@ -372,35 +414,47 @@
       "./images/materials/Basics/wanoPoint.png"
     ],
     "description": "Điểm wano dùng để đổi các vật phẩm trong shop Wano. Điểm có thể được khai thác ở rất nhiều nguồn khác nhau",
+    "infoImages": [],
+    "exchangeShops": [],
     "farmSources": [
       {
-        "farmSourceId": "ChienTruongWano",
-        "amount": null
+        "sourceId": "NhatKyHanhTrinh"
       },
       {
-        "farmSourceId": "NhaXuongVegapunk",
-        "amount": null
+        "sourceId": "grandline"
       },
       {
-        "farmSourceId": "grandline",
-        "amount": null
+        "sourceId": "PhanHoiSieuLon"
       },
       {
-        "farmSourceId": "TinhLinh",
-        "amount": null
+        "sourceId": "LeBaoThoiHan"
       },
       {
-        "farmSourceId": "TamBaoChien",
-        "amount": null
+        "sourceId": "VuonAcMa"
       },
       {
-        "farmSourceId": "HaiTacThongThai",
-        "amount": null
+        "sourceId": "NhaXuongVegapunk"
+      },
+      {
+        "sourceId": "TinhLinh"
+      },
+      {
+        "sourceId": "TamBaoChien"
+      },
+      {
+        "sourceId": "ChienTruongWano"
+      },
+      {
+        "sourceId": "PhucLoiLeTet"
+      },
+      {
+        "sourceId": "TichLuyTieuHao"
+      },
+      {
+        "sourceId": "PandaMan"
       }
     ],
-    "exchangeMaterials": [],
-    "infoImages": [],
-    "exchangeShops": []
+    "exchangeMaterials": []
   },
   {
     "id": "vivre_card",
@@ -409,39 +463,66 @@
       "./images/materials/Basics/vivreCard.png"
     ],
     "description": "Một trong 3 vật phẩm nguyên liệu đại hải trình dùng để đổi siêu tướng.",
-    "farmSources": [
-      {
-        "farmSourceId": "CongHoiChien"
-      },
-      {
-        "farmSourceId": "VuotAiDaiChien"
-      },
-      {
-        "farmSourceId": "grandline"
-      },
-      {
-        "farmSourceId": "PhanHoiSieuLon"
-      },
-      {
-        "farmSourceId": "LeBaoThoiHan"
-      },
-      {
-        "farmSourceId": "TuHoangTranhBa"
-      },
-      {
-        "farmSourceId": "TamBaoChien"
-      },
-      {
-        "farmSourceId": "Uta"
-      }
-    ],
-    "exchangeMaterials": [],
     "infoImages": [
       "./images/materials/Basics/RuongNLDHT.png",
       "./images/materials/Basics/TuiNLDHT.png",
       "./images/materials/Basics/TuiNLDHTA.png"
     ],
-    "exchangeShops": []
+    "exchangeShops": [],
+    "farmSources": [
+      {
+        "sourceId": "NhatKyHanhTrinh"
+      },
+      {
+        "sourceId": "grandline"
+      },
+      {
+        "sourceId": "PhanHoiSieuLon"
+      },
+      {
+        "sourceId": "LeBaoThoiHan"
+      },
+      {
+        "sourceId": "VuonAcMa"
+      },
+      {
+        "sourceId": "NhaXuongVegapunk"
+      },
+      {
+        "sourceId": "TinhLinh"
+      },
+      {
+        "sourceId": "TamBaoChien"
+      },
+      {
+        "sourceId": "CongHoiChien"
+      },
+      {
+        "sourceId": "VuotAiDaiChien"
+      },
+      {
+        "sourceId": "Uta"
+      },
+      {
+        "sourceId": "TuHoangTranhBa"
+      },
+      {
+        "sourceId": "PhucLoiLeTet"
+      },
+      {
+        "sourceId": "TrungTamTheBai"
+      },
+      {
+        "sourceId": "PunkHazard"
+      },
+      {
+        "sourceId": "TamDau"
+      },
+      {
+        "sourceId": "PandaMan"
+      }
+    ],
+    "exchangeMaterials": []
   },
   {
     "id": "log_pose",
@@ -450,36 +531,66 @@
       "./images/materials/Basics/logPose.png"
     ],
     "description": "Một trong 3 vật phẩm nguyên liệu đại hải trình dùng để đổi siêu tướng",
-    "farmSources": [
-      {
-        "farmSourceId": "VuongGiaChien"
-      },
-      {
-        "farmSourceId": "grandline"
-      },
-      {
-        "farmSourceId": "PhanHoiSieuLon"
-      },
-      {
-        "farmSourceId": "LeBaoThoiHan"
-      },
-      {
-        "farmSourceId": "TuHoangTranhBa"
-      },
-      {
-        "farmSourceId": "TamBaoChien"
-      },
-      {
-        "farmSourceId": "Uta"
-      }
-    ],
-    "exchangeMaterials": [],
     "infoImages": [
       "./images/materials/Basics/RuongNLDHT.png",
       "./images/materials/Basics/TuiNLDHT.png",
       "./images/materials/Basics/TuiNLDHTA.png"
     ],
-    "exchangeShops": []
+    "exchangeShops": [],
+    "farmSources": [
+      {
+        "sourceId": "NhatKyHanhTrinh"
+      },
+      {
+        "sourceId": "grandline"
+      },
+      {
+        "sourceId": "PhanHoiSieuLon"
+      },
+      {
+        "sourceId": "LeBaoThoiHan"
+      },
+      {
+        "sourceId": "VuonAcMa"
+      },
+      {
+        "sourceId": "NhaXuongVegapunk"
+      },
+      {
+        "sourceId": "TinhLinh"
+      },
+      {
+        "sourceId": "TamBaoChien"
+      },
+      {
+        "sourceId": "VuongGiaChien"
+      },
+      {
+        "sourceId": "Uta"
+      },
+      {
+        "sourceId": "TuHoangTranhBa"
+      },
+      {
+        "sourceId": "PhucLoiLeTet"
+      },
+      {
+        "sourceId": "TichLuyTieuHao"
+      },
+      {
+        "sourceId": "TrungTamTheBai"
+      },
+      {
+        "sourceId": "PunkHazard"
+      },
+      {
+        "sourceId": "TamDau"
+      },
+      {
+        "sourceId": "PandaMan"
+      }
+    ],
+    "exchangeMaterials": []
   },
   {
     "id": "pirate_flag",
@@ -488,39 +599,66 @@
       "./images/materials/Basics/pirateFlag.png"
     ],
     "description": "Một trong 3 vật phẩm nguyên liệu đại hải trình dùng để đổi siêu tướng",
-    "farmSources": [
-      {
-        "farmSourceId": "CongHoiChien"
-      },
-      {
-        "farmSourceId": "CayAcMa"
-      },
-      {
-        "farmSourceId": "grandline"
-      },
-      {
-        "farmSourceId": "PhanHoiSieuLon"
-      },
-      {
-        "farmSourceId": "LeBaoThoiHan"
-      },
-      {
-        "farmSourceId": "TuHoangTranhBa"
-      },
-      {
-        "farmSourceId": "TamBaoChien"
-      },
-      {
-        "farmSourceId": "Uta"
-      }
-    ],
-    "exchangeMaterials": [],
     "infoImages": [
       "./images/materials/Basics/RuongNLDHT.png",
       "./images/materials/Basics/TuiNLDHT.png",
       "./images/materials/Basics/TuiNLDHTA.png"
     ],
-    "exchangeShops": []
+    "exchangeShops": [],
+    "farmSources": [
+      {
+        "sourceId": "NhatKyHanhTrinh"
+      },
+      {
+        "sourceId": "grandline"
+      },
+      {
+        "sourceId": "PhanHoiSieuLon"
+      },
+      {
+        "sourceId": "LeBaoThoiHan"
+      },
+      {
+        "sourceId": "VuonAcMa"
+      },
+      {
+        "sourceId": "NhaXuongVegapunk"
+      },
+      {
+        "sourceId": "TinhLinh"
+      },
+      {
+        "sourceId": "TamBaoChien"
+      },
+      {
+        "sourceId": "CayAcMa"
+      },
+      {
+        "sourceId": "Uta"
+      },
+      {
+        "sourceId": "TuHoangTranhBa"
+      },
+      {
+        "sourceId": "PhucLoiLeTet"
+      },
+      {
+        "sourceId": "TichLuyTieuHao"
+      },
+      {
+        "sourceId": "TrungTamTheBai"
+      },
+      {
+        "sourceId": "PunkHazard"
+      },
+      {
+        "sourceId": "TamDau"
+      },
+      {
+        "sourceId": "PandaMan"
+      }
+    ],
+    "exchangeMaterials": []
   },
   {
     "id": "BiKiepHaki",
@@ -529,28 +667,16 @@
       "./images/materials/Basics/BiKiepHaki.png"
     ],
     "description": "Bí Kiếp Haki là vật phẩm gom của 3 loại viên Hỏa/Long/Ảnh Sát. Viên Haki nói chung đầu game sẽ hơi khó kiếm nhưng về sau sẽ thừa rất nhiều",
-    "farmSources": [
-      {
-        "farmSourceId": "PhanHoiSieuLon"
-      },
-      {
-        "farmSourceId": "PhucLoiLeTet"
-      },
-      {
-        "farmSourceId": "TamBaoChien"
-      }
-    ],
-    "exchangeMaterials": [],
     "infoImages": [],
     "exchangeShops": [
       {
         "shopId": "gift_exchange_center"
       },
       {
-        "shopId": "CAM_shop"
+        "shopId": "wano_shop"
       },
       {
-        "shopId": "wano_shop"
+        "shopId": "CAM_shop"
       },
       {
         "shopId": "TomWorker"
@@ -559,12 +685,39 @@
         "shopId": "TamBao"
       },
       {
-        "shopId": "Colosseum"
+        "shopId": "TauChien"
       },
       {
-        "shopId": "TauChien"
+        "shopId": "Colosseum"
       }
-    ]
+    ],
+    "farmSources": [
+      {
+        "sourceId": "NhatKyHanhTrinh"
+      },
+      {
+        "sourceId": "grandline"
+      },
+      {
+        "sourceId": "PhanHoiSieuLon"
+      },
+      {
+        "sourceId": "VuonAcMa"
+      },
+      {
+        "sourceId": "TinhLinh"
+      },
+      {
+        "sourceId": "TamBaoChien"
+      },
+      {
+        "sourceId": "PhucLoiLeTet"
+      },
+      {
+        "sourceId": "Kyros"
+      }
+    ],
+    "exchangeMaterials": []
   },
   {
     "id": "coTocKozuki",
@@ -919,7 +1072,7 @@
     "id": "aoChoangSaturn",
     "name": "Áo Choàng Saturn",
     "images": [
-      "./images/materials/Saturn_S/aochoangSaturn.png"
+      "./images/materials/Saturn_S/aoChoangSaturn.png"
     ],
     "description": "",
     "infoImages": [],
@@ -1733,8 +1886,8 @@
     ],
     "description": "Grandline map 8 và độ tích cực hằng ngày cho 1 thẻ bài Smoothie.",
     "infoImages": [
-      "./images/materials/Smoothie_S/thebaiSmoothie1.png",
-      "./images/materials/Smoothie_S/thebaiSmoothie2.png"
+      "./images/materials/Smoothie_S/theBaiSmoothie1.png",
+      "./images/materials/Smoothie_S/theBaiSmoothie2.png"
     ],
     "exchangeShops": [
       {
@@ -1857,11 +2010,11 @@
     "id": "BanVeGura",
     "name": "Bản Vẽ Trái Gura Gura",
     "images": [
-      "./images/materials/RauTrang_S2/banVeGura.png"
+      "./images/materials/RauTrang_S2/BanVeGura.png"
     ],
     "description": "Bản vẽ trái Gura hiện tại chỉ có thể lấy qua giải đấu Tam Đấu Vương Giả.",
     "infoImages": [
-      "./images/materials/RauTrang_S2/banVeGura1.png"
+      "./images/materials/RauTrang_S2/BanVeGura1.png"
     ],
     "exchangeShops": [],
     "farmSources": [
@@ -2121,5 +2274,464 @@
         "amount": 700000
       }
     ]
+  },
+  {
+    "id": "huyHieuKiz",
+    "name": "Huy Hiệu Đô Đốc",
+    "images": [
+      "./images/materials/Kizaru_S2/huyHieuKiz.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Kizaru_S2/huyHieuKiz1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "ngocChiemTinh",
+        "amount": 400
+      }
+    ]
+  },
+  {
+    "id": "traiPika",
+    "name": "trái Pika Pika",
+    "images": [
+      "./images/materials/Kizaru_S2/traiPika.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Kizaru_S2/traiPika1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 1000000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 1000000
+      }
+    ]
+  },
+  {
+    "id": "thebaiAramaki",
+    "name": "thẻ bài Aramaki",
+    "images": [
+      "./images/materials/Aramaki_S/thebaiAramaki.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Aramaki_S/Aramaki.png",
+      "./images/materials/Aramaki_S/thebaiAramaki1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "ngocChiemTinh",
+        "amount": 300
+      }
+    ]
+  },
+  {
+    "id": "traiMori",
+    "name": "trái Mori Mori",
+    "images": [
+      "./images/materials/Aramaki_S/traiMori.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Aramaki_S/traiMori1.png",
+      "./images/materials/Aramaki_S/traiMori2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 800000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 850000
+      }
+    ]
+  },
+  {
+    "id": "traiHoya",
+    "name": "Trái Hoya Hoyta",
+    "images": [
+      "./images/materials/Daifuku_S/traiHoya.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Daifuku_S/traiHoya1.png",
+      "./images/materials/Daifuku_S/traiHoya2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 800000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 850000
+      }
+    ]
+  },
+  {
+    "id": "thebaiDai",
+    "name": "Thẻ Bài Daifuku",
+    "images": [
+      "./images/materials/Daifuku_S/thebaiDai.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Daifuku_S/thebaiDai1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "ngocChiemTinh",
+        "amount": 300
+      }
+    ]
+  },
+  {
+    "id": "lttDai",
+    "name": "Lệnh Triệu Tập Daifuku",
+    "images": [
+      "./images/materials/Daifuku_S/lttDai.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Daifuku_S/daifuku.png",
+      "./images/materials/Daifuku_S/lttDai1.png",
+      "./images/materials/Daifuku_S/lttDai2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 500000
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 300
+      }
+    ]
+  },
+  {
+    "id": "lttYasopp",
+    "name": "Lệnh Triệu Tập Yasopp",
+    "images": [
+      "./images/materials/yasopp_S/lttYasopp.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Yasopp_S/Yasopp.png",
+      "./images/materials/Yasopp_S/lttYasopp1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "government_seal",
+        "amount": 10
+      },
+      {
+        "materialId": "vivre_card",
+        "amount": 12000
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 8000
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 14000
+      }
+    ]
+  },
+  {
+    "id": "sung",
+    "name": "Flintlock Pistol",
+    "images": [
+      "./images/materials/Yasopp_S/sung.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Yasopp_S/sung1.png",
+      "./images/materials/Yasopp_S/sung2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 1500000
+      }
+    ]
+  },
+  {
+    "id": "coyasopp",
+    "name": "Cờ Băng Hải Tặc Tóc Đỏ",
+    "images": [
+      "./images/materials/Yasopp_S/coYasopp.png"
+    ],
+    "description": "Lưu ý: Đây là vật phẩm key của Yasopp, một item có hình ảnh và tên tương tự là vật phẩm đổi trong wano và CAM dành cho Benn Beckman",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttYassop",
+    "name": "lttYassop",
+    "images": [],
+    "description": "",
+    "infoImages": [],
+    "farmSources": [],
+    "exchangeShops": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "coYassop",
+    "name": "coYassop",
+    "images": [],
+    "description": "",
+    "infoImages": [],
+    "exchangeShops": [],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttMomo",
+    "name": "LTT Momonosuke",
+    "images": [
+      "./images/materials/Momonosuke_S/lttMomo.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Momonosuke_S/Momonosuke.png",
+      "./images/materials/Momonosuke_S/lttMomo1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "Belly"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 90000
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 6500
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 11000
+      }
+    ]
+  },
+  {
+    "id": "traiSmile",
+    "name": "Trái Smile",
+    "images": [
+      "./images/materials/Momonosuke_S/traiSmile.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Momonosuke_S/traiSmile1.png",
+      "./images/materials/Momonosuke_S/traiSmile2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "Belly"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 1300000
+      },
+      {
+        "materialId": "Wano_point",
+        "amount": 1400000
+      }
+    ]
+  },
+  {
+    "id": "tinVat",
+    "name": "Tín Vật Oden",
+    "images": [
+      "./images/materials/Momonosuke_S/tinVat.png"
+    ],
+    "description": "",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttKaido",
+    "name": "LTT Kaido",
+    "images": [
+      "./images/materials/Kaido_S/lttKaido.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Kaido_S/Kaido.png",
+      "./images/materials/Kaido_S/lttKaido1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "government_seal",
+        "amount": 9
+      },
+      {
+        "materialId": "vivre_card",
+        "amount": 10000
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 7000
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 12000
+      }
+    ]
+  },
+  {
+    "id": "traiUo",
+    "name": "Trái Uo Uo",
+    "images": [
+      "./images/materials/Kaido_S/traiUo.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Kaido_S/traiUo1.png",
+      "./images/materials/Kaido_S/traiUo2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 1500000
+      }
+    ]
+  },
+  {
+    "id": "coKaido",
+    "name": "Cờ Băng Hải Tặc Bách Thú",
+    "images": [
+      "./images/materials/Kaido_S/coKaido.png"
+    ],
+    "description": "",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
   }
 ]

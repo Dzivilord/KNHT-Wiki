@@ -197,6 +197,12 @@
 
 </main>
 
+<script>
+    document.getElementById("reset-draft").addEventListener("click", () => {
+        localStorage.removeItem("game-wiki-heroes-draft");
+        location.reload();
+    });
+</script>
 <script src="./admin.js"></script>
 
 </body>
