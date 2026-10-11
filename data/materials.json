@@ -1733,8 +1733,8 @@
     ],
     "description": "Grandline map 8 và độ tích cực hằng ngày cho 1 thẻ bài Smoothie.",
     "infoImages": [
-      "./images/materials/Smoothie_S/theBaiSmoothie1.png",
-      "./images/materials/Smoothie_S/theBaiSmoothie2.png"
+      "./images/materials/Smoothie_S/thebaiSmoothie1.png",
+      "./images/materials/Smoothie_S/thebaiSmoothie2.png"
     ],
     "exchangeShops": [
       {
@@ -1861,7 +1861,7 @@
     ],
     "description": "Bản vẽ trái Gura hiện tại chỉ có thể lấy qua giải đấu Tam Đấu Vương Giả.",
     "infoImages": [
-      "./images/materials/RauTrang_S2/BanVeGura1.png"
+      "./images/materials/RauTrang_S2/banVeGura1.png"
     ],
     "exchangeShops": [],
     "farmSources": [

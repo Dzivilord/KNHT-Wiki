@@ -50,7 +50,7 @@
   {
     "id": "StrongWorld",
     "name": "Shop StrongWorld",
-    "images": ["images/materials/Information/StrongWorldShop.png"],
+    "images": ["images/Information/StrongWorldShop.png"],
     "description": "",
     "link": null,
     "infoImages": []

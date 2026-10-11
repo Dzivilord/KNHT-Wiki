@@ -128,7 +128,7 @@
   {
     "id": "Denjiro_S",
     "name": "Denjiro-S",
-    "image": "./images/heroes/Denjiro_s.png",
+    "image": "./images/heroes/Denjiro_S.png",
     "note": "Denjiro-S được tiến hoá từ Denjiro. Mục này mô tả cách chiêu mộ Denjiro.",
     "skills": {
       "basicAttack": "[TC] Kage no Zanshin: Vận dụng  kiếm thuật đình cao Denjiro tiến hành tấn công toàn bộ mục tiêu đồng thời Denjiro có tỷ lệ xóa bỏ miễn dịch tê liệt lên mục tiêu (hiệu quả trên từng mục tiêu). Lần 2, gây thêm 1 lần sát thương bỏ qua haki lên mục tiêu có nộ khí thấp nhất đồng thời có tỷ lệ xóa bỏ miễn dịch đóng băng hoặc giảm 40 nộ lên mục tiêu (khi bộc phá sẽ ra cả 2). Lần 3, gây 1 lần sát thương bỏ qua haki và gây hiệu quả Quỷ Kiếm 1 lượt lên toàn bộ mục tiêu (Quỷ Kiếm: Nhụt chí giảm 35 nộ (có thể cộng dồn), tê liệt, đóng băng, giảm 30 nộ). Cuối cùng, Denjiro gây 1 lần sát thương bỏ qua haki kèm sát thương 20% lượng máu tối đa lên mục tiêu hàng ngang phía sau và xét nếu nộ khí hiện tại của mục tiêu thấp hơn nộ khí của Denjro tại lần ra đòn này thì Denjiro sẽ gắn ấn Kiếm Nô 1 lượt lên mục tiêu (Kiếm Nô: Xóa hiệu quả Hộ thân, gây mê hoặc, hỗn loạn). Hồi đồng đội 30 nộ khí, bản thân hồi 35 nộ khí kèm một số hiệu quả có lợi 1 lượt (Miễn dịch: Choáng, mê hoặc, hỗn loạn, cấm tích nộ, độc, đốt cháy, phong ấn trị liệu, vách sắt)",
@@ -158,7 +158,7 @@
   {
     "id": "XDrake_S",
     "name": "XDrake-S",
-    "image": "./images/heroes/XDrake_s.png",
+    "image": "./images/heroes/XDrake_S.png",
     "note": "XDrake-S được tiến hoá từ XDrake-H, XDrake-H được tiến hoá từ Xdrake sau khi nâng cấp từ ảnh hồn. XDrake được chiêu mộ bằng danh vọng tại quán rượu.",
     "skills": {
       "basicAttack": "[VC] X Caliber: X.Drake nhảy lên tấn công toàn bộ mục tiêu và có tỷ lệ cao khiến ngẫu nhiên 1 mục tiêu bị Xuyên Giáp (Xuyên Giáp: Xóa miễn sát thương bỏ qua phòng ngự, miễn dịch VC, vách sắt, miễn dịch trầm mặc). Lần 2, thêm 1 lần sát thương bỏ qua haki kèm sát thương 20% lượng máu tối đa lên toàn bộ mục tiêu, lần sát thương này X.Drake có tỷ lệ xét ngẫu nhiên 2 đồng đội (không bao gồm bản thân) nếu trong trạng thái Độc thì sẽ buff cho 2 đồng đội hiệu quả Cổ Long 1 lượt (Cổ Long: Xóa hiệu quả Độc, vách sắt 1 lượt, khi kết thúc hành động sẽ gây thêm 1 lần sát thương bỏ qua haki lên mục tiêu hình chữ thập kèm hóa đá 1 lượt). Cuối cùng, X.Drake gây thêm 1 lần sát thương bỏ qua haki mục tiêu hình chữ thập và có tỷ lệ thấp khiến mục tiêu bị Xé Rách ( Xé Rách: xóa toàn bộ hiệu quả miễn sát thương bỏ qua phòng ngự kèm khấu trừ 20% máu). Hồi đồng đội 25 nộ khí, bản thần hồi 30 nộ khí kèm khiên miễn dịch 1 số hiệu ứng 1 lượt (Miễn dịch: phong ấn trị liệu, choáng, cấm tích nộ, hỗn loạn, giảm nộ, vĩnh hằng kèm xóa nhụt chí)",
