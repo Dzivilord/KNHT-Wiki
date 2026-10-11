@@ -12,11 +12,7 @@
         "shopId": "gift_exchange_center"
       }
     ],
-    "farmSources": [
-      {
-        "sourceId": "Onigashima"
-      }
-    ],
+    "farmSources": [],
     "exchangeMaterials": [
       {
         "materialId": "bara_bara",
@@ -923,7 +919,7 @@
     "id": "aoChoangSaturn",
     "name": "Áo Choàng Saturn",
     "images": [
-      "./images/materials/Saturn_S/aoChoangSaturn.png"
+      "./images/materials/Saturn_S/aochoangSaturn.png"
     ],
     "description": "",
     "infoImages": [],
@@ -1861,7 +1857,7 @@
     "id": "BanVeGura",
     "name": "Bản Vẽ Trái Gura Gura",
     "images": [
-      "./images/materials/RauTrang_S2/BanVeGura.png"
+      "./images/materials/RauTrang_S2/banVeGura.png"
     ],
     "description": "Bản vẽ trái Gura hiện tại chỉ có thể lấy qua giải đấu Tam Đấu Vương Giả.",
     "infoImages": [
