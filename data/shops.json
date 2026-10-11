@@ -30,7 +30,8 @@
     "description": "Các sự kiện đặc biệt vào các ngày lễ Tết/ 30.4/ 2.9/ Sinh nhật (26/11)/ Noel... là thời gian để lấy các vật phẩm đặc biệt gọi là key để lên siêu tướng, tham khảo chi tiết hơn tại #hướng dẫn tính năng-discord",
     "link": null,
     "infoImages": ["images/materials/Basics/Key.png"]
-  },  {
+  },
+  {
     "id": "TomWorker",
     "name": "TomWorker",
     "images": ["./images/Information/TomWorkerShop.png"],
@@ -38,7 +39,7 @@
     "link": null,
     "infoImages": []
   },
-    {
+  {
     "id": "TamBao",
     "name": "Shop Tầm Bảo",
     "images": ["./images/Information/TamBaoShop.png"],
@@ -54,7 +55,7 @@
     "link": null,
     "infoImages": []
   },
-    {
+  {
     "id": "TauChien",
     "name": "Shop tranh bá trên biển",
     "images": ["images/Information/TranhBaTrenBienShop.png"],
@@ -62,7 +63,7 @@
     "link": null,
     "infoImages": []
   },
-    {
+  {
     "id": "Colosseum",
     "name": "Shop colosseum",
     "images": ["images/Information/ColosseumShop.png"],
@@ -70,7 +71,7 @@
     "link": null,
     "infoImages": []
   },
-    {
+  {
     "id": "CuongHoa",
     "name": "Shop cường hoá",
     "images": ["images/Information/CuongHoaShop.png"],
@@ -90,8 +91,11 @@
     "id": "DQST",
     "name": "Đặc quyền siêu tướng",
     "images": ["images/Information/DQST.png"],
-    "description": "Đặc quyền siêu tướng là tính năng tri ân số lượng siêu tướng của người chơi. Mỗi siêu tướng khác nhau sẽ mang lại đặc quyền nhận các phần quà đặc biệt khác nhau.\n\n Có 3 loại phần quà bao gồm: quà nhận 1 lần duy nhất, quà mua số lượng vô hạn bằng vàng và quà nhận vô hạn hằng ngày. \n\n Người chơi có tối đa 3 lượt nhận hằng ngày và sẽ reset hằng ngày bao gồm Vip13 +1 lần, Vip14 +1 lần, Sở hữu 10 siêu tướng +1 lần",
+    "description": "Đặc quyền siêu tướng là tính năng tri ân số lượng siêu tướng của người chơi. Sở hữu mỗi siêu tướng khác nhau sẽ mang lại đặc quyền nhận các phần quà đặc biệt khác nhau.\n\n Có 3 loại phần quà bao gồm: quà nhận 1 lần duy nhất, quà mua số lượng vô hạn bằng vàng và quà nhận vô hạn hằng ngày. \n\n Người chơi có tối đa 3 lượt nhận hằng ngày và sẽ reset hằng ngày bao gồm Vip13 +1 lần, Vip14 +1 lần, Sở hữu 10 siêu tướng +1 lần",
     "link": null,
-    "infoImages": ["images/Information/DQST1.png","images/Information/DQST2.png"]
+    "infoImages": [
+      "images/Information/DQST1.png",
+      "images/Information/DQST2.png"
+    ]
   }
 ]

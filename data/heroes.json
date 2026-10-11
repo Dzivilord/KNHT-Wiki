@@ -1,5 +1,101 @@
 [
   {
+    "id": "RauTrang_S2",
+    "name": "Râu Trắng- S2",
+    "image": "./images/heroes/RauTrang_S2.png",
+    "note": "Râu Trắng-S2 là siêu tướng được tiến hoá từ Râu Trắng-S, Râu Trắng-S được tiến hoá từ Râu Trắng. Râu Trắng có thể mua tại shop làng cối xay gió với giá 500.000 vàng.",
+    "skills": {
+      "basicAttack": "[TC]Kaishin: Vận dụng sức mạnh chấn động gây sát thương kèm thêm 1 lần sát thương 25% lượng máu tối đa lên toàn bộ mục tiêu đồng thời có tỷ lệ cao buff toàn đội hiệu quả Vách Sắt 1 lượt . Lần 2, thêm một lần sát thương bỏ qua haki lên toàn bộ mục tiêu và xét xem nếu mục tiêu nào có lượng máu hiện tại thấp hơn 55% lượng máu tối đa thì Râu Trắng sẽ gây hiện quả Toái Thiên 1 lượt lên mục tiêu đó (Toái Thiên: Xóa miễn dịch choáng, xóa miễn dịch Hoảng Sợ, xóa buff Cường Hóa, gây Hoảng Sợ (cần thêm 100 nộ để nộ). Lần 3, gây thêm 1 lượng sát thương bỏ qua haki kèm sát thương 20% lượng máu tối đa của mục tiêu, có tỷ lệ gây Trấn Áp hoặc nhụt chí (giảm 100 nộ, không cộng dồn)1 lượt lên mục tiêu (hiệu quả trên từng mục tiêu). Cuối cùng, Râu Trắng gây thêm 1 lần sát thương bỏ qua haki và chắc chắn xóa miễn dịch Hỗn Loạn và Gây Hỗn Loạn lên ngẫu nhiên 2 mục tiêu. Hồi đồng đội 35 nộ khí, bản thân hồi 100 nộ khí kèm hiệu quả Cường Khí 1 lượt (Cường Khí:  Hồi 25% lượng máu tối đa, Ẩn Hồn, Hộ Thân giảm 20% tỷ lệ nhận buff từ đối thủ (không thể cộng dồn), miễn dịch trấn áp, Dot, hóa đá, cấm tích nộ, đóng băng, tê liệt, mê hoặc)",
+      "ultimate": "[TC]Gekizun: Râu Trắng tạo ra làn sóng chấn động tấn công và xóa hiệu quả miễn sát thương đánh thường, miễn dịch giảm sát thương về 0, miễn giảm nộ lên toàn bộ mục tiêu. Lần 2, tiếp tục thêm một lần sát thương bỏ qua haki kèm theo sát thương 30% lượng máu tối đa đồng thời kích hoạt hiệu quả Toái Thiên lên ngẫu nhiên 2 mục tiêu 1 lượt. Lần 3, thêm một lần sát thương bỏ qua haki lên toàn bộ mục tiêu, ngoài ra lần sát thương này của Râu Trắng sẽ xét nếu mục tiêu có nộ khí thấp hơn 100 thì sẽ gây Mộng Cảnh (giảm 15% tỷ lệ, có thể cộng dồn), giảm toàn bộ sát thương về 0, cấm hồi sinh trong 1 lượt. Lần 4, Râu Trắng thêm một lần sát thương bỏ qua haki hình chữ  thập và có tỷ lệ  xóa hiệu quả miễn dịch Trấn Áp và gây Trấp Áp lên mục tiêu hình chữ thập. Cuối cùng, Râu Trắng buff cho bản thân và kèm ngẫu nhiên 2 đồng đội hiệu quả Cường Khí 1 lượt. Hồi đồng đội 50 nộ khí, bản thân hồi 130 nộ khí kèm 1 số hiệu quả có lợi trong 1 lượt ( vách sắt, tận lực, miễn dịch hỗn loạn, mộng cảnh, trấn áp, phong hồn)\n\nKỹ Năng 350 Nộ:\n\n[TC]Shima Kousai: Râu Trắng tạo ra làn sóng chấn động tấn công và xóa hiệu quả miễn sát thương đánh thường, miễn dịch giảm sát thương về 0, miễn giảm nộ, miễn dịch phong ấn trị liệu kèm phong ấn trị liệu lên toàn bộ mục tiêu. Lần 2, tiếp tục thêm một lần sát thương bỏ qua haki kèm theo sát thương 30% lượng máu tối đa đồng thời kích hoạt hiệu quả Toái Thiên lên toàn bộ mục tiêu 1 lượt. Lần 3, thêm một lần sát thương bỏ qua haki lên toàn bộ mục tiêu, ngoài ra lần sát thương này của Râu Trắng sẽ xét nếu mục tiêu có nộ khí thấp hơn 100 thì sẽ gây Mộng Cảnh (giảm 15% tỷ lệ, có thể cộng dồn), giảm toàn bộ sát thương về 0, cấm hồi sinh, khấu trừ 20% máu 1 lượt. Lần 4, Râu Trắng gây thêm một lần sát thương bỏ qua haki lên mục tiêu hình chữ thập và có tỷ lệ cao xóa hiệu quả miễn dịch Trấn Áp và gây Trấp Áp, nhụt chí giảm 100 nộ (không cộng dồn) lên mục tiêu hình chữ thập. Cuối cùng, Râu Trắng buff cho bản thân và kèm ngẫu nhiên 2 đồng đội hiệu quả Cường Khí 1 lượt. Hồi đồng đội 65 nộ khí, bản thân hồi 130 nộ khí kèm 1 số hiệu quả có lợi trong 1 lượt ( vách sắt, tận lực, miễn dịch hỗn loạn, mộng cảnh, trấn áp, phong hồn, suy kiệt)",
+      "talent": "Gekishin\n\nCấp 1:  Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, hỗn loạn, cấm tích nộ, mê hoặc, đốt  cháy, độc, giảm nộ, trấn áp, trầm mặc, hoảng Sợ, đóng băng, tê liệt). Miễn dịch vĩnh viễn Choáng, phong ấn trị liệu, Vĩnh Hằng, Giảm nộ, giảm sát thương về 0. Mỗi lần hành động sẽ chắc chắn xoá bỏ lớp giáp TC của kẻ địch. Ra trận Râu Trắng sẽ chọn kẻ địch có lượng máu cao nhất tiến hành hiệu quả xóa Miễn dịch Trấn Áp và Gây Trấn Áp kèm cấm hồi máu lên mục tiêu đó 1 lượt. Nếu bên phe địch có kẻ địch là Akainu thì Râu Trắng có tỷ lệ thấp tiến hành kết liễu Akainu\n\nCấp 3: TC +15%, NN+5%\n\nCấp 5: Miễn STĐT+10%, Miễn STĐN +10%\n\nCấp 7: Đánh thường và nộ Râu Trắng sẽ xét toàn bộ mục tiêu nếu mục tiêu nào đang trong trạng thái Hoảng Sợ thì Râu Trắng sẽ khiến mục tiêu đó bị xóa hiệu quả miễn sát thương bỏ qua phòng ngự kèm theo khấu trừ 20% lượng máu tối đa, nếu mục tiêu đang trong trạng thái phong ấn trị liệu thì Râu Trắng sẽ gây cấm hồi máu lên mục tiêu đó 1 lượt. Ra trận sẽ buff hiệu quả hồi sinh cho đồng đội có lượng máu thấp nhất.. Sau khi kết thúc hành động, Râu Trắng sẽ hồi cho bản thân 10% máu kèm 20 nộ mỗi một mục tiêu trúng Choáng. Kết thúc đánh nộ, Râu Trắng sẽ xóa hiệu quả miễn dịch Phong Hồn và gây phong hồn lên ngẫu nhiên 1 mục tiêu 1 lượt (tác dụng tối đa 2 lần cả trận).",
+      "devilFruit": "[Trái Gura Gura]: Trái ác quỷ mạnh nhất hệ Paramecia, có khả năng làm chấn động không gian. Đánh thường và nộ có tỷ lệ 0% (mỗi cấp +10%) gây choáng lên mục tiêu. Đanh nộ, Râu Trắng có tỷ lệ 10% (+1% mỗi cấp) gây Rung Chấn 1 lượt lên mục tiêu (hiệu quả trên từng mục tiêu) (sau khi mục tiêu trúng Rung Chấn hành động sẽ gây một lần sát thương tương đương 20% lượng máu tối đa kèm tỷ lệ gây Cấm Hồi Máu (hiệu quả trên từng mục tiêu) lên toàn bộ đồng minh 1 lượt. Mỗi lần hành động Râu Trắng sẽ xét xem nếu lượng máu của mục tiêu dưới 5% (mỗi cấp +1%) thì sẽ lập tức kết liêu mục tiêu"
+    },
+    "evolutionFrom": {
+      "name": "Râu Trắng-S",
+      "heroId": null
+    },
+    "materials": [
+      {
+        "materialId": "traiGura"
+      },
+      {
+        "materialId": "BanVeGura"
+      },
+      {
+        "materialId": "lttRauTrang"
+      },
+      {
+        "materialId": "coRauTrang"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
+  },
+  {
+    "id": "Mihawk_S3",
+    "name": "Mihawk-S3",
+    "image": "./images/heroes/Mihawk_S3.png",
+    "note": "Mihawk-S3 là siêu tướng được tiến hoá từ Mihawk-S2 (tướng thường). Phần này mô tả nguyên liệu cần để tiến hoá.",
+    "skills": {
+      "basicAttack": "[TC] Kengiri: Mihawk tập trung toàn bộ sức mạnh vào thanh kiếm tiến hành tấn công toàn bộ mục tiêu và xét toàn bộ đồng đội nếu có đồng đội nào đang dính phải hiệu quả Đóng Băng hoặc Vĩnh Hằng thì Mihawk sẽ buff  Ưng Nhãn 1 lượt và hóa giải các hiệu ứng xấu đó (Ưng Nhãn: Bạo Kích, Chặn Đòn, Miễn sát thương đánh thường (không nhận được buff), miễn dịch Phong Hồn). Lần 2, thêm 1 lần sát thương bỏ qua haki kèm sát thương 20% lượng máu tối đa lên toàn bộ mục tiêu và có tỷ lệ  kích hoạt hiệu quả Cực Trảm lên  2 mục tiêu 1 lượt (Cực Trảm: Phong Hồn, Hoảng Sợ cần thêm 100 nộ, giảm 100 nộ). Lần 3, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời tiếp tục xét xem nếu mục tiêu nào đang dính phải hiệu quả Phong Hồn hoặc Hoảng Sợ thì Mihawk sẽ khiến mục tiêu đó bị cấm hồi sinh và cấm hồi máu trong 1 lượt. Cuối cùng, Mihawk gây 1 lần sát thương bỏ qua Haki kèm sát thương 30% lượng máu tối đa lên mục tiêu hàng ngang phía sau và khiến mục tiêu bị Trấn Áp trong 1 lượt. Hồi đồng đội 35 nộ khí, bản thân hồi 60 nộ khí kèm miễn dịch 1 số hiệu ứng bất lợi 1 lượt (Miễn dịch: Phong Hồn, Trấn áp, hỗn loạn, tê liệt, trầm mặc, choáng, phong ấn trị liệu, độc, hóa đá). Ngoài ra, khi kết thúc đòn đánh Mihawk sẽ buff một số hiệu quả có lợi cho bản thân  (tác dụng tối đa 2 lần cho cả trận) (Buff: ẩn thân, ẩn hồn 1 lượt, miễn dịch cấm hồi máu,tận lực 2 lượt)",
+      "ultimate": "[TC] Cross Slash: Tạo ra những nhát chém kiếm khí cực mạnh tấn công lên toàn bộ mục tiêu và xóa bỏ hiệu quả Tận lực, miễn dịch Hoảng sợ, miễn giảm nộ, miễn sát thương đánh thường lên toàn bộ mục tiêu kèm hiệu quả Cực Trảm lên ngẫu nhiên 2 mục tiêu trong 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki kèm sát thương 25% lượng máu tối đa lên mục tiêu hình chữ thập và xóa bỏ toàn bộ hiệu quả miễn sát thương bỏ qua phòng ngự và khấu trừ mục tiêu đó 65 nộ khí. Lần 3, gây sát thương bỏ qua haki kèm sát thương 20% lượng máu tối đa lên toàn bộ mục tiêu đồng thời xét toàn đội nếu đang dính phải hiệu quả Đóng Băng hoặc Vĩnh Hằng thì Mihawk sẽ tiến hành hóa giải hiệu ứng đó và buff Ưng Nhãn kèm 35 nộ khí 1 lượt. Lần 4, gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ khiến mục tiêu bị cấm hồi sinh hoặc cấm hồi máu 1 lượt (hiệu quả trên từng mục tiêu). Cuối cùng, Mihawk gây 1 lần sát thương bỏ qua haki lên mục tiêu hàng ngang phía sau và khiến mục tiêu bị Trấn Áp 1 lượt. Hồi đồng đội 30 nộ khí kèm xóa một số hiệu quả bất lợi và buff miễn dịch 1 số hiệu quả bất lợi (Xóa + Buff: Giảm nộ, choáng, phong ấn trị liệu, vĩnh hằng, đóng băng, độc, đốt cháy, tê liệt, trầm mặc, hóa đá, hỗn loạn, mê hoặc). Bản thân hồi 110 nộ khí kèm theo hiệu quả miễn dịch 1 số hiệu ứng bất lợi 1 lượt ( Miễn dịch: Choáng, trầm mặc, cấm tích nộ, tê liệt, độc, đốt cháy, hóa đá, trấn áp, mộng cảnh)\n\n\nKỹ Năng 350 nộ:\n\n[TC] Sekai Saikyo no Zangeki: Tạo ra những nhát chém kiếm khí cực mạnh tấn công lên toàn bộ mục tiêu và xóa bỏ hiệu quả miễn sát thương đánh thường, Tận lực, miễn dịch Hoảng sợ, miễn giảm nộ, Vách sắt, miễn dịch trầm mặc lên toàn bộ mục tiêu kèm hiệu quả Cực Trảm lên ngẫu nhiên 2 mục tiêu trong 1 lượt. Lần 2, thêm 1 lần sát thương bỏ qua haki kèm sát thương 25% lượng máu tối đa lên mục toàn bộ mục tiêu xóa bỏ toàn bộ hiệu quả miễn sát thương bỏ qua phòng ngự và khấu trừ mục tiêu đó 65 nộ khí kèm trầm mặc 1 lượt. Lần 3, gây sát thương bỏ qua haki kèm sát thương 30% lượng máu tối đa lên toàn bộ mục tiêu đồng thời xét toàn đội nếu đang dính phải hiệu quả Đóng Băng hoặc Vĩnh Hằng thì Mihawk sẽ tiến hành hóa giải hiệu ứng đó và buff Ưng Nhãn kèm 50 nộ khí 1 lượt. Lần 4, gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và có tỷ lệ khiến mục tiêu bị cấm hồi sinh hoặc cấm hồi máu hoặc nhụt chí giảm 100 nộ 1 lượt (hiệu quả trên từng mục tiêu). Cuối cùng, Mihawk gây 1 lần sát thương bỏ qua haki lên mục tiêu hình chữ thập và khiến mục tiêu bị Trấn Áp 1 lượt. Hồi đồng đội 35 nộ khí kèm xóa một số hiệu quả bất lợi và buff miễn dịch 1 số hiệu quả bất lợi (Xóa + Buff: Giảm nộ, choáng, phong ấn trị liệu, hoảng sợ, vĩnh hằng, đóng băng, độc, đốt cháy, tê liệt, trầm mặc, hóa đá, hỗn loạn, mê hoặc). Bản thân hồi 110 nộ khí kèm theo hiệu quả miễn dịch 1 số hiệu ứng bất lợi 1 lượt ( Miễn dịch: Choáng, trầm mặc, cấm tích nộ, độc, đốt cháy, hóa đá, trấn áp, mộng cảnh, phong hồn)",
+      "talent": "Kokuto\n\nCấp 1:  Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, giảm sát thương về 0, choáng, phong ấn trị liệu, cấm tích nộ, vĩnh hằng, mê hoặc, đốt  cháy, độc, giảm nộ, trấn áp). Miễn dịch vĩnh viễn Trầm Mặc, Hoảng Sợ, Đóng Băng, Hỗn loạn, Tê liệt. Mỗi lần hành động sẽ chắc chắn xoá bỏ lớp giáp TC của kẻ địch. Vào trận, nếu có Buggy trong đội hình phe ta thì Mihawk sẽ Buff miễn dịch Phong Hồn, Song Sát trong 2 lượt. Nếu có Buggy ở đội hình phe địch thì Mihawk sẽ xóa hiệu quả miễn sát thương bỏ qua phòng ngự đồng thời gây Cấm Hồi Máu 1 lượt\n\nCấp 3: TC +15%, S.Mệnh+15%\n\nCấp 5: STĐT +15%, STĐN +15%\n\nCấp 7:  Kết thúc hành động Mihawk sẽ tự động buff bản thân hiệu quả chặn đòn, bạo kích, miễn sát thương bỏ qua phòng ngự trong 2 lượt kèm hồi 20% lượng máu tối đa.Kết thúc đánh nộ Mihawk có tỷ lệ tiến vào trạng thái Ẩn thân 1 lượt. Đánh nộ Mihawk có tỷ lệ Buff bản thân hiệu quả Song Kích 1 lượt (Song Kích: Kết thúc hành động sẽ gây thêm 1 lần sát thương TC bỏ qua haki lên toàn bộ mục tiêu kèm sát thương 25.000.000 nguyên tố phong). Đánh nộ Mihawk có tỷ lệ thấp tiêu diệt hoàn toàn mục tiêu trước mặt (hiệu quả tác dụng 1 lần). Khi tử vong bản thân sẽ hồi 100% máu. Khi chặn đòn thành công Mihawk sẽ gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu.",
+      "devilFruit": ""
+    },
+    "evolutionFrom": {
+      "name": "Mihawk-S2",
+      "heroId": null
+    },
+    "materials": [
+      {
+        "materialId": "lttMihawk"
+      },
+      {
+        "materialId": "muMihawk"
+      },
+      {
+        "materialId": "thanhGiaMihawk"
+      },
+      {
+        "materialId": "Yoru"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
+  },
+  {
+    "id": "Crocodie_S",
+    "name": "Crocodie-S",
+    "image": "./images/heroes/Crocodie_S.png",
+    "note": "Crocodie-S là được tiến hoá từ Crocodie-H. Crocodie-H được tiến hoá từ Crocodie thông qua tính năng ảnh hồn Moria. Crocodie có thể được chiêu mộ từ quán rượu bằng danh vọng.",
+    "skills": {
+      "basicAttack": "[TC]: Sử dụng sức mạnh trái ác quỷ Crocodile tiến hành tấn công và gây hiệu quả độc lên toàn bộ mục tiêu trong 1 lượt (độc không thể cộng dồn, khấu trừ 10% sinh mệnh tối đa mỗi lượt). Lần 2, gây thêm 1 lần sát thương bỏ qua haki kèm sát thương 20% lượng máu tối đa lên toàn bộ mục tiêu và có tỷ lệ cao gây Ngục Cát ngẫu nhiên 2 mục tiêu 1 lượt (Ngục Cát: Vĩnh Hằng, Hoảng Sợ cần 40 nộ mới có thể nộ, cấm tích nộ, xóa miễn giảm sát thương về 0 kèm giảm sát thương về 0). Lần 3, gây 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời có tỷ lệ xóa miễn dịch phong ấn trị liệu hoặc gây phong ấn trị liệu lên mục tiêu trong 1 lượt (hiệu quả trên từng mục tiêu). Lần 4, Crocodie gây 1 lần sát thương bỏ qua Haki lên ngẫu nhiên 1 mục tiêu và khiến mục tiêu đó bị phong ấn toàn bộ hiệu quả hồi máu 1 lượt. Cuối cùng, Crocodile xét toàn bộ mục tiêu, nếu mục tiêu nào đang trong hiệu quả Phong ấn trị liệu thì Crocodile có tỷ lệ khiến mục tiêu đó bị Trấn Áp 1 lượt. Hồi đồng đội 30 nộ khí, bản thân hồi 35 nộ khí kèm một số hiệu quả có lợi 1 lượt (Miễn dịch: Cấm tích nộ, hoảng sợ, giảm sát thương về 0, choáng, trầm mặc, tê liệt, hỗn loạn)",
+      "ultimate": "[TC] Tạo ra 1 cơn bão cát khổng lồ tấn công toàn bộ mục tiêu đồng thời kích hoạt Ngục Cát lên toàn bộ mục tiêu trong 1 lượt. Lần 2, thêm 1 lượng sát thương bỏ qua haki lên toàn bộ mục tiêu và xét toàn bộ đồng đội nếu đang dính vào hiệu quả đóng băng thì Crocodile sẽ buff hiệu quả Sa Giáp lên đồng đội đó 1 lượt (Sa Giáp: Vách sắt, Tận Lực, xóa hiệu quả độc). Lần 3, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời có tỷ lệ thấp chọn ngẫu nhiên 2 mục tiêu gây hiệu quả Song Sát 2 lượt. Lần 4, Crocodile gây thêm 1 lần sát thương bỏ qua haki lên mục tiêu hàng ngang phía sau đồng thời khiến những mục tiêu đó bị trầm mặc, cấm tích nộ, hỗn loạn 1 lượt. Cuối cùng, Crocodile xét toàn bộ mục tiêu nếu đang trong hiệu quả Độc hoặc Phong ấn trị liệu thì Crocodile sẽ tiến hành xóa hiệu quả miễn sát thương bỏ qua phòng ngự đồng thời khấu trừ mục tiêu đó 20% lượng máu tối đa. Hồi đồng đội 40 nộ khí kèm xóa bỏ 1 số hiệu quả bất lợi (Xóa: Đóng băng, tê liệt, mê hoặc, đốt cháy). Bản thân hồi 50 nộ khí kèm khiên miễn dịch 1 số hiệu ứng trong 1 lượt (Miễn dịch: cấm tích nộ, trầm mặc, choáng, tê liệt, giảm sát thương về 0, giảm nộ, hóa đá, hỗn loạn, vĩnh hằng)",
+      "talent": "Cross Guild\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 20% lượng máu giới hạn, 3 lượt đầu miễn dịch 1 số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự,giảm sát thương về 0, choáng, hỗn loạn, mê hoặc, cấm tích nộ, trầm mặc, hóa đá, tê liệt, đốt cháy). Miễn dịch vĩnh viễn đóng băng, độc, phong ấn trị liệu. Vào trận, Crocodie sẽ buff đồng đội hiệu quả 15% GHM (không bao gồm bản thân, hiệu quả sẽ mất nếu Crocodile tử vong, không tác dụng lên những tướng có GHM thấp hơn 15%)\n\nCấp 3: Miễn Stdt +12%, Miễn Stdn +12%\n\nCấp 5: S.Mệnh+15%, MP +10%\n\nCấp 7: Mỗi lần hành động, nếu đội hình phe địch có Nami thì Crocodile sẽ gây Trấn Áp lên Nami trong 1 lượt. Bội số 2, Crocodie sau khi hành động xong sẽ tiến vào hiệu quả không nhận sát thương đánh thường và nộ trong 1 lượt (không nhận buff từ đồng đội, hiệu quả tối đa 2 lần). Kết thúc đánh nộ, Crocodile có tỷ lệ xóa hiệu quả miễn dịch Vĩnh Hằng, gây Vĩnh Hằng lên mục tiêu trước mặt trong 1 lượt. Ra trận, buff cho đồng đội có nộ khí nhiều nhất hiệu quả miễn dịch 1 số hiệu ứng trong 2 lượt kèm 50 nộ khí (Miễn dịch: Vĩnh Hằng, Phong Hồn, Trấn Áp, Song Sát, Mộng Cảnh, Suy Kiệt)",
+      "devilFruit": "[Trái Suna Suna no Mi]Trái quỷ hệ Logia cho phép người dùng tạo, điều khiển và biến thành cát theo ý muốn, biến người dùng thành Người cát để tấn công hoặc né đòn của mục tiêu. Mỗi lần hành động bản thân có tỷ lệ 10% (mỗi cấp +2%) xóa miễn dịch độc lên mục tiêu (hiệu quả trên từng mục tiêu). Đánh nộ, chắc chắn gây Độc lên toàn bộ mục tiêu 2 lượt (Có thể cộng dồn, khấu trừ 15% lượng máu tối đa mỗi lượt). Ngoài ra, khi Crocodile tấn công mục tiêu trong trạng thái Độc thì sẽ hồi bản thân 15% lượng máu tối đa và 15 nộ khí. Bội số 3 sẽ tự động hồi 100% máu và miễn dịch Mộng Mị, Suy Kiệt 1 lượt (hiệu quả tối đa 2 lần)"
+    },
+    "evolutionFrom": {
+      "name": "Crocodie-H",
+      "heroId": null
+    },
+    "materials": [
+      {
+        "materialId": "lttCro"
+      },
+      {
+        "materialId": "crossGuild"
+      },
+      {
+        "materialId": "traiSuna"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
+  },
+  {
     "id": "Buggy_S",
     "name": "Buggy-S",
     "image": "./images/heroes/Buggy_s.png",
@@ -279,36 +375,6 @@
     ]
   },
   {
-    "id": "Hitestu_S",
-    "name": "Hitetsu-S",
-    "image": "./images/heroes/Hitetsu_S.png",
-    "note": "Hitetsu-S được tiến hoá từ Hitetsu-H bằng haki và viên shura. Phần này chỉ đề cập cách chiêu mộ Hitetsu-H",
-    "skills": {
-      "basicAttack": "[VC] Tengubi: Hitetsu tấn công toàn bộ mục tiêu kèm theo hiệu quả xóa bỏ miễn dịch Choáng và gây Mộng cảnh giảm 10% tỷ lệ thi triển hiệu ứng lên mục tiêu hàng ngang trong 2 lượt (hiệu quả mộng cảnh có thể cộng dồn). Lần 2, thêm 1 lần sát thương bỏ qua haki kèm theo sát thương 30% VC bỏ qua VP lên toàn bộ mục tiêu và có tỷ lệ xóa bỏ hiệu quả miễn dịch độc hoặc gây Độc (khấu trừ 20% lượng máu tối đa) lên mục tiêu trong 2 lượt (hiệu quả trên từng mục tiêu, độc có thể cộng dồn từ các hiệu ứng khác). Cuối cùng, gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời xét xem nếu mục tiêu có dưới 70% lượng máu tối đa thì Hitetsu sẽ gây Suy Kiệt tăng 10% tỷ lệ nhận buff từ đối thủ khác đánh vào bản thân (không thể cộng dồn) kèm nhụt chí giảm 50 nộ lên mục tiêu trong 1 lượt . Hồi 30 nộ khí, khiên miễn sát thương bỏ qua phòng ngự 1 lượt và xóa một số hiệu quả bất lợi lên toàn đội (Xóa: Nhụt chí, tê liệt, hóa đá, phong ấn trị liệu, cấm tích nộ)",
-      "ultimate": "[VC] Tengu Tsubute: Tập trung toàn bộ sức mạnh tấn công mục tiêu hình chữ thập và phá hủy hiệu quả miễn dịch sát thương đánh thường lên mục tiêu. Tiếp theo, thêm 1 lần sát thương bỏ qua haki toàn bộ mục tiêu kèm hiệu ứng mặt nạ Tengu lên toàn bộ mục tiêu trong 2 lượt (trầm mặc, nhụt chí giảm 65 nộ, đóng băng, mộng cảnh giảm 10% tỷ lệ ra hiệu ứng). Lần 3, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời xét xem nếu mục tiêu nào đang có dưới 80 nộ khí thì Hitetsu sẽ buff cho mục tiêu đó hiệu quả Kiếm Sát trong 1 lượt (Kiếm Sát: Sau khi kết thúc hành động sẽ có tỷ lệ cao xóa bỏ hiệu quả miễn dịch sát thương bỏ qua phòng ngự và khấu trừ 20% lượng máu tối đa lên 2 mục tiêu đồng minh ngẫu nhiên). Cuối cùng, gây 1 lần sát thương bỏ qua haki kèm theo sát thương 35% VC bỏ qua VP lên toàn bộ mục tiêu kèm hiệu quả hồi 15% máu xóa bỏ một 1 số hiệu quả bất lợi lên đồng đội (không bao gồm bản thân) (xóa bỏ: Nhụt chí, tê liệt, hóa đá, trầm mặc, phong ấn trị liêu, cấm tích nộ, choáng). Hồi toàn đội 40 nộ khí kèm theo hiệu quả miễn dịch một số hiệu ứng trong 1 lượt (Miễn dịch: Tê liệt, hóa đá, giảm sát thương về 0, cấm tích nộ, phong ấn trị liệu, trầm mặc, hỗn loạn, choáng)",
-      "talent": "Lửa Rèn Quỷ Khí\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 20% lượng máu giới hạn, 3 lượt đầu miễn dịch 1 số hiệu ứng bất lợi (Miễn dịch: Miễn sát thương bỏ qua phòng ngự, mê hoặc, hóa đá, đốt cháy, trầm mặc, MC, cấm tích nộ, tê liệt, giảm sát thương về 0). Miễn dịch vĩnh viễn choáng, giảm nộ, phong ấn trị liệu . Mỗi lần hành động có tỷ lệ 60% loại bỏ lớp giáp VC của mục tiêu\n\nCấp 3: VP +10%, S.Mệnh +10%\n\nCấp 5: VC +10%, Miễn STĐT+12%\n\nCấp 7: Ra trận Hitetsu sẽ buff cho toàn đội hiệu quả miễn dịch Vĩnh Hằng 1 lượt. Khi tử vong Hitetsu sẽ hồi sinh lại với 100% máu. Mỗi lần hành động Hitetsu sẽ chọn ngẫu nhiên 1 mục tiêu đưa kẻ địch vào hiệu quả Vĩnh Hằng trong 1 lượt. Khi bị tấn công thường có tỷ lệ cho mục tiêu tấn công Hitetsu bị choáng trong 1 lượt. ",
-      "devilFruit": ""
-    },
-    "evolutionFrom": {
-      "name": "Hitetsu-H",
-      "heroId": null
-    },
-    "materials": [
-      {
-        "materialId": "lttHitetsu"
-      },
-      {
-        "materialId": "matNaTengu"
-      },
-      {
-        "materialId": "Nidai"
-      },
-      {
-        "materialId": "BiKiepHaki"
-      }
-    ]
-  },
-  {
     "id": "Rayleigh_S2",
     "name": "Rayleigh-S2",
     "image": "./images/heroes/Rayleigh_S2.png",
@@ -411,25 +477,31 @@
     "id": "Akainu_S2",
     "name": "Akainu-S2",
     "image": "./images/heroes/Akainu_S2.png",
-    "note": "",
-    "skills": {},
+    "note": "Akainu-S2 được tiến hoá từ Akainu-S, akainu-S được tiến hoá từ Akainu. Akainu được mua trong shop tại làng cối xay gió với giá 400.000 vàng",
+    "skills": {
+      "basicAttack": "[VC]Great Eruption: Akainu tập trung toàn bộ sức mạnh tấn công vào toàn bộ mục tiêu, đồng thời có tỷ lệ xóa hiệu quả miễn dịch Vĩnh Hằng, Đốt cháy hoặc gây Mộng Cảnh (giảm 20% tỷ lệ ra hiệu ứng) trong 1 lượt (hiệu quả trên từng mục tiêu, khi bộc phá có thể gây cả 3 hiệu ứng lên mục tiêu). Tiếp đến, gây thêm đòn đánh sát thương bỏ qua haki kèm theo hiệu quả Đốt Cháy (thiêu đốt 20% máu mỗi lượt) và nhụt chí (giảm 35 nộ) trong 2 lượt. Lần 3, gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu, đồng thời Akainu sẽ tiến hành xét xem nếu mục tiêu nào đang dính hiệu quả Thiêu Đốt thì sẽ gây Dung Nham (Vĩnh Hằng, Trấn Áp, Xóa bỏ tận lực, miễn sát thương bỏ qua phòng ngự) trong 1 lượt. Cuối cùng, Akainu gây thêm 1 lần sát thương nguyên tố hỏa cực mạnh 15.000.000 kèm theo sát thương 35% VC bỏ qua VP lên toàn bộ mục tiêu và bản thân có tỷ lệ kích hoạt hiệu quả miễn dịch Vĩnh Hằng, Phong Hồn Hoặc Ẩn Nấp trong 1 lượt (khi bộc phá có thể xảy ra cả 3 hiệu ứng). Bản thân hồi 65 nộ khí",
+      "ultimate": "[VC]Hell Hound: Tiến hành gây sát thương cho toàn bộ mục tiêu đồng thời xóa bỏ toàn bộ hiệu quả Vách sắt, Tận Lực, Miễn sát thương đánh thường và có tỷ lệ xóa bỏ hiệu quả miễn dịch thiên phú của mục tiêu (hiệu quả trên từng mục tiêu). Tiếp theo, gây thêm 1 lần sát thương bỏ qua Haki kèm theo sát thương 35% VC bỏ qua VP lên toàn bộ mục tiêu, chắc chắn gây hiệu quả Vĩnh Hằng và xóa hiệu quả miễn dịch sát thương đánh nộ lên mục tiêu theo hình chữ Thập trong 1 lượt. Lần 3, gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và chọn mục tiêu có mục tiêu hàng ngang gây hiệu quả Suy Kiệt (tăng thêm 15% tỷ lệ nhận buff của đối thủ đánh vào bản thân) trong 2 lượt và kèm theo hiệu quả xóa miễn giảm nộ đồng thời giảm 100 nộ. Cuối cùng, gây thêm 1 lần sát thương bỏ qua haki kèm theo sát thương 30% VC bỏ qua VP lên toàn bộ mục tiêu và Akainu sẽ tiến hành buff cho bản thân khiên miễn dịch một số hiệu ứng trong 1 lượt (Miễn dịch: Cấm tích nộ, đóng băng, giảm nộ, Trấn Áp, hóa đá, hỗn loạn). Bản thân hồi 110 nộ kèm hiệu quả miễn sát thương bỏ qua phòng ngự 2 lượt và hồi đồng đội 30 nộ khí",
+      "talent": "Meteor Volcano\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 10% lượng máu giới hạn. 4 lượt đầu miễn dịch một số hiệu ứng bất lợi (Miễn dịch: Sát thương bỏ qua phòng ngự, VC, hóa đá, cấm tích nộ, tê liệt, mê hoặc, choáng, độc, đóng băng, trầm mặc, vĩnh hằng). Miễn dịch vĩnh viễn Đốt cháy, giảm sát thương về 0, cấm tích nộ, hỗn loạn, phong ấn trị liệu. Mỗi lần hành động sẽ chắc chắn xoá bỏ lớp giáp VC của kẻ địch. Vào trận, 2 lượt đầu miễn dịch trấn áp\n\nCấp 3: Miễn STĐT+10% Miễn STĐN+10%\n\nCấp 5: VP+10% TCP+ 10%\n\nCấp 7: Khi lần đầu hành động xong Akainu sẽ tiến vào trạng thái không thể bị tấn công thường và nộ (vẫn nhận được hiệu ứng buff từ đồng đội) trong 1 lượt. Đánh thường nếu lượng máu của Akainu trên 50% thì sẽ buff khiên miễn giảm 90% sát thương nhận vào và hồi 25% máu cho đồng đội (trừ bản thân) 2 lượt. Đánh nộ nếu lượng máu của Akainu dưới 60% sẽ gây thêm 1 lần sát thương 30% VC bỏ qua VP lên toàn bộ mục tiêu và có tỷ lệ xóa bỏ hiệu quả hồi sinh của mục tiêu (hiệu quả trên từng mục tiêu)",
+      "devilFruit": "[Trái Magu Magu] :Thuộc hệ Logia, giúp chủ sở hữu có thể biến bản thân thành dùng nham và tấn công mục tiêu bằng dung nham. Mỗi lần hành động Akainu sẽ thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu và xét xem nếu lượng máu của mục tiêu dưới 5% (mỗi cấp +1%) thì sẽ lập tức kết liêu mục tiêu đó. Đánh nộ Akainu có tỷ lệ thấp chắc chắn chọn 1 mục tiêu ngẫu nhiên và tiến hành tiêu diệt kẻ đó (mục tiêu bị Akainu kết liễu không thể hồi sinh) (tác dụng 1 lần). Mỗi lượt đấu bắt đầu bản thân hồi 10% sinh mệnh"
+    },
     "evolutionFrom": {
-      "name": "",
+      "name": "Akainu-S",
       "heroId": null
     },
-    "materials": []
-  },
-  {
-    "id": "Kizaru_S2",
-    "name": "Kizaru-S2",
-    "image": "./images/heroes/Kizaru_S2.png",
-    "note": "",
-    "skills": {},
-    "evolutionFrom": {
-      "name": "",
-      "heroId": null
-    },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "theBai"
+      },
+      {
+        "materialId": "huyHieu"
+      },
+      {
+        "materialId": "traiMaguMagu"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Aramaki_S",
@@ -531,18 +603,6 @@
     "id": "Ichiji_S",
     "name": "Ichiji-S",
     "image": "./images/heroes/Ichiji_S.png",
-    "note": "",
-    "skills": {},
-    "evolutionFrom": {
-      "name": "",
-      "heroId": null
-    },
-    "materials": []
-  },
-  {
-    "id": "Bennbeckman_S",
-    "name": "Benn Beckman-S",
-    "image": "./images/heroes/Bennbeckman_S.png",
     "note": "",
     "skills": {},
     "evolutionFrom": {
@@ -912,9 +972,51 @@
     "materials": []
   },
   {
-    "id": "Kizaru_S",
-    "name": "Kizaru-S",
-    "image": "./images/heroes/Kizaru_S.png",
+    "id": "Kizaru_S2",
+    "name": "Kizaru-S2",
+    "image": "./images/heroes/Kizaru_S2.png",
+    "note": "",
+    "skills": {},
+    "evolutionFrom": {
+      "name": "",
+      "heroId": null
+    },
+    "materials": []
+  },
+  {
+    "id": "Hitetsu_S",
+    "name": "Hitetsu-S",
+    "image": "./images/heroes/Hitetsu_S.png",
+    "note": "Hitetsu-S được tiến hoá từ Hitetsu-H bằng haki và viên shura. Phần này chỉ đề cập cách chiêu mộ Hitetsu-H",
+    "skills": {
+      "basicAttack": "[VC] Tengubi: Hitetsu tấn công toàn bộ mục tiêu kèm theo hiệu quả xóa bỏ miễn dịch Choáng và gây Mộng cảnh giảm 10% tỷ lệ thi triển hiệu ứng lên mục tiêu hàng ngang trong 2 lượt (hiệu quả mộng cảnh có thể cộng dồn). Lần 2, thêm 1 lần sát thương bỏ qua haki kèm theo sát thương 30% VC bỏ qua VP lên toàn bộ mục tiêu và có tỷ lệ xóa bỏ hiệu quả miễn dịch độc hoặc gây Độc (khấu trừ 20% lượng máu tối đa) lên mục tiêu trong 2 lượt (hiệu quả trên từng mục tiêu, độc có thể cộng dồn từ các hiệu ứng khác). Cuối cùng, gây thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời xét xem nếu mục tiêu có dưới 70% lượng máu tối đa thì Hitetsu sẽ gây Suy Kiệt tăng 10% tỷ lệ nhận buff từ đối thủ khác đánh vào bản thân (không thể cộng dồn) kèm nhụt chí giảm 50 nộ lên mục tiêu trong 1 lượt . Hồi 30 nộ khí, khiên miễn sát thương bỏ qua phòng ngự 1 lượt và xóa một số hiệu quả bất lợi lên toàn đội (Xóa: Nhụt chí, tê liệt, hóa đá, phong ấn trị liệu, cấm tích nộ)",
+      "ultimate": "[VC] Tengu Tsubute: Tập trung toàn bộ sức mạnh tấn công mục tiêu hình chữ thập và phá hủy hiệu quả miễn dịch sát thương đánh thường lên mục tiêu. Tiếp theo, thêm 1 lần sát thương bỏ qua haki toàn bộ mục tiêu kèm hiệu ứng mặt nạ Tengu lên toàn bộ mục tiêu trong 2 lượt (trầm mặc, nhụt chí giảm 65 nộ, đóng băng, mộng cảnh giảm 10% tỷ lệ ra hiệu ứng). Lần 3, thêm 1 lần sát thương bỏ qua haki lên toàn bộ mục tiêu đồng thời xét xem nếu mục tiêu nào đang có dưới 80 nộ khí thì Hitetsu sẽ buff cho mục tiêu đó hiệu quả Kiếm Sát trong 1 lượt (Kiếm Sát: Sau khi kết thúc hành động sẽ có tỷ lệ cao xóa bỏ hiệu quả miễn dịch sát thương bỏ qua phòng ngự và khấu trừ 20% lượng máu tối đa lên 2 mục tiêu đồng minh ngẫu nhiên). Cuối cùng, gây 1 lần sát thương bỏ qua haki kèm theo sát thương 35% VC bỏ qua VP lên toàn bộ mục tiêu kèm hiệu quả hồi 15% máu xóa bỏ một 1 số hiệu quả bất lợi lên đồng đội (không bao gồm bản thân) (xóa bỏ: Nhụt chí, tê liệt, hóa đá, trầm mặc, phong ấn trị liêu, cấm tích nộ, choáng). Hồi toàn đội 40 nộ khí kèm theo hiệu quả miễn dịch một số hiệu ứng trong 1 lượt (Miễn dịch: Tê liệt, hóa đá, giảm sát thương về 0, cấm tích nộ, phong ấn trị liệu, trầm mặc, hỗn loạn, choáng)",
+      "talent": "Lửa Rèn Quỷ Khí\n\nCấp 1: Mỗi lần bản thân chịu sát thương không vượt quá 20% lượng máu giới hạn, 3 lượt đầu miễn dịch 1 số hiệu ứng bất lợi (Miễn dịch: Miễn sát thương bỏ qua phòng ngự, mê hoặc, hóa đá, đốt cháy, trầm mặc, MC, cấm tích nộ, tê liệt, giảm sát thương về 0). Miễn dịch vĩnh viễn choáng, giảm nộ, phong ấn trị liệu . Mỗi lần hành động có tỷ lệ 60% loại bỏ lớp giáp VC của mục tiêu\n\nCấp 3: VP +10%, S.Mệnh +10%\n\nCấp 5: VC +10%, Miễn STĐT+12%\n\nCấp 7: Ra trận Hitetsu sẽ buff cho toàn đội hiệu quả miễn dịch Vĩnh Hằng 1 lượt. Khi tử vong Hitetsu sẽ hồi sinh lại với 100% máu. Mỗi lần hành động Hitetsu sẽ chọn ngẫu nhiên 1 mục tiêu đưa kẻ địch vào hiệu quả Vĩnh Hằng trong 1 lượt. Khi bị tấn công thường có tỷ lệ cho mục tiêu tấn công Hitetsu bị choáng trong 1 lượt. ",
+      "devilFruit": ""
+    },
+    "evolutionFrom": {
+      "name": "Hitestu-H",
+      "heroId": null
+    },
+    "materials": [
+      {
+        "materialId": "lttHitetsu"
+      },
+      {
+        "materialId": "matNaTengu"
+      },
+      {
+        "materialId": "Nidai"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
+  },
+  {
+    "id": "Bennbeckman_S",
+    "name": "Benn Beckman-S",
+    "image": "./images/heroes/Bennbeckman_S.png",
     "note": "",
     "skills": {},
     "evolutionFrom": {

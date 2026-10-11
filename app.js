@@ -1,4 +1,7 @@
 const heroOrder = [
+  ["Râu Trắng-S2", "RauTrang_S2.png"],
+  ["Mihawk-S3", "Mihawk_S3.png"],
+  ["Crocodie-S", "Crocodie_S.png"],
   ["Buggy-S", "Buggy_s.png"],
   ["Denjiro-S", "Denjiro_S.png"],
   ["X.Drake-S", "XDrake_S.png"],
@@ -63,7 +66,9 @@ const heroOrder = [
 const slug = (name) => name.replace(/[^a-zA-Z0-9]/g, "_");
 async function loadHeroes() {
   const details = await (await fetch("./data/heroes.json")).json();
-  const byImage = new Map(details.map((h) => [h.image?.split("/").pop()?.toLowerCase(), h]));
+  const byImage = new Map(
+    details.map((h) => [h.image?.split("/").pop()?.toLowerCase(), h]),
+  );
   const cards = heroOrder.map(([name, file]) => {
     const detail = byImage.get(file.toLowerCase());
     return {

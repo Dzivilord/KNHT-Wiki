@@ -1751,5 +1751,379 @@
       }
     ],
     "exchangeMaterials": []
+  },
+  {
+    "id": "huyHieu",
+    "name": "Huy Hiệu Thuỷ Sư Đô Đốc",
+    "images": [
+      "./images/materials/Akainu_S2/huyHieu.png"
+    ],
+    "description": "",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "theBai",
+    "name": "Thẻ bài Akainu-S2",
+    "images": [
+      "./images/materials/Akainu_S2/theBai.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Akainu_S2/theBai1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "road_poneglyphs",
+        "amount": 4
+      },
+      {
+        "materialId": "government_seal",
+        "amount": 12
+      },
+      {
+        "materialId": "universal_coin",
+        "amount": 20000
+      },
+      {
+        "materialId": "traiMaguMagu",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "traiMaguMagu",
+    "name": "trái Magu Magu",
+    "images": [
+      "./images/materials/Akainu_S2/traiMagu.png"
+    ],
+    "description": "Trái Magu Magu hiện chỉ đổi được trong shop Wano",
+    "infoImages": [
+      "./images/materials/Akainu_S2/traiMagu1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 1700000
+      }
+    ]
+  },
+  {
+    "id": "traiGura",
+    "name": "Trái Gura Gura",
+    "images": [
+      "./images/materials/RauTrang_S2/traiGura.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/RauTrang_S2/traiGura1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "government_seal",
+        "amount": 7
+      },
+      {
+        "materialId": "KetTinhBangHoa",
+        "amount": 700
+      },
+      {
+        "materialId": "BanVeGura",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "BanVeGura",
+    "name": "Bản Vẽ Trái Gura Gura",
+    "images": [
+      "./images/materials/RauTrang_S2/BanVeGura.png"
+    ],
+    "description": "Bản vẽ trái Gura hiện tại chỉ có thể lấy qua giải đấu Tam Đấu Vương Giả.",
+    "infoImages": [
+      "./images/materials/RauTrang_S2/BanVeGura1.png"
+    ],
+    "exchangeShops": [],
+    "farmSources": [
+      {
+        "sourceId": "TamDau"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttRauTrang",
+    "name": "LTT Râu Trắng S2",
+    "images": [
+      "./images/materials/RauTrang_S2/lttRauTrang.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/RauTrang_S2/lttRauTrang1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "road_poneglyphs",
+        "amount": 5
+      },
+      {
+        "materialId": "universal_coin",
+        "amount": 20000
+      },
+      {
+        "materialId": "coRauTrang",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "coRauTrang",
+    "name": "Cờ Băng Râu Trắng",
+    "images": [
+      "./images/materials/RauTrang_S2/coRauTrang.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/RauTrang_S2/coRauTrang1.png",
+      "./images/materials/RauTrang_S2/coRauTrang2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 1800000
+      },
+      {
+        "materialId": "Wano_point",
+        "amount": 1800000
+      }
+    ]
+  },
+  {
+    "id": "lttMihawk",
+    "name": "Lệnh Triệu Tập Mihawk-S3",
+    "images": [
+      "./images/materials/Mihawk_S3/lttMihawk.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Mihawk_S3/lttMihawk1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "road_poneglyphs",
+        "amount": 5
+      },
+      {
+        "materialId": "universal_coin",
+        "amount": 20000
+      },
+      {
+        "materialId": "muMihawk",
+        "amount": 1
+      },
+      {
+        "materialId": "thanhGiaMihawk",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "muMihawk",
+    "name": "Mũ Diều Hâu Mihawk-S3",
+    "images": [
+      "./images/materials/Mihawk_S3/muMihawk.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Mihawk_S3/muMihawk1.png",
+      "./images/materials/Mihawk_S3/muMihawk2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 1500000
+      },
+      {
+        "materialId": "Wano_point",
+        "amount": 1500000
+      }
+    ]
+  },
+  {
+    "id": "thanhGiaMihawk",
+    "name": "Thánh Giá Mihawk",
+    "images": [
+      "./images/materials/Mihawk_S3/thanhGiaMihawk.png"
+    ],
+    "description": "Thánh Giá Mihawk được lấy từ đặc quyền siêu tướng Roger-S.",
+    "infoImages": [
+      "./images/materials/Mihawk_S3/thanhGiaMihawk1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "DQST"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "Yoru",
+    "name": "Bảo Kiếm Yoru-S3",
+    "images": [
+      "./images/materials/Mihawk_S3/yoru.png"
+    ],
+    "description": "",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttCro",
+    "name": "Lệnh Triệu Tập Crocodie-S",
+    "images": [
+      "./images/materials/Crocodie_S/lttCro.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Crocodie_S/lttCro1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 500
+      },
+      {
+        "materialId": "ngocChiemTinh",
+        "amount": 400
+      },
+      {
+        "materialId": "crossGuild",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "crossGuild",
+    "name": "Huy Hiệu Cross Guild",
+    "images": [
+      "./images/materials/Crocodie_S/crossGuild.png"
+    ],
+    "description": "Lưu ý, vật phẩm này trùng tên và trùng biểu tướng với huy Hiệu Cross Guild của Buggy-S (vật phẩm key của Buggy-S).",
+    "infoImages": [
+      "./images/materials/Crocodie_S/crossGuild1.png",
+      "./images/materials/Crocodie_S/crossGuild2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 1000000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 1000000
+      }
+    ]
+  },
+  {
+    "id": "traiSuna",
+    "name": "Trái Suna Suna",
+    "images": [
+      "./images/materials/Crocodie_S/traiSuna.png"
+    ],
+    "description": "Trái Suna Suna có thể đổi bằng điểm Wano hoặc điểm tích luỹ cống hiến sự kiện Cây Ác Ma.",
+    "infoImages": [
+      "./images/materials/Crocodie_S/traiSuna1.png",
+      "./images/materials/Crocodie_S/traiSuna2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 700000
+      }
+    ]
   }
 ]

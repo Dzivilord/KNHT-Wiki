@@ -19,12 +19,8 @@
     "id": "grandline",
     "name": "Grandline",
     "description": "Tính năng grandline được mở tại level 140 giúp farm nhiều nguồn nguyên liệu hiếm và quan trọng thông qua việc đánh các quái PVE cực mạnh. Tham khảo tại #hướng dẫn tính năng trên discord",
-    "images": [
-      "./images/Information/grandline.png"
-    ],
-    "infoImages": [
-      "./images/Information/grandlineGift.png"
-    ],
+    "images": ["./images/Information/grandline.png"],
+    "infoImages": ["./images/Information/grandlineGift.png"],
     "link": null
   },
   {
@@ -64,7 +60,10 @@
     "name": "Tinh linh",
     "description": "Hệ thống tinh linh được mở ở tầm lv 109. Tinh linh ngoài việc tăng các chỉ số thì sẽ rớt thêm nhiều quà giá trị. Đây là nguồn kiếm các nguyên liệu hiệu cực hiệu quả thụ động. Đặc biệt từ tinh linh leo trở lên.",
     "images": ["./images/Information/TinhLinh.png"],
-    "infoImages": ["./images/Information/TinhLinh1.png","./images/Information/TinhLinh2.png"],
+    "infoImages": [
+      "./images/Information/TinhLinh1.png",
+      "./images/Information/TinhLinh2.png"
+    ],
     "link": null
   },
   {
@@ -186,5 +185,13 @@
     "description": "Đấu trường liên server tập thể- Công hội chiến nhưng đông hơn",
     "link": null,
     "infoImages": ["images/Information/PunkHazard.png"]
+  },
+  {
+    "id": "TamDau",
+    "name": "Tam Đấu Vương Giả",
+    "images": ["images/Information/tamDau.png"],
+    "description": "Giải đấu Tam Đấu Vương giả. Thông tin chi tiết xem tại https://kynguyenhaitac.vn/cap-nhat/tinh-nang-moi-tam-dau-vuong-gia-2321.html",
+    "link": null,
+    "infoImages": ["images/Information/tamDau1.png"]
   }
 ]
