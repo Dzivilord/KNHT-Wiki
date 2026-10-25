@@ -193,37 +193,5 @@
     "description": "Giải đấu Tam Đấu Vương giả. Thông tin chi tiết xem tại https://kynguyenhaitac.vn/cap-nhat/tinh-nang-moi-tam-dau-vuong-gia-2321.html",
     "link": null,
     "infoImages": ["images/Information/tamDau1.png"]
-  },
-  {
-    "id": "Kyros",
-    "name": "Lính Chì Kyros",
-    "images": ["images/Information/Kyros.png"],
-    "description": "Một trong 4 vật phẩm nguyên liệu farm tuần, rate trung bình là 100-120 item/ 2000 lực. Các vật phẩm đáng đổi từ Kyros bao gồm thời trang riêng của siêu tướng. Các vật phẩm còn lại tương đối đắt hơn giá farm trong big",
-    "link": null,
-    "infoImages": ["images/Information/Kyros1.png"]
-  },
-  {
-    "id": "PandaMan",
-    "name": "Panda Man",
-    "images": ["images/Information/Pandaman.png"],
-    "description": "Một trong 4 vật phẩm nguyên liệu farm tuần, rate trung bình là 100-120 item/ 2000 lực. Các vật phẩm đáng đổi từ Panda Man bao gồm các loại lệnh triệu tập siêu tướng, hạt năng lượng (giá lời gần gấp đôi so với farm hộp 10 big)...",
-    "link": null,
-    "infoImages": ["images/Information/Pandaman1.png"]
-  },
-  {
-    "id": "KibiDango",
-    "name": "Kibi Dango",
-    "images": ["images/Information/KibiDango.png"],
-    "description": "Một trong 4 vật phẩm nguyên liệu farm tuần, rate trung bình là 100-120 item/ 2000 lực. Vật phẩm đáng đổi nhất trong tuần này là mảnh tinh linh Sunny trung bình 16k lực/ 1 sunny.",
-    "link": null,
-    "infoImages": ["images/Information/KibiDango1.png"]
-  },
-  {
-    "id": "Belly",
-    "name": "Đồng Belly",
-    "images": ["images/Information/Belly.png"],
-    "description": "Một trong 4 vật phẩm nguyên liệu farm tuần, rate trung bình là 100-120 item/ 2000 lực. Đây là tuần ngon nhất, các vật phẩm đáng đổi bằng Belly nhất bao gồm tinh thạch, phiến Poneglyph (100 phiến /8k lực), lệnh triệu tập kaido, thời gian riêng Kaido, trái sát thương ",
-    "link": null,
-    "infoImages": ["images/Information/Belly1.png"]
   }
 ]

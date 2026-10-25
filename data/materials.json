@@ -1,103 +1,11 @@
 [
   {
-    "id": "ltt_buggy",
-    "name": "LTT Yonko Buggy",
-    "images": [
-      "./images/materials/BuggyYonko_S/lttBuggy.png"
-    ],
-    "description": "",
-    "infoImages": [],
-    "exchangeShops": [
-      {
-        "shopId": "gift_exchange_center"
-      }
-    ],
-    "farmSources": [],
-    "exchangeMaterials": [
-      {
-        "materialId": "bara_bara",
-        "amount": 1
-      },
-      {
-        "materialId": "road_poneglyphs",
-        "amount": 5
-      },
-      {
-        "materialId": "government_seal",
-        "amount": 7
-      },
-      {
-        "materialId": "universal_coin",
-        "amount": 20000
-      }
-    ]
-  },
-  {
-    "id": "bara_bara",
-    "name": "Trái Bara Bara",
-    "images": [
-      "./images/materials/BuggyYonko_S/barabara.png"
-    ],
-    "description": "",
-    "infoImages": [],
-    "exchangeShops": [
-      {
-        "shopId": "wano_shop"
-      },
-      {
-        "shopId": "CAM_shop"
-      }
-    ],
-    "farmSources": [],
-    "exchangeMaterials": [
-      {
-        "materialId": "chieuMo_point",
-        "amount": 15000000
-      },
-      {
-        "materialId": "Wano_point",
-        "amount": 1500000
-      }
-    ]
-  },
-  {
-    "id": "cross_guild_badge",
-    "name": "Huy Hiệu Cross Guild",
-    "images": [
-      "./images/materials/BuggyYonko_S/crossGuild.png"
-    ],
-    "description": "Vật phẩm lấy được trong các sự kiện đặc biệt. Tham khảo thông tin sự kiện đặc biệt tại #✍️hướng-dẫn-tính-năng  trên discord",
-    "infoImages": [],
-    "exchangeShops": [
-      {
-        "shopId": "big_event"
-      }
-    ],
-    "farmSources": [],
-    "exchangeMaterials": []
-  },
-  {
     "id": "road_poneglyphs",
     "name": "Road Poneglyphs",
     "images": [
       "./images/materials/Basics/roadPoneglyphs.png"
     ],
     "description": "Vật phẩm tổng hợp từ các nguyên liệu đại hải trình. Bao gồm 3000 la bàn, 4000 vivre card và 5000 cờ hải tặc",
-    "farmSources": [],
-    "exchangeMaterials": [
-      {
-        "materialId": "log_pose",
-        "amount": 3000
-      },
-      {
-        "materialId": "vivre_card",
-        "amount": 4000
-      },
-      {
-        "materialId": "pirate_flag",
-        "amount": 5000
-      }
-    ],
     "infoImages": [
       "./images/Information/roadPoneglyphsExchange.png"
     ],
@@ -105,7 +13,226 @@
       {
         "shopId": "gift_exchange_center"
       }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 4000
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 3000
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 5000
+      }
     ]
+  },
+  {
+    "id": "vivre_card",
+    "name": "Vivre Card",
+    "images": [
+      "./images/materials/Basics/vivreCard.png"
+    ],
+    "description": "Một trong 3 vật phẩm nguyên liệu đại hải trình dùng để đổi siêu tướng.",
+    "infoImages": [
+      "./images/materials/Basics/RuongNLDHT.png",
+      "./images/materials/Basics/TuiNLDHT.png",
+      "./images/materials/Basics/TuiNLDHTA.png"
+    ],
+    "exchangeShops": [],
+    "farmSources": [
+      {
+        "sourceId": "NhatKyHanhTrinh"
+      },
+      {
+        "sourceId": "grandline"
+      },
+      {
+        "sourceId": "PhanHoiSieuLon"
+      },
+      {
+        "sourceId": "LeBaoThoiHan"
+      },
+      {
+        "sourceId": "VuonAcMa"
+      },
+      {
+        "sourceId": "NhaXuongVegapunk"
+      },
+      {
+        "sourceId": "TinhLinh"
+      },
+      {
+        "sourceId": "TamBaoChien"
+      },
+      {
+        "sourceId": "CongHoiChien"
+      },
+      {
+        "sourceId": "VuotAiDaiChien"
+      },
+      {
+        "sourceId": "Uta"
+      },
+      {
+        "sourceId": "TuHoangTranhBa"
+      },
+      {
+        "sourceId": "PhucLoiLeTet"
+      },
+      {
+        "sourceId": "TrungTamTheBai"
+      },
+      {
+        "sourceId": "PunkHazard"
+      },
+      {
+        "sourceId": "TamDau"
+      },
+      {
+        "materialId": "PandaMan"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "log_pose",
+    "name": "La Bàn Log Pose",
+    "images": [
+      "./images/materials/Basics/logPose.png"
+    ],
+    "description": "Một trong 3 vật phẩm nguyên liệu đại hải trình dùng để đổi siêu tướng",
+    "infoImages": [
+      "./images/materials/Basics/RuongNLDHT.png",
+      "./images/materials/Basics/TuiNLDHT.png",
+      "./images/materials/Basics/TuiNLDHTA.png"
+    ],
+    "exchangeShops": [],
+    "farmSources": [
+      {
+        "sourceId": "NhatKyHanhTrinh"
+      },
+      {
+        "sourceId": "grandline"
+      },
+      {
+        "sourceId": "PhanHoiSieuLon"
+      },
+      {
+        "sourceId": "LeBaoThoiHan"
+      },
+      {
+        "sourceId": "VuonAcMa"
+      },
+      {
+        "sourceId": "NhaXuongVegapunk"
+      },
+      {
+        "sourceId": "TinhLinh"
+      },
+      {
+        "sourceId": "TamBaoChien"
+      },
+      {
+        "sourceId": "VuongGiaChien"
+      },
+      {
+        "sourceId": "Uta"
+      },
+      {
+        "sourceId": "TuHoangTranhBa"
+      },
+      {
+        "sourceId": "PhucLoiLeTet"
+      },
+      {
+        "sourceId": "TichLuyTieuHao"
+      },
+      {
+        "sourceId": "TrungTamTheBai"
+      },
+      {
+        "sourceId": "PunkHazard"
+      },
+      {
+        "sourceId": "TamDau"
+      },
+      {
+        "materialId": "PandaMan"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "pirate_flag",
+    "name": "Cờ Hải Tặc",
+    "images": [
+      "./images/materials/Basics/pirateFlag.png"
+    ],
+    "description": "Một trong 3 vật phẩm nguyên liệu đại hải trình dùng để đổi siêu tướng",
+    "infoImages": [
+      "./images/materials/Basics/RuongNLDHT.png",
+      "./images/materials/Basics/TuiNLDHT.png",
+      "./images/materials/Basics/TuiNLDHTA.png"
+    ],
+    "exchangeShops": [],
+    "farmSources": [
+      {
+        "sourceId": "NhatKyHanhTrinh"
+      },
+      {
+        "sourceId": "grandline"
+      },
+      {
+        "sourceId": "PhanHoiSieuLon"
+      },
+      {
+        "sourceId": "LeBaoThoiHan"
+      },
+      {
+        "sourceId": "VuonAcMa"
+      },
+      {
+        "sourceId": "NhaXuongVegapunk"
+      },
+      {
+        "sourceId": "TinhLinh"
+      },
+      {
+        "sourceId": "TamBaoChien"
+      },
+      {
+        "sourceId": "CayAcMa"
+      },
+      {
+        "sourceId": "Uta"
+      },
+      {
+        "sourceId": "TuHoangTranhBa"
+      },
+      {
+        "sourceId": "PhucLoiLeTet"
+      },
+      {
+        "sourceId": "TichLuyTieuHao"
+      },
+      {
+        "sourceId": "TrungTamTheBai"
+      },
+      {
+        "sourceId": "PunkHazard"
+      },
+      {
+        "sourceId": "TamDau"
+      },
+      {
+        "materialId": "PandaMan"
+      }
+    ],
+    "exchangeMaterials": []
   },
   {
     "id": "government_seal",
@@ -138,7 +265,7 @@
         "sourceId": "Uta"
       },
       {
-        "sourceId": "Belly"
+        "materialId": "Belly"
       }
     ],
     "exchangeMaterials": []
@@ -178,7 +305,56 @@
         "sourceId": "PhucLoiLeTet"
       },
       {
-        "sourceId": "KibiDango"
+        "materialId": "KibiDango"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "Wano_point",
+    "name": "Điểm Wano",
+    "images": [
+      "./images/materials/Basics/wanoPoint.png"
+    ],
+    "description": "Điểm wano dùng để đổi các vật phẩm trong shop Wano. Điểm có thể được khai thác ở rất nhiều nguồn khác nhau",
+    "infoImages": [],
+    "exchangeShops": [],
+    "farmSources": [
+      {
+        "sourceId": "NhatKyHanhTrinh"
+      },
+      {
+        "sourceId": "grandline"
+      },
+      {
+        "sourceId": "PhanHoiSieuLon"
+      },
+      {
+        "sourceId": "LeBaoThoiHan"
+      },
+      {
+        "sourceId": "VuonAcMa"
+      },
+      {
+        "sourceId": "NhaXuongVegapunk"
+      },
+      {
+        "sourceId": "TinhLinh"
+      },
+      {
+        "sourceId": "TamBaoChien"
+      },
+      {
+        "sourceId": "ChienTruongWano"
+      },
+      {
+        "sourceId": "PhucLoiLeTet"
+      },
+      {
+        "sourceId": "TichLuyTieuHao"
+      },
+      {
+        "materialId": "PandaMan"
       }
     ],
     "exchangeMaterials": []
@@ -224,7 +400,7 @@
         "sourceId": "TichLuyTieuHao"
       },
       {
-        "sourceId": "KibiDango"
+        "materialId": "KibiDango"
       }
     ],
     "exchangeMaterials": []
@@ -331,7 +507,7 @@
         "sourceId": "PhucLoiLeTet"
       },
       {
-        "sourceId": "KibiDango"
+        "materialId": "KibiDango"
       }
     ],
     "exchangeMaterials": []
@@ -371,7 +547,7 @@
         "sourceId": "TichLuyTieuHao"
       },
       {
-        "sourceId": "PandaMan"
+        "materialId": "PandaMan"
       }
     ],
     "exchangeMaterials": []
@@ -402,262 +578,90 @@
         "sourceId": "TamBaoChien"
       },
       {
-        "sourceId": "Belly"
+        "materialId": "Belly"
       }
     ],
     "exchangeMaterials": []
   },
   {
-    "id": "Wano_point",
-    "name": "Điểm Wano",
+    "id": "ngocChiemTinh",
+    "name": "Ngọc Chiêm Tinh",
     "images": [
-      "./images/materials/Basics/wanoPoint.png"
+      "./images/materials/Basics/ngocChiemTinh.png"
     ],
-    "description": "Điểm wano dùng để đổi các vật phẩm trong shop Wano. Điểm có thể được khai thác ở rất nhiều nguồn khác nhau",
+    "description": "Ngọc chiêm tinh là một trong những vật phẩm quan trọng để tiến hoá tướng thường. Ngọc chiêm tinh có thể được khai thác từ nhiều nguồn khác nhau",
+    "farmSources": [
+      {
+        "farmSourceId": "grandline"
+      },
+      {
+        "farmSourceId": "TamBaoChien"
+      },
+      {
+        "farmSourceId": "NhatKyHanhTrinh"
+      },
+      {
+        "farmSourceId": "PhucLoiLeTet"
+      }
+    ],
+    "exchangeMaterials": [],
     "infoImages": [],
-    "exchangeShops": [],
-    "farmSources": [
-      {
-        "sourceId": "NhatKyHanhTrinh"
-      },
-      {
-        "sourceId": "grandline"
-      },
-      {
-        "sourceId": "PhanHoiSieuLon"
-      },
-      {
-        "sourceId": "LeBaoThoiHan"
-      },
-      {
-        "sourceId": "VuonAcMa"
-      },
-      {
-        "sourceId": "NhaXuongVegapunk"
-      },
-      {
-        "sourceId": "TinhLinh"
-      },
-      {
-        "sourceId": "TamBaoChien"
-      },
-      {
-        "sourceId": "ChienTruongWano"
-      },
-      {
-        "sourceId": "PhucLoiLeTet"
-      },
-      {
-        "sourceId": "TichLuyTieuHao"
-      },
-      {
-        "sourceId": "PandaMan"
-      }
+    "exchangeShops": []
+  },
+  {
+    "id": "Kyros",
+    "name": "Lính Chì Kyros",
+    "images": [
+      "images/Information/Kyros.png"
     ],
+    "description": "Một trong 4 vật phẩm nguyên liệu farm tuần, rate trung bình là 100-120 item/ 2000 lực. Các vật phẩm đáng đổi từ Kyros bao gồm thời trang riêng của siêu tướng. Các vật phẩm còn lại tương đối đắt hơn giá farm trong big",
+    "infoImages": [
+      "images/Information/Kyros1.png"
+    ],
+    "exchangeShops": [],
+    "farmSources": [],
     "exchangeMaterials": []
   },
   {
-    "id": "vivre_card",
-    "name": "Vivre Card",
+    "id": "PandaMan",
+    "name": "Panda Man",
     "images": [
-      "./images/materials/Basics/vivreCard.png"
+      "images/Information/Pandaman.png"
     ],
-    "description": "Một trong 3 vật phẩm nguyên liệu đại hải trình dùng để đổi siêu tướng.",
+    "description": "Một trong 4 vật phẩm nguyên liệu farm tuần, rate trung bình là 100-120 item/ 2000 lực. Các vật phẩm đáng đổi từ Panda Man bao gồm các loại lệnh triệu tập siêu tướng, hạt năng lượng (giá lời gần gấp đôi so với farm hộp 10 big)...",
     "infoImages": [
-      "./images/materials/Basics/RuongNLDHT.png",
-      "./images/materials/Basics/TuiNLDHT.png",
-      "./images/materials/Basics/TuiNLDHTA.png"
+      "images/Information/Pandaman1.png"
     ],
     "exchangeShops": [],
-    "farmSources": [
-      {
-        "sourceId": "NhatKyHanhTrinh"
-      },
-      {
-        "sourceId": "grandline"
-      },
-      {
-        "sourceId": "PhanHoiSieuLon"
-      },
-      {
-        "sourceId": "LeBaoThoiHan"
-      },
-      {
-        "sourceId": "VuonAcMa"
-      },
-      {
-        "sourceId": "NhaXuongVegapunk"
-      },
-      {
-        "sourceId": "TinhLinh"
-      },
-      {
-        "sourceId": "TamBaoChien"
-      },
-      {
-        "sourceId": "CongHoiChien"
-      },
-      {
-        "sourceId": "VuotAiDaiChien"
-      },
-      {
-        "sourceId": "Uta"
-      },
-      {
-        "sourceId": "TuHoangTranhBa"
-      },
-      {
-        "sourceId": "PhucLoiLeTet"
-      },
-      {
-        "sourceId": "TrungTamTheBai"
-      },
-      {
-        "sourceId": "PunkHazard"
-      },
-      {
-        "sourceId": "TamDau"
-      },
-      {
-        "sourceId": "PandaMan"
-      }
-    ],
+    "farmSources": [],
     "exchangeMaterials": []
   },
   {
-    "id": "log_pose",
-    "name": "La Bàn Log Pose",
+    "id": "KibiDango",
+    "name": "Kibi Dango",
     "images": [
-      "./images/materials/Basics/logPose.png"
+      "images/Information/KibiDango.png"
     ],
-    "description": "Một trong 3 vật phẩm nguyên liệu đại hải trình dùng để đổi siêu tướng",
+    "description": "Một trong 4 vật phẩm nguyên liệu farm tuần, rate trung bình là 100-120 item/ 2000 lực. Vật phẩm đáng đổi nhất trong tuần này là mảnh tinh linh Sunny trung bình 16k lực/ 1 sunny.",
     "infoImages": [
-      "./images/materials/Basics/RuongNLDHT.png",
-      "./images/materials/Basics/TuiNLDHT.png",
-      "./images/materials/Basics/TuiNLDHTA.png"
+      "images/Information/KibiDango1.png"
     ],
     "exchangeShops": [],
-    "farmSources": [
-      {
-        "sourceId": "NhatKyHanhTrinh"
-      },
-      {
-        "sourceId": "grandline"
-      },
-      {
-        "sourceId": "PhanHoiSieuLon"
-      },
-      {
-        "sourceId": "LeBaoThoiHan"
-      },
-      {
-        "sourceId": "VuonAcMa"
-      },
-      {
-        "sourceId": "NhaXuongVegapunk"
-      },
-      {
-        "sourceId": "TinhLinh"
-      },
-      {
-        "sourceId": "TamBaoChien"
-      },
-      {
-        "sourceId": "VuongGiaChien"
-      },
-      {
-        "sourceId": "Uta"
-      },
-      {
-        "sourceId": "TuHoangTranhBa"
-      },
-      {
-        "sourceId": "PhucLoiLeTet"
-      },
-      {
-        "sourceId": "TichLuyTieuHao"
-      },
-      {
-        "sourceId": "TrungTamTheBai"
-      },
-      {
-        "sourceId": "PunkHazard"
-      },
-      {
-        "sourceId": "TamDau"
-      },
-      {
-        "sourceId": "PandaMan"
-      }
-    ],
+    "farmSources": [],
     "exchangeMaterials": []
   },
   {
-    "id": "pirate_flag",
-    "name": "Cờ Hải Tặc",
+    "id": "Belly",
+    "name": "Đồng Belly",
     "images": [
-      "./images/materials/Basics/pirateFlag.png"
+      "images/Information/Belly.png"
     ],
-    "description": "Một trong 3 vật phẩm nguyên liệu đại hải trình dùng để đổi siêu tướng",
+    "description": "Một trong 4 vật phẩm nguyên liệu farm tuần, rate trung bình là 100-120 item/ 2000 lực. Đây là tuần ngon nhất, các vật phẩm đáng đổi bằng Belly nhất bao gồm tinh thạch, phiến Poneglyph (100 phiến /8k lực), lệnh triệu tập kaido, thời gian riêng Kaido, trái sát thương ",
     "infoImages": [
-      "./images/materials/Basics/RuongNLDHT.png",
-      "./images/materials/Basics/TuiNLDHT.png",
-      "./images/materials/Basics/TuiNLDHTA.png"
+      "images/Information/Belly1.png"
     ],
     "exchangeShops": [],
-    "farmSources": [
-      {
-        "sourceId": "NhatKyHanhTrinh"
-      },
-      {
-        "sourceId": "grandline"
-      },
-      {
-        "sourceId": "PhanHoiSieuLon"
-      },
-      {
-        "sourceId": "LeBaoThoiHan"
-      },
-      {
-        "sourceId": "VuonAcMa"
-      },
-      {
-        "sourceId": "NhaXuongVegapunk"
-      },
-      {
-        "sourceId": "TinhLinh"
-      },
-      {
-        "sourceId": "TamBaoChien"
-      },
-      {
-        "sourceId": "CayAcMa"
-      },
-      {
-        "sourceId": "Uta"
-      },
-      {
-        "sourceId": "TuHoangTranhBa"
-      },
-      {
-        "sourceId": "PhucLoiLeTet"
-      },
-      {
-        "sourceId": "TichLuyTieuHao"
-      },
-      {
-        "sourceId": "TrungTamTheBai"
-      },
-      {
-        "sourceId": "PunkHazard"
-      },
-      {
-        "sourceId": "TamDau"
-      },
-      {
-        "sourceId": "PandaMan"
-      }
-    ],
+    "farmSources": [],
     "exchangeMaterials": []
   },
   {
@@ -714,9 +718,86 @@
         "sourceId": "PhucLoiLeTet"
       },
       {
-        "sourceId": "Kyros"
+        "materialId": "Kyros"
       }
     ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "ltt_buggy",
+    "name": "LTT Yonko Buggy",
+    "images": [
+      "./images/materials/BuggyYonko_S/lttBuggy.png"
+    ],
+    "description": "",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "bara_bara",
+        "amount": 1
+      },
+      {
+        "materialId": "road_poneglyphs",
+        "amount": 5
+      },
+      {
+        "materialId": "government_seal",
+        "amount": 7
+      },
+      {
+        "materialId": "universal_coin",
+        "amount": 20000
+      }
+    ]
+  },
+  {
+    "id": "bara_bara",
+    "name": "Trái Bara Bara",
+    "images": [
+      "./images/materials/BuggyYonko_S/barabara.png"
+    ],
+    "description": "",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 15000000
+      },
+      {
+        "materialId": "Wano_point",
+        "amount": 1500000
+      }
+    ]
+  },
+  {
+    "id": "cross_guild_badge",
+    "name": "Huy Hiệu Cross Guild",
+    "images": [
+      "./images/materials/BuggyYonko_S/crossGuild.png"
+    ],
+    "description": "Vật phẩm lấy được trong các sự kiện đặc biệt. Tham khảo thông tin sự kiện đặc biệt tại #✍️hướng-dẫn-tính-năng  trên discord",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [],
     "exchangeMaterials": []
   },
   {
@@ -804,31 +885,6 @@
         "amount": 1000000
       }
     ]
-  },
-  {
-    "id": "ngocChiemTinh",
-    "name": "Ngọc Chiêm Tinh",
-    "images": [
-      "./images/materials/Basics/ngocChiemTinh.png"
-    ],
-    "description": "Ngọc chiêm tinh là một trong những vật phẩm quan trọng để tiến hoá tướng thường. Ngọc chiêm tinh có thể được khai thác từ nhiều nguồn khác nhau",
-    "farmSources": [
-      {
-        "farmSourceId": "grandline"
-      },
-      {
-        "farmSourceId": "TamBaoChien"
-      },
-      {
-        "farmSourceId": "NhatKyHanhTrinh"
-      },
-      {
-        "farmSourceId": "PhucLoiLeTet"
-      }
-    ],
-    "exchangeMaterials": [],
-    "infoImages": [],
-    "exchangeShops": []
   },
   {
     "id": "lttXDrake",
@@ -1203,16 +1259,6 @@
       }
     ],
     "farmSources": [],
-    "exchangeMaterials": []
-  },
-  {
-    "id": "ByKiepHaki",
-    "name": "ByKiepHaki",
-    "images": [],
-    "description": "",
-    "infoImages": [],
-    "farmSources": [],
-    "exchangeShops": [],
     "exchangeMaterials": []
   },
   {
@@ -2209,7 +2255,7 @@
       },
       {
         "materialId": "ngocChiemTinh",
-        "amount": 400
+        "amount": 500
       },
       {
         "materialId": "crossGuild",
@@ -2577,18 +2623,15 @@
     "description": "",
     "infoImages": [
       "./images/materials/Momonosuke_S/Momonosuke.png",
-      "./images/materials/Momonosuke_S/lttMomo1.png"
+      "./images/materials/Momonosuke_S/lttMomo1.png",
+      "./images/materials/Momonosuke_S/lttMomo2.png"
     ],
     "exchangeShops": [
       {
         "shopId": "CuongHoa"
       }
     ],
-    "farmSources": [
-      {
-        "sourceId": "Belly"
-      }
-    ],
+    "farmSources": [],
     "exchangeMaterials": [
       {
         "materialId": "vivre_card",
@@ -2601,6 +2644,10 @@
       {
         "materialId": "pirate_flag",
         "amount": 11000
+      },
+      {
+        "materialId": "Belly",
+        "amount": 5500
       }
     ]
   },
@@ -2613,7 +2660,8 @@
     "description": "",
     "infoImages": [
       "./images/materials/Momonosuke_S/traiSmile1.png",
-      "./images/materials/Momonosuke_S/traiSmile2.png"
+      "./images/materials/Momonosuke_S/traiSmile2.png",
+      "./images/materials/Momonosuke_S/traiSmile3.png"
     ],
     "exchangeShops": [
       {
@@ -2623,19 +2671,19 @@
         "shopId": "CAM_shop"
       }
     ],
-    "farmSources": [
-      {
-        "sourceId": "Belly"
-      }
-    ],
+    "farmSources": [],
     "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 1400000
+      },
       {
         "materialId": "chieuMo_point",
         "amount": 1300000
       },
       {
-        "materialId": "Wano_point",
-        "amount": 1400000
+        "materialId": "Belly",
+        "amount": 7000
       }
     ]
   },
@@ -2661,10 +2709,11 @@
     "images": [
       "./images/materials/Kaido_S/lttKaido.png"
     ],
-    "description": "",
+    "description": "Mọi năm thì sự kiện phú hào sẽ bán 100.000 vàng cho 1 mảnh lệnh triệu tập",
     "infoImages": [
       "./images/materials/Kaido_S/Kaido.png",
-      "./images/materials/Kaido_S/lttKaido1.png"
+      "./images/materials/Kaido_S/lttKaido1.png",
+      "./images/materials/Kaido_S/lttKaido2.png"
     ],
     "exchangeShops": [
       {
@@ -2676,6 +2725,10 @@
       {
         "materialId": "government_seal",
         "amount": 9
+      },
+      {
+        "materialId": "Belly",
+        "amount": 6000
       },
       {
         "materialId": "vivre_card",
@@ -2700,7 +2753,8 @@
     "description": "",
     "infoImages": [
       "./images/materials/Kaido_S/traiUo1.png",
-      "./images/materials/Kaido_S/traiUo2.png"
+      "./images/materials/Kaido_S/traiUo2.png",
+      "./images/materials/Kaido_S/traiUo3.png"
     ],
     "exchangeShops": [
       {
@@ -2715,6 +2769,14 @@
       {
         "materialId": "Wano_point",
         "amount": 1500000
+      },
+      {
+        "materialId": "chieuMo_point",
+        "amount": 1400000
+      },
+      {
+        "materialId": "Belly",
+        "amount": 7500
       }
     ]
   },
@@ -2728,10 +2790,321 @@
     "infoImages": [],
     "exchangeShops": [
       {
+        "shopId": "gift_exchange_center"
+      },
+      {
         "shopId": "big_event"
       }
     ],
     "farmSources": [],
     "exchangeMaterials": []
+  },
+  {
+    "id": "lttBen",
+    "name": "Lệnh triệu tập BennBeckman",
+    "images": [
+      "./images/materials/BennBeckman_S/lttBen.png"
+    ],
+    "description": "Có thể farm một nửa lệnh triệu tập Benn thông qua hộp 30 tại big event.",
+    "infoImages": [
+      "./images/materials/BennBeckman_S/benn.png",
+      "./images/materials/BennBeckman_S/lttBen1.png",
+      "./images/materials/BennBeckman_S/lttBen2.png",
+      "./images/materials/BennBeckman_S/lttBen3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 7500
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 5000
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 9000
+      },
+      {
+        "materialId": "government_seal",
+        "amount": 6
+      },
+      {
+        "materialId": "PandaMan",
+        "amount": 5000
+      }
+    ]
+  },
+  {
+    "id": "coBen",
+    "name": "Cờ Băng Tóc Đỏ",
+    "images": [
+      "./images/materials/BennBeckman_S/coBen.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/BennBeckman_S/coBen1.png",
+      "./images/materials/BennBeckman_S/coBen2.png",
+      "./images/materials/BennBeckman_S/coBen3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 1200000
+      },
+      {
+        "materialId": "chieuMo_point",
+        "amount": 1100000
+      },
+      {
+        "materialId": "KibiDango",
+        "amount": 6500
+      }
+    ]
+  },
+  {
+    "id": "sungFireArm",
+    "name": "Súng Firearm",
+    "images": [
+      "./images/materials/BennBeckman_S/Firearm.png"
+    ],
+    "description": "",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttBigmom",
+    "name": "Lệnh Triệu Tập Bigmom",
+    "images": [
+      "./images/materials/Bigmom_S/lttBig.png"
+    ],
+    "description": "Có thể farm một nửa lệnh triệu tập Bigmom tại big-event",
+    "infoImages": [
+      "./images/materials/Bigmom_S/Big.png",
+      "./images/materials/Bigmom_S/lttBig1.png",
+      "./images/materials/Bigmom_S/lttBig2.png",
+      "./images/materials/Bigmom_S/lttBig3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 8000
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 5500
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 9500
+      },
+      {
+        "materialId": "government_seal",
+        "amount": 7
+      },
+      {
+        "materialId": "PandaMan",
+        "amount": 5000
+      }
+    ]
+  },
+  {
+    "id": "Prometheus",
+    "name": "Prometheus",
+    "images": [
+      "./images/materials/Bigmom_S/prometheus.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Bigmom_S/prometheus1.png",
+      "./images/materials/Bigmom_S/prometheus2.png",
+      "./images/materials/Bigmom_S/prometheus3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 1400000
+      },
+      {
+        "materialId": "chieuMo_point",
+        "amount": 1300000
+      },
+      {
+        "materialId": "KibiDango",
+        "amount": 6500
+      }
+    ]
+  },
+  {
+    "id": "Zues",
+    "name": "Homie Zues",
+    "images": [
+      "./images/materials/Bigmom_S/zues.png"
+    ],
+    "description": "Key của bigmom có thể đổi tại big event hoặc farm tại grandline map 14.",
+    "infoImages": [],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "ByKiepHaki",
+    "name": "ByKiepHaki",
+    "images": [],
+    "description": "",
+    "infoImages": [],
+    "farmSources": [],
+    "exchangeShops": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "theBaiReiju",
+    "name": "thẻ Bài Reiju",
+    "images": [
+      "./images/materials/Reiju_S/theReiju.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Reiju_S/Reiju.png",
+      "./images/materials/Reiju_S/theReiju1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "ngocChiemTinh",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "id": "lttReiju",
+    "name": "Lệnh Triệu Tập Reiju",
+    "images": [
+      "./images/materials/Reiju_S/lttReiju.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Reiju_S/lttReiju1.png",
+      "./images/materials/Reiju_S/lttReiju2.png",
+      "./images/materials/Reiju_S/lttReiju3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 500000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 800000
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "id": "hopReiju",
+    "name": "Hộp Raid Suit Reiju",
+    "images": [
+      "./images/materials/Reiju_S/hopReiju.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Reiju_S/hopReiju1.png",
+      "./images/materials/Reiju_S/hopReiju2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 700000
+      },
+      {
+        "materialId": "chienCong_point",
+        "amount": 700000
+      }
+    ]
   }
 ]

@@ -16,9 +16,9 @@ function getShop(shopId) {
 }
 
 function getFarmSource(ref) {
-  const sourceId = ref.farmSourceId || ref.sourceId;
+  const sourceId = ref.farmSourceId || ref.sourceId || ref.materialId;
   return {
-    ...(farmSourcesById.get(sourceId) || { name: sourceId }),
+    ...(farmSourcesById.get(sourceId) || materialsById.get(sourceId) || { name: sourceId }),
     amount: ref.amount,
   };
 }
