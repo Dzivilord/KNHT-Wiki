@@ -23,6 +23,10 @@ function getFarmSource(ref) {
   };
 }
 
+function heroMaterialNumber(materialId) {
+  return (currentHero?.materials || []).findIndex((ref) => ref.materialId === materialId) + 1;
+}
+
 function getHeroMaterialIds() {
   return new Set((currentHero?.materials || []).map((ref) => ref.materialId));
 }
@@ -220,7 +224,7 @@ function renderExchangeMaterials(material) {
                   <span class="material-action-hint">
                     ${
                       existsOnCurrentHeroPage
-                        ? "↓ Xem mục nguyên liệu bên dưới"
+                        ? `↪ Tới mục số ${heroMaterialNumber(ingredient.id)}`
                         : "Xem thông tin"
                     }
                   </span>
@@ -246,7 +250,7 @@ function scrollToMainMaterial(materialId) {
 
   target.scrollIntoView({
     behavior: "smooth",
-    block: "center",
+    block: "start",
   });
 
   target.classList.remove("material-highlight");
@@ -424,18 +428,13 @@ function bindMaterialActionButtons(scope = document) {
 
       const materialId = button.dataset.materialId;
 
-      /*
-       * Nếu material cũng đang là nguyên liệu chính của hero hiện tại:
-       * đóng popup (nếu đang mở) rồi cuộn tới đúng card.
-       */
-      if (getHeroMaterialIds().has(materialId)) {
-        if (scrollToMainMaterial(materialId)) {
-          closeMaterialModal();
-          return;
-        }
+      // Vật phẩm cũng là nguyên liệu chính của tướng này: đóng popup và nhảy tới card đó.
+      if (getHeroMaterialIds().has(materialId) && scrollToMainMaterial(materialId)) {
+        closeMaterialModal();
+        return;
       }
 
-      // Nếu không có card trên trang, mở/đổi nội dung popup.
+      // Vật phẩm khác: mở popup ngay trước mặt.
       openMaterialModal(getMaterial(materialId));
     });
   });
@@ -656,6 +655,23 @@ async function loadHero() {
   `;
 
   setupMaterialActions();
+  setupSkillClamp(root);
+}
+
+function setupSkillClamp(root) {
+  root.querySelectorAll(".skill-card p").forEach((text) => {
+    if (text.scrollHeight <= text.clientHeight + 4) return;
+    text.classList.add("is-clamped");
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "skill-more";
+    button.textContent = "Xem thêm";
+    button.addEventListener("click", () => {
+      const open = text.classList.toggle("is-open");
+      button.textContent = open ? "Thu gọn" : "Xem thêm";
+    });
+    text.after(button);
+  });
 }
 
 loadHero();
