@@ -2,7 +2,7 @@
 
 :root {
   /* 1 "design px": fixed physical size whatever the browser zoom */
-  --u: max(0.88px, calc(100vw / 2180));
+  --u: max(0.62px, calc(100vw / 3100));
   --bg: #fff8e8;
   --card: #ffffff;
   --text: #171717;
