@@ -242,7 +242,7 @@
     ],
     "description": "Vật phẩm ghép lệnh triệu tập của một số siêu tướng từ sau Uta trở đi. Thông thường sễ là rào cản để tránh người chơi skip tướng vì kiếm rất khó",
     "infoImages": [
-      "./images/materials/Basics/tuiNLDHTA.png"
+      "./images/materials/Basics/TuiNLDHTA.png"
     ],
     "exchangeShops": [],
     "farmSources": [
@@ -1137,7 +1137,7 @@
     "id": "aoChoangSaturn",
     "name": "Áo Choàng Saturn",
     "images": [
-      "./images/materials/Saturn_S/aoChoangSaturn.png"
+      "./images/materials/Saturn_S/aochoangSaturn.png"
     ],
     "description": "",
     "infoImages": [],
@@ -1941,8 +1941,8 @@
     ],
     "description": "Grandline map 8 và độ tích cực hằng ngày cho 1 thẻ bài Smoothie.",
     "infoImages": [
-      "./images/materials/Smoothie_S/theBaiSmoothie1.png",
-      "./images/materials/Smoothie_S/theBaiSmoothie2.png"
+      "./images/materials/Smoothie_S/thebaiSmoothie1.png",
+      "./images/materials/Smoothie_S/thebaiSmoothie2.png"
     ],
     "exchangeShops": [
       {
@@ -2065,11 +2065,11 @@
     "id": "BanVeGura",
     "name": "Bản Vẽ Trái Gura Gura",
     "images": [
-      "./images/materials/RauTrang_S2/BanVeGura.png"
+      "./images/materials/RauTrang_S2/banVeGura.png"
     ],
     "description": "Bản vẽ trái Gura hiện tại chỉ có thể lấy qua giải đấu Tam Đấu Vương Giả.",
     "infoImages": [
-      "./images/materials/RauTrang_S2/BanVeGura1.png"
+      "./images/materials/RauTrang_S2/banVeGura1.png"
     ],
     "exchangeShops": [],
     "farmSources": [
@@ -2528,7 +2528,7 @@
     "id": "lttYasopp",
     "name": "Lệnh Triệu Tập Yasopp",
     "images": [
-      "./images/materials/yasopp_S/lttYasopp.png"
+      "./images/materials/Yasopp_S/lttYasopp.png"
     ],
     "description": "",
     "infoImages": [
@@ -5038,7 +5038,7 @@
       "./images/materials/Sanji_S2/Raidsuit1.png",
       "./images/materials/Sanji_S2/Raidsuit2.png",
       "./images/materials/Sanji_S2/Raidsuit3.png",
-      "./images/materials/Sanji_S2/Raidsuit4.png"
+      "./images/materials/Sanji_S2/RaidSuit4.png"
     ],
     "exchangeShops": [
       {
