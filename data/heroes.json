@@ -804,7 +804,7 @@
     "id": "Nami_S3",
     "name": "Nami-S3",
     "image": "./images/heroes/Nami_S3.png",
-    "note": "Nami-S3 được tiến hoá từ Nami-S2. Phần này mô tả các nguyên liệu cần để tiến hoá từ S2 lên S3.",
+    "note": "Nami-S3 được tiến hoá từ Nami-S2. Phần này mô tả các nguyên liệu cần để tiến hoá từ S2 lên S3.\nĐã có thời huy hoàng giờ đã out meta nặng",
     "skills": {
       "basicAttack": "[MC] Storm Cloud: Nami sử dụng gậy thời tiết tấn công toàn bộ kẻ địch và có tỉ lệ thấp gây Vĩnh Hằng trên kẻ địch. Tiếp theo gây thêm 1 lần sát thương bỏ qua haki và sát thương 25% MC bỏ qua MP toàn bộ kẻ địch làm sát thương TC của kẻ địch về 0 kèm theo giảm 30 nộ trong 1 lượt. Cuối cùng gây thêm 1 lần sát thương haki cho toàn bộ kẻ địch và buff cho bản thân kèm toàn đội khiên miễn dịch hiệu ứng (Độc, Đốt cháy, Tê liệt, Cấm tích nộ, Trầm mặc, Hóa đá) trong 1 lượt. Hồi phục đồng đội 30 nộ và bản thân 60 nộ khí",
       "ultimate": "[MC] Zeus Breeze Tempo: Nami triệu hồi Zeus tấn công toàn bộ kẻ địch và có tỉ lệ 30% xóa toàn bộ hiệu ứng có lợi (Bao gồm vách sắt, khiên miễn dịch hiệu ứng, buff chặn đòn) của kẻ địch theo hình chữ X. Lần 2 thêm 1 lần sát thương haki toàn bộ kẻ địch kèm theo sát thương 30% MC bỏ qua MP cho kẻ địch hàng phía sau và gây ra hiệu ứng Tĩnh Điện (Xóa miễn dịch sát thương bỏ qua phòng ngự, gây phong ấn trị liệu, cấm tích nộ, choáng, hóa đá) 1 lượt. Lần 3 thêm 1 lần sát thương haki kèm theo sát thương 25% MC bỏ qua MP kèm theo nhụt chí 35 nộ và Đóng Băng trong 1 lượt cho toàn bộ kẻ địch. Cuối cùng gây kẻ địch thêm 1 lần sát thương bỏ qua haki đồng thời buff bản thân và đồng đội khiên miễn dịch hiệu ứng (Miễn giảm sát thương về 0, miễn giảm nộ, choáng, độc, đốt cháy, hóa đá, cấm tích nộ) 1 lượt. Hồi phục bản thân 65 nộ khí kèm khiên Vách Sắt 1 lượt và đồng đội 35 nộ khí",
@@ -964,10 +964,10 @@
     },
     "materials": [
       {
-        "materialId": "lttZoro"
+        "materialId": "Sandai"
       },
       {
-        "materialId": "Sandai"
+        "materialId": "lttZoro"
       },
       {
         "materialId": "Shushui"
@@ -1193,7 +1193,17 @@
       "name": "Jinbe-S",
       "heroId": "Jinbe_S"
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttJinbe"
+      },
+      {
+        "materialId": "Yukata"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Sanji_S2",
@@ -1210,7 +1220,17 @@
       "name": "Sanji-S",
       "heroId": "Sanji_S"
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttSanji"
+      },
+      {
+        "materialId": "Raidsuit"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Chopper_S2",
@@ -1227,7 +1247,17 @@
       "name": "Chopper-S",
       "heroId": "Chopper_S"
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttChopper"
+      },
+      {
+        "materialId": "KeoBongGon"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Tesoro_S",
@@ -1271,7 +1301,17 @@
       "name": "Mihawk-S",
       "heroId": "Mihawk_S"
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttMihawkS"
+      },
+      {
+        "materialId": "YoruS"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Ace_S2",
@@ -1288,7 +1328,17 @@
       "name": "Ace-S",
       "heroId": "Ace_S"
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttAce"
+      },
+      {
+        "materialId": "Card"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Oden_S",
@@ -1335,7 +1385,17 @@
       "name": "Luffy-S",
       "heroId": "Luffy_S"
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttLuffy"
+      },
+      {
+        "materialId": "muRom"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Nami_S2",
@@ -1352,7 +1412,17 @@
       "name": "Nami-S",
       "heroId": "Nami_S"
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttNamiS2"
+      },
+      {
+        "materialId": "GayThoiTiet"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Queen_S",
@@ -1497,37 +1567,91 @@
     "id": "Katakuri_S",
     "name": "Katakuri-S",
     "image": "./images/heroes/Katakuri_S.png",
-    "note": "",
-    "skills": {},
+    "note": "Katakuri-S được tiến hoá từ Katakuri-H bằng haki và viên Shura. Phần này chỉ mô tả nguyên liệu để chiêu mộ siêu tướng Katakuri-H.\nSiêu tướng Shanks hiện có thể lấy trực tiếp tướng bằng việc nạp phản hồi, không nhất thiết phải ghép từng nguyên liệu bên dưới.",
+    "skills": {
+      "basicAttack": "[MC] NAGARE MOCHI: Katakuri làm thức tỉnh trái ác quỷ của anh và biến mọi thứ xung quanh thành Mochi, tấn công toàn bộ mục tiêu, thêm một lần sát thương bỏ qua haki.Hồi 35 nộ",
+      "ultimate": "[MC] YAKI MOCHI: Katakuri làm phồng phần khuỷu tay rồi tạo ra một vụ nổ thành một cú đấm với tốc độ như rocket phóng về phía đối thủ, tấn công toàn bộ địch với sát thương cực lớn, thêm 1 lần sát thương haki, 1 lần sát thương 30% MC bỏ qua MP ,mục tiêu dưới 65 nộ nhận thêm 1 lần sát thương bỏ qua ma phòng đồng thời bị phong ấn trị liệu và trầm mặc 1 lượt. Hồi 75 nộ bản thân và ngẫu nhiên 50 nộ đồng đội bất kỳ.",
+      "talent": "Mochi Crush \n\nCấp 1: Vào trận được buff Khiên Mochi giúp miễn sát thương (bao gồm sát thương bỏ qua phòng ngự đồng thời bản thân sẽ bị phong ấn trị liệu) và miễn dịch (hóa đá, đóng băng, mê hoặc, hỗn loạn) trong 1 lượt. Mỗi lần sát thương bản thân nhận phải không vượt quá 20% lượng máu giới hạn bản thân. Mỗi khi có 1 đồng đội bị chết, sát thương bản thân tạo ra tăng 100%. Mỗi lần hành động có tỉ lệ khiến đối phương trúng Bẫy Kaku Mochi rút máu mỗi lượt, lượng máu rút dựa vào MC. Miễn dịch Choáng, miễn giảm nộ, đóng băng và phong ấn trị liệu.\n\nCấp 3: STĐT, STĐN tăng 10% \n\nCấp 5: Sinh mệnh +20% ,MC +15%  \n\nCấp 7: Đánh nộ có tỷ lệ 30% loại bỏ hiệu quả miễn dịch MC của mục tiêu. Có tỉ lệ 15% (+5% mỗi cấp) xoá hiệu ứng có lợi của đối thủ đồng thời cường hóa tinh thần giúp bản thân được kích hoạt Khiên Mochi 1 lượt. Càng đánh càng hăng hồi phục 35% lượng máu theo bội số 2.",
+      "devilFruit": "[Trái Mochi Mochi]: là trái hệ Paramecia \"đặc biệt\" đã được thức tỉnh, khiến Người dùng có khả năng mỗi lần hành động có 20% (+1,5% mỗi cấp) giúp bản thân không nhận sát thương đánh thường và nộ (không bị bất cứ hiệu ứng hay trạng thái gì tác động vào). Miễn độc và đốt cháy. "
+    },
     "evolutionFrom": {
       "name": "",
       "heroId": null
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttKatakuri"
+      },
+      {
+        "materialId": "PhienPoneglyphs"
+      },
+      {
+        "materialId": "universal_coin"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Shanks_S",
     "name": "Shanks-S",
     "image": "./images/heroes/Shanks_S.png",
-    "note": "",
-    "skills": {},
+    "note": "Shanks-S được tiến hoá từ Shanks-H bằng haki và viên Shura. Phần này chỉ mô tả nguyên liệu để chiêu mộ siêu tướng Shanks-H.\nSiêu tướng Shanks hiện có thể lấy trực tiếp tướng bằng việc nạp phản hồi, không nhất thiết phải ghép từng nguyên liệu bên dưới.",
+    "skills": {
+      "basicAttack": "[VC] Haki kiếm khí :Không bỏ qua con mồi nào, không bỏ sót 1 vật thể nào đi tới gây sát thương toàn bộ mục tiêu và lần sát thương này khiến kẻ địch có tỷ lệ bị choáng. Tiếp tục gây thêm 1 lần sát thương bỏ qua haki phòng ngự đối phương và lần sát thương này sẽ tăng cho 1 đồng đội có tổng số thuộc tính thấp nhất khiến đồng đội đó nhận vách sắt 1 lượt. Hồi cho bản thân 50 nộ khí.",
+      "ultimate": "[VC] Kiếm pháp vương: Bản thân kích hoạt Haki bá vương đến cực hạn, tiến tới gây sát thương cực mạnh toàn bộ mục tiêu trong 3 lần. Lần 1 gây sát thương VC và khiến toàn bộ đối phương bị giảm 25 nộ, lần 2 gây sát thương bằng 30% VC bỏ qua VP và chọn đồng đội ngẫu nhiên giúp hắn không thể bị tấn công (ngoại trừ bản thân). Lần 3 gây sát thương bỏ qua Haki phòng ngự đối phương và có tỷ lệ khiến đối phương bị đóng băng trong 1 lươt. Nếu lượt đánh là bội số của 3 thì sẽ buff cho bản thân vách sắt 1 lượt. Hồi cho toàn bộ đồng đội 35 nộ và bản thân 75 nộ.",
+      "talent": "Bá vương kiếm \n\nCấp 1: Bản thân kích hoạt Haki bá vương đến mức tối cao vào trận miễn nhiễm mọi sát thương trong 1 lượt (bao gồm sát thương bỏ qua phòng ngự). 2 lượt đầu miễn toàn bộ hiệu ứng bất lợi.(miễn dịch hóa đá/ đóng băng/ đốt cháy/ trầm mặc).Miễn dịch Mê Hoặc, cấm tích nộ \n\nCấp 3: Giảm tất cả sát thương nhận phải 20%. VC +12%, S.mệnh + 12%. \n\nCấp 5: Mỗi lần sát thương bản thân phải chịu không vượt quá 45% lượng máu giới hạn. \n\nCấp 7: Mỗi lần hành động có tỉ lệ khiến đối phương rơi vào khoảng không rút máu theo lượt, lượng máu rút dựa vào VC. Bản thân không dễ có thể chạm vào, đánh thường và nộ xong có tỷ lệ bộc phá haki phòng giúp bảo vệ bản thân Shanks không thể bị đánh thường và không thể bị đánh nộ. Mỗi lần tấn công Shanks sẽ chọn đối thủ trước mặt, xóa bỏ giới hạn sát thương của hắn và khấu trừ 30% máu hiện tại của hắn (không áp dụng với NPC).",
+      "devilFruit": ""
+    },
     "evolutionFrom": {
       "name": "",
       "heroId": null
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttShanks"
+      },
+      {
+        "materialId": "PhienPoneglyphs"
+      },
+      {
+        "materialId": "universal_coin"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Rauden_S",
     "name": "Râu đen-S",
     "image": "./images/heroes/Rauden_S.png",
-    "note": "",
-    "skills": {},
+    "note": "Râu đen-S được tiến hoá từ Râu đen-H bằng haki và viên Shura. Phần này chỉ mô tả nguyên liệu để chiêu mộ siêu tướng Râu đen-H.\nSiêu tướng Râu đen hiện có thể lấy trực tiếp tướng bằng việc nạp phản hồi, không nhất thiết phải ghép từng nguyên liệu bên dưới.",
+    "skills": {
+      "basicAttack": "[VC] Kurouzu: Với sức mạnh nhân đôi tập hợp năng lực cơ bản của trái ác quỷ gây sát thương toàn bộ địch, thêm 1 lần sát thương VC không tăng nộ cho mục tiêu, bỏ qua miễn sát thương Haki. Ngoài ra khi mục tiêu dính độc sát thương lần 2 VC sẽ gây thêm đòn tấn công bằng 30% VC, bỏ qua VP đối phương. Hồi bản thân 50 nộ khí",
+      "ultimate": "[VC] Liberation: Với sức mạnh tấn công cực đại của Gura và tấm màn chi phối bóng đêm Yami, Teach tập trung sức mạnh vào cánh tay gây sát thương cực mạnh toàn bộ địch, thêm 1 lần sát thương bằng 30% VC lên toàn bộ mục tiêu, bỏ qua VP của mục tiêu. Ngoài ra gây thêm 1 lần sát thương 30% VC bỏ qua VP lên 1 mục tiêu có nộ khí cao nhất khiến mục tiêu đó không thể sử dụng kỹ năng nộ, tiếp tục gây sát thương 30%VC bỏ qua VP lên 1 mục tiêu tiếp theo có lượng máu ít nhất và khiến lượng dame của mục tiêu đó còn 0 đồng thời xóa bỏ mọi hiệu ứng có lợi của mục tiêu (gồm khiên bảo vệ và các trạng thái bất tử). Hồi 25 nộ cho toàn đội và bản thân 75 nộ.",
+      "talent": "Áp lực bóng đêm:\n\nCấp 1: Hai lượt đầu miễn dịch toàn bộ sát thương VC. Tất cả sát thương nhận phải giảm 20%. Khi bị đánh thường, giảm mục tiêu 25 nộ (không tác dụng lên quái). Miễn vĩnh viễn choáng và đốt cháy.\n\nCấp 3: Mỗi lần sát thương bản thân sẽ chịu không vượt quá 55% máu giới hạn bản thân. (Mỗi cấp -5%)\n\nCấp 5: Khi đánh nộ có tỷ lệ buff Nightmare cho 1 đồng đội bất kỳ và bản thân. (Nightmare: Miễn sát thương thường và sát thương bỏ qua phòng ngự, bản thân bị phong ấn trị liệu không thể nhận hồi máu)\n\nCấp 7: Mỗi lần hành động có tỉ lệ 35% (mỗi cấp +5%) gây thêm 1 lần sát thương nguyên tố cực cao (15.000.000 thủy kích). Đồng thời khi đánh nộ hắn ta sẽ tạo khiên miễn dịch 1 số hiệu ứng cho 2 đồng đội ngẫu nhiên (Hóa đá, tê liệt, đóng băng, choáng, cấm tịch nộ, đốt cháy, trầm mặc) và bản thân nhận hư vô miễn sát thương đánh thường",
+      "devilFruit": "[Trái Yami Yami] (Hiệu quả sát thương):Có khả năng thao túng mọi trái ác quỷ và tách biệt riêng khi vào trận lập tức rơi vào trạng thái hố đen (hố đen: khiến bản thân miễn dịch mọi lượng dame (bao gồm sát thương bỏ qua phòng ngự) và các hiệu ứng (Hoá đá / hỗn loạn / đốt cháy / mê hoặc / choáng / trầm mặc / đóng băng trong 1 lượt đầu) . Nếu mục tiêu có nộ khí nhỏ hơn 25 (+2 mỗi cấp) sẽ bị bóng tối khóa chặt trong 1 lượt (mục tiêu không thể đánh nộ và dính hóa đá). Mỗi lần hành động có tỷ lệ 50% (mỗi cấp +5%) khiến đối phương trúng độc. Bản thân miễn dịch độc, đóng băng."
+    },
     "evolutionFrom": {
       "name": "",
       "heroId": null
     },
-    "materials": []
+    "materials": [
+      {
+        "materialId": "lttRauden"
+      },
+      {
+        "materialId": "PhienPoneglyphs"
+      },
+      {
+        "materialId": "universal_coin"
+      },
+      {
+        "materialId": "BiKiepHaki"
+      }
+    ]
   },
   {
     "id": "Kizaru_S",

@@ -303,9 +303,6 @@
       },
       {
         "sourceId": "PhucLoiLeTet"
-      },
-      {
-        "materialId": "KibiDango"
       }
     ],
     "exchangeMaterials": []
@@ -660,6 +657,18 @@
     "infoImages": [
       "images/Information/Belly1.png"
     ],
+    "exchangeShops": [],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "Hopnlst",
+    "name": "Hộp chọn nguyên liệu siêu tướng",
+    "images": [
+      "images/Information/hopnlstS.png"
+    ],
+    "description": "Hộp này cung cấp nguyên liệu siêu tướng cũ (Queen->King). Lấy chủ yếu từ các sự kiện dạng vòng quay, đào vàng, có thể kiếm phần lớn nhờ vào việc quét lực vào tuần có vé vòng quay may mắn. Tuy nhiên rất hiếm khi trùng tuần với sự kiện đậc biệt",
+    "infoImages": [],
     "exchangeShops": [],
     "farmSources": [],
     "exchangeMaterials": []
@@ -2534,10 +2543,6 @@
     "farmSources": [],
     "exchangeMaterials": [
       {
-        "materialId": "government_seal",
-        "amount": 10
-      },
-      {
         "materialId": "vivre_card",
         "amount": 12000
       },
@@ -2548,6 +2553,10 @@
       {
         "materialId": "pirate_flag",
         "amount": 14000
+      },
+      {
+        "materialId": "government_seal",
+        "amount": 10
       }
     ]
   },
@@ -2592,16 +2601,6 @@
       }
     ],
     "farmSources": [],
-    "exchangeMaterials": []
-  },
-  {
-    "id": "lttYassop",
-    "name": "lttYassop",
-    "images": [],
-    "description": "",
-    "infoImages": [],
-    "farmSources": [],
-    "exchangeShops": [],
     "exchangeMaterials": []
   },
   {
@@ -2723,14 +2722,6 @@
     "farmSources": [],
     "exchangeMaterials": [
       {
-        "materialId": "government_seal",
-        "amount": 9
-      },
-      {
-        "materialId": "Belly",
-        "amount": 6000
-      },
-      {
         "materialId": "vivre_card",
         "amount": 10000
       },
@@ -2741,6 +2732,14 @@
       {
         "materialId": "pirate_flag",
         "amount": 12000
+      },
+      {
+        "materialId": "government_seal",
+        "amount": 9
+      },
+      {
+        "materialId": "Belly",
+        "amount": 6000
       }
     ]
   },
@@ -3104,6 +3103,2357 @@
       {
         "materialId": "chienCong_point",
         "amount": 700000
+      }
+    ]
+  },
+  {
+    "id": "theJudge",
+    "name": "Thẻ Bài Judge",
+    "images": [
+      "./images/materials/Judge_S/theJudge.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Judge_S/Judge.png",
+      "./images/materials/Judge_S/theJudge1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "ngocChiemTinh",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "id": "hopJudge",
+    "name": "Hộp Raid Suit Judge",
+    "images": [
+      "./images/materials/Judge_S/hopJudge.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Judge_S/hopJudge1.png",
+      "./images/materials/Judge_S/hopJudge2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 700000
+      },
+      {
+        "materialId": "chienCong_point",
+        "amount": 800000
+      }
+    ]
+  },
+  {
+    "id": "lttJudge",
+    "name": "LTT Judge",
+    "images": [
+      "./images/materials/Judge_S/lttJudge.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Judge_S/lttJudge1.png",
+      "./images/materials/Judge_S/lttJudge2.png",
+      "./images/materials/Judge_S/lttJudge3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 500000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 750000
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "id": "theCracker",
+    "name": "Thẻ Bài Cracker",
+    "images": [
+      "./images/materials/Cracker_S/theCracker.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Cracker_S/Cracker.png",
+      "./images/materials/Cracker_S/theCracker1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "ngocChiemTinh",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "id": "traiBisu",
+    "name": "Trái Bisu Bisu",
+    "images": [
+      "./images/materials/Cracker_S/traiBisu.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Cracker_S/traiBisu1.png",
+      "./images/materials/Cracker_S/traiBisu1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 520000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 600000
+      }
+    ]
+  },
+  {
+    "id": "lttCracker",
+    "name": "LTT Cracker",
+    "images": [
+      "./images/materials/Cracker_S/lttCracker.png"
+    ],
+    "description": "Hộp chọn NL tướng trung cấp hiện tại nằm ở hộp 25 trong Big Event",
+    "infoImages": [
+      "./images/materials/Cracker_S/lttCracker1.png",
+      "./images/materials/Cracker_S/lttCracker2.png",
+      "./images/materials/Cracker_S/lttCracker3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 630000
+      },
+      {
+        "materialId": "chieuMo_point",
+        "amount": 450000
+      }
+    ]
+  },
+  {
+    "id": "theIchiji",
+    "name": "Thẻ Bài Ichiji",
+    "images": [
+      "./images/materials/Ichiji_S/theIchi.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Ichiji_S/Ichiji.png",
+      "./images/materials/Ichiji_S/theIchi1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "ngocChiemTinh",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": "hopIchiji",
+    "name": "Hộp Trang Phục Đột Kích Raidsuit Ichiji",
+    "images": [
+      "./images/materials/Ichiji_S/hopIchi.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Ichiji_S/hopIchi1.png",
+      "./images/materials/Ichiji_S/hopIchi2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 560000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 640000
+      }
+    ]
+  },
+  {
+    "id": "lttIchiji",
+    "name": "lTT Ichiji",
+    "images": [
+      "./images/materials/Ichiji_S/lttIchi.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Ichiji_S/lttIchi1.png",
+      "./images/materials/Ichiji_S/lttIchi2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 520000
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "id": "lttNamiS3",
+    "name": "Lệnh Triệu Tập Nami-S3",
+    "images": [
+      "./images/materials/Nami_S3/lttNami.png"
+    ],
+    "description": "Lệnh triệu tập Nami-S3 có thể lấy thêm ở grandline map 6 và hộp 25 big event",
+    "infoImages": [
+      "./images/materials/Nami_S3/Nami.png",
+      "./images/materials/Nami_S3/lttNami1.png",
+      "./images/materials/Nami_S3/lttNami2.png",
+      "./images/materials/Nami_S3/lttNami3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 520000
+      }
+    ]
+  },
+  {
+    "id": "theNamiS3",
+    "name": "Thẻ Bài Nami-S3",
+    "images": [
+      "./images/materials/Nami_S3/theNami.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Nami_S3/theNami1.png",
+      "./images/materials/Nami_S3/theNami2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 455000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 525000
+      }
+    ]
+  },
+  {
+    "id": "traiGoro",
+    "name": "Trái Goro Goro",
+    "images": [
+      "./images/materials/Enel_S/Goro.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Enel_S/Enel.png",
+      "./images/materials/Enel_S/Goro1.png",
+      "./images/materials/Enel_S/Goro2.png",
+      "./images/materials/Enel_S/Goro3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 7000
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 4700
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 8500
+      },
+      {
+        "materialId": "government_seal",
+        "amount": 5
+      },
+      {
+        "materialId": "PandaMan",
+        "amount": 4500
+      }
+    ]
+  },
+  {
+    "id": "thuyenSky",
+    "name": "Thuyền Sky Ark Maxim",
+    "images": [
+      "./images/materials/Enel_S/Maxim.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Enel_S/Maxim1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "traiGoro",
+        "amount": 1
+      },
+      {
+        "materialId": "Nonosama",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "Nonosama",
+    "name": "Vũ Khí Nonosama Bo",
+    "images": [
+      "./images/materials/Enel_S/nonosama.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Enel_S/nonosama1.png",
+      "./images/materials/Enel_S/nonosama2.png",
+      "./images/materials/Enel_S/nonosama3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 1100000
+      },
+      {
+        "materialId": "chieuMo_point",
+        "amount": 1100000
+      },
+      {
+        "materialId": "KibiDango",
+        "amount": 6000
+      }
+    ]
+  },
+  {
+    "id": "Tôme",
+    "name": "Trống Tomoe",
+    "images": [
+      "./images/materials/Enel_S/Tomoe.png"
+    ],
+    "description": "Là key của siêu tướng Enel, ngoài lấy tại hộp big thì có thể farm thêm tại grandline map 11 và 13.",
+    "infoImages": [
+      "./images/materials/Enel_S/Tomoe1.png",
+      "./images/materials/Enel_S/Tomoe2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttSabo",
+    "name": "Lệnh Triệu Tập Sabo-S2",
+    "images": [
+      "./images/materials/Sabo_S2/lttSabo.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Sabo_S2/Sabo.png",
+      "./images/materials/Sabo_S2/lttSabo1.png",
+      "./images/materials/Sabo_S2/lttSabo2.png",
+      "./images/materials/Sabo_S2/lttSabo3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 6800
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 4500
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 8500
+      },
+      {
+        "materialId": "government_seal",
+        "amount": 4
+      },
+      {
+        "materialId": "PandaMan",
+        "amount": 4500
+      }
+    ]
+  },
+  {
+    "id": "traiMera",
+    "name": "Trái Mera Mera",
+    "images": [
+      "./images/materials/Sabo_S2/traiMera.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Sabo_S2/traiMera1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "lttSabo",
+        "amount": 1
+      },
+      {
+        "materialId": "Ryusoken",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "Ryusoken",
+    "name": "Ryusoken",
+    "images": [
+      "./images/materials/Sabo_S2/nonSabo.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Sabo_S2/nonSabo1.png",
+      "./images/materials/Sabo_S2/nonSabo2.png",
+      "./images/materials/Sabo_S2/nonSabo3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 1050000
+      },
+      {
+        "materialId": "chieuMo_point",
+        "amount": 1050000
+      },
+      {
+        "materialId": "KibiDango",
+        "amount": 6000
+      }
+    ]
+  },
+  {
+    "id": "coSabo",
+    "name": "Cờ Quân Cách Mạng",
+    "images": [
+      "./images/materials/Sabo_S2/coSabo.png"
+    ],
+    "description": "Đây là key tiến hoá lên siêu tướng Sabo-S2, có thể farm tại big event hoặc grandline map 12",
+    "infoImages": [
+      "./images/materials/Sabo_S2/coSabo1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttBoa",
+    "name": "Lệnh triệu tập Boa-S2",
+    "images": [
+      "./images/materials/Boa_S2/lttBoa.png"
+    ],
+    "description": "Grandline map 5",
+    "infoImages": [
+      "./images/materials/Boa_S2/Boa.png",
+      "./images/materials/Boa_S2/lttBoa1.png",
+      "./images/materials/Boa_S2/lttBoa2.png",
+      "./images/materials/Boa_S2/lttBoa3.png",
+      "./images/materials/Boa_S2/lttBoa4.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 520000
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": "traiMero",
+    "name": "Trái Mero Mero",
+    "images": [
+      "./images/materials/Boa_S2/traiMero.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Boa_S2/traiMero1.png",
+      "./images/materials/Boa_S2/traiMero2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "TauChien"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 420000
+      },
+      {
+        "materialId": "chienCong_point",
+        "amount": 490000
+      }
+    ]
+  },
+  {
+    "id": "lttLaw",
+    "name": "Lệnh triệu tập Law-S2",
+    "images": [
+      "./images/materials/Law_S2/lttLaw.png"
+    ],
+    "description": "Grandline map 5",
+    "infoImages": [
+      "./images/materials/Law_S2/Law.png",
+      "./images/materials/Law_S2/lttLaw1.png",
+      "./images/materials/Law_S2/lttLaw2.png",
+      "./images/materials/Law_S2/lttLaw3.png",
+      "./images/materials/Law_S2/lttLaw4.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 600000
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "id": "traiOpe",
+    "name": "traiOpe",
+    "images": [
+      "./images/materials/Law_S2/traiOpe.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Law_S2/traiOpe1.png",
+      "./images/materials/Law_S2/traiOpe2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 490000
+      },
+      {
+        "materialId": "chienCong_point",
+        "amount": 420000
+      }
+    ]
+  },
+  {
+    "id": "lttZoro",
+    "name": "Lệnh triệu tập Zoro-S2",
+    "images": [
+      "./images/materials/Zoro_S2/lttZoro.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Zoro_S2/lttZoro1.png",
+      "./images/materials/Zoro_S2/lttZoro2.png",
+      "./images/materials/Zoro_S2/lttZoro3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      },
+      {
+        "shopId": "big_event"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 6300
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 4200
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 8000
+      },
+      {
+        "materialId": "government_seal",
+        "amount": 3
+      },
+      {
+        "materialId": "PandaMan",
+        "amount": 3000
+      }
+    ]
+  },
+  {
+    "id": "Sandai",
+    "name": "Kiếm Sandai Kitetsu",
+    "images": [
+      "./images/materials/Zoro_S2/Sandai.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Zoro_S2/Zoro.png",
+      "./images/materials/Zoro_S2/Sandai.png",
+      "./images/materials/Zoro_S2/Sandai.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "lttZoro",
+        "amount": 1
+      },
+      {
+        "materialId": "Shushui",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "Shushui",
+    "name": "Thanh kiếm Shushui",
+    "images": [
+      "./images/materials/Zoro_S2/shushui.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Zoro_S2/shushui1.png",
+      "./images/materials/Zoro_S2/shushui2.png",
+      "./images/materials/Zoro_S2/shushui3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 700000
+      },
+      {
+        "materialId": "chieuMo_point",
+        "amount": 700000
+      },
+      {
+        "materialId": "KibiDango",
+        "amount": 5500
+      }
+    ]
+  },
+  {
+    "id": "wadoIchimonji",
+    "name": "Thanh kiếm Wado Ichimonji",
+    "images": [
+      "./images/materials/Zoro_S2/Wado.png"
+    ],
+    "description": "Key lên siêu tướng Zoro-S2, có thể farm tại big event hoặc grandline map 10",
+    "infoImages": [
+      "./images/materials/Zoro_S2/Wado1.png",
+      "./images/materials/Zoro_S2/Wado2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttFranky",
+    "name": "Lệnh Triệu Tập Franky-S2",
+    "images": [
+      "./images/materials/Franky_S2/lttFranky.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Franky_S2/Franky.png",
+      "./images/materials/Franky_S2/lttFranky1.png",
+      "./images/materials/Franky_S2/lttFranky2.png",
+      "./images/materials/Franky_S2/lttFranky3.png",
+      "./images/materials/Franky_S2/lttFranky4.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 480000
+      },
+      {
+        "materialId": "chieuMo_point",
+        "amount": 440000
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 75
+      }
+    ]
+  },
+  {
+    "id": "nguoiMay",
+    "name": "Người máy tướng quân",
+    "images": [
+      "./images/materials/Franky_S2/nguoiMay.png"
+    ],
+    "description": "Grandline map 4",
+    "infoImages": [
+      "./images/materials/Franky_S2/nguoiMay1.png",
+      "./images/materials/Franky_S2/nguoiMay2.png",
+      "./images/materials/Franky_S2/nguoiMay3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "TauChien"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 315000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 350000
+      }
+    ]
+  },
+  {
+    "id": "lttUsopp",
+    "name": "Lệnh triệu tập Usopp-S2",
+    "images": [
+      "./images/materials/Usopp_S2/lttUsopp.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Usopp_S2/Usopp.png",
+      "./images/materials/Usopp_S2/lttUsopp1.png",
+      "./images/materials/Usopp_S2/lttUsopp2.png",
+      "./images/materials/Usopp_S2/lttUsopp3.png",
+      "./images/materials/Usopp_S2/lttUsopp4.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 560000
+      },
+      {
+        "materialId": "chieuMo_point",
+        "amount": 520000
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 150
+      }
+    ]
+  },
+  {
+    "id": "Kabucha",
+    "name": "Kabucha",
+    "images": [
+      "./images/materials/Usopp_S2/Kabucha.png"
+    ],
+    "description": "Grandline map 4",
+    "infoImages": [
+      "./images/materials/Usopp_S2/Kabucha1.png",
+      "./images/materials/Usopp_S2/Kabucha2.png",
+      "./images/materials/Usopp_S2/Kabucha3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 385000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 420000
+      }
+    ]
+  },
+  {
+    "id": "lttKing",
+    "name": "Lệnh Triệu Tập King",
+    "images": [
+      "./images/materials/King_S/lttKing.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/King_S/King.png",
+      "./images/materials/King_S/lttKing1.png",
+      "./images/materials/King_S/lttKing2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 6000
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 3800
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 7500
+      },
+      {
+        "materialId": "government_seal",
+        "amount": 2
+      },
+      {
+        "materialId": "PandaMan",
+        "amount": 2000
+      }
+    ]
+  },
+  {
+    "id": "traiKing",
+    "name": "Trái Pteranodon",
+    "images": [
+      "./images/materials/King_S/traiKing.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/King_S/traiKing1.png",
+      "./images/materials/King_S/traiKing2.png",
+      "./images/materials/King_S/traiKing3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 665000
+      },
+      {
+        "materialId": "chieuMo_point",
+        "amount": 665000
+      },
+      {
+        "materialId": "KibiDango",
+        "amount": 5000
+      }
+    ]
+  },
+  {
+    "id": "lunarian",
+    "name": "Ngọn lửa Lunarian",
+    "images": [
+      "./images/materials/King_S/lunarian.png"
+    ],
+    "description": "Grandline map 10",
+    "infoImages": [
+      "./images/materials/King_S/lunarian1.png",
+      "./images/materials/King_S/lunarian2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "Hopnlst",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": "lttBrook",
+    "name": "Lệnh triệu tập Brook",
+    "images": [
+      "./images/materials/Brook_S2/lttBrook.png"
+    ],
+    "description": "Grandline map 3",
+    "infoImages": [
+      "./images/materials/Brook_S2/Brook.png",
+      "./images/materials/Brook_S2/lttBrook1.png",
+      "./images/materials/Brook_S2/lttBrook2.png",
+      "./images/materials/Brook_S2/lttBrook3.png",
+      "./images/materials/Brook_S2/lttBrook4.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      },
+      {
+        "shopId": "wano_shop"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 440000
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "id": "soulSolid",
+    "name": "soulSolid",
+    "images": [
+      "./images/materials/Brook_S2/SoulSolid.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Brook_S2/SoulSolid1.png",
+      "./images/materials/Brook_S2/SoulSolid2.png",
+      "./images/materials/Brook_S2/SoulSolid3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 400000
+      },
+      {
+        "materialId": "chienCong_point",
+        "amount": 320000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 360000
+      }
+    ]
+  },
+  {
+    "id": "lttRobin",
+    "name": "Lệnh Triệu Tập Robin",
+    "images": [
+      "./images/materials/Robin_S2/lttRobin.png"
+    ],
+    "description": "Grandline map 4",
+    "infoImages": [
+      "./images/materials/Robin_S2/Robin.png",
+      "./images/materials/Robin_S2/lttRobin1.png",
+      "./images/materials/Robin_S2/lttRobin2.png",
+      "./images/materials/Robin_S2/lttRobin3.png",
+      "./images/materials/Robin_S2/lttRobin4.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      },
+      {
+        "shopId": "wano_shop"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 560000
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": "sachKhaoCo",
+    "name": "Sách Khảo Cổ",
+    "images": [
+      "./images/materials/Robin_S2/sachKhaoCo.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Robin_S2/sachKhaoCo1.png",
+      "./images/materials/Robin_S2/sachKhaoCo2.png",
+      "./images/materials/Robin_S2/sachKhaoCo3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 420000
+      },
+      {
+        "materialId": "chienCong_point",
+        "amount": 350000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 385000
+      }
+    ]
+  },
+  {
+    "id": "lttUta",
+    "name": "Lệnh Triệu Tập Uta",
+    "images": [
+      "./images/materials/Uta_S/lttUta.png"
+    ],
+    "description": "Uta là siêu tướng đời cũ có thể lấy trực tiếp thông qua phản hồi mà không cần phải ghép từng phần nguyên liệu. Sau khi ghép đủ mảnh Uta thì có thể tiến hoá lên Uta-S bằng điểm haki và viên shura. \nHoặc có thể ghép từng nguyên liệu thành phần giống bên dưới.",
+    "infoImages": [
+      "./images/materials/Uta_S/Uta.png",
+      "./images/materials/Uta_S/Uta1.png",
+      "./images/materials/Uta_S/Uta2.png",
+      "./images/materials/Uta_S/lttUta1.png",
+      "./images/materials/Uta_S/lttUta2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "PhanHoiSieuLon"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 5500
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 3200
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 7000
+      }
+    ]
+  },
+  {
+    "id": "traiUta",
+    "name": "trái Uta Uta no mi",
+    "images": [
+      "./images/materials/Uta_S/traiUta.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Uta_S/traiUta1.png",
+      "./images/materials/Uta_S/traiUta2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 560000
+      },
+      {
+        "materialId": "chieuMo_point",
+        "amount": 595000
+      },
+      {
+        "materialId": "Hopnlst",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": "huyHieuUta",
+    "name": "Huy Hiệu Uta",
+    "images": [
+      "./images/materials/Uta_S/huyhieuUta.png"
+    ],
+    "description": "Có thể farm tại granline map 7",
+    "infoImages": [
+      "./images/materials/Uta_S/huyhieuUta1.png",
+      "./images/materials/Uta_S/huyhieuUta2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "Hopnlst",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": "lttYamato",
+    "name": "Lệnh Triệu Tập Yamato",
+    "images": [
+      "./images/materials/Yamato_S/lttYamato.png"
+    ],
+    "description": "Yamato là siêu tướng đời cũ có thể lấy trực tiếp thông qua phản hồi mà không cần phải ghép từng phần nguyên liệu. Sau khi ghép đủ mảnh Yamato thì có thể tiến hoá lên Yamato -S bằng điểm haki và viên shura. \nHoặc có thể ghép từng nguyên liệu thành phần giống bên dưới.",
+    "infoImages": [
+      "./images/materials/Yamato_S/Yamato.png",
+      "./images/materials/Yamato_S/Yamato1.png",
+      "./images/materials/Yamato_S/Yamato2.png",
+      "./images/materials/Yamato_S/lttYamato1.png",
+      "./images/materials/Yamato_S/lttYamato2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 5700
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 3500
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 7000
+      },
+      {
+        "materialId": "government_seal",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": "traiInu",
+    "name": "trái Inu Inu",
+    "images": [
+      "./images/materials/Yamato_S/traiInu.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Yamato_S/traiInu1.png",
+      "./images/materials/Yamato_S/traiInu2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 630000
+      },
+      {
+        "materialId": "chieuMo_point",
+        "amount": 630000
+      },
+      {
+        "materialId": "Hopnlst",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": "nhatKyLaughTale",
+    "name": "Nhật Ký Laugh Tale",
+    "images": [
+      "./images/materials/Yamato_S/Laughtale.png"
+    ],
+    "description": "Grandline map 7",
+    "infoImages": [
+      "./images/materials/Yamato_S/Laughtale1.png",
+      "./images/materials/Yamato_S/Laughtale2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "Hopnlst",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": "lttTesoro",
+    "name": "Lệnh Triệu Tập Tesoro",
+    "images": [
+      "./images/materials/Tesoro_S/lttTesoro.png"
+    ],
+    "description": "Tesoro là siêu tướng đời cũ có thể lấy trực tiếp thông qua phản hồi mà không cần phải ghép từng phần nguyên liệu. Sau khi ghép đủ mảnh Tesoro thì có thể tiến hoá lên Tesoro-S bằng điểm haki và viên shura. \nHoặc có thể ghép từng nguyên liệu thành phần giống bên dưới.",
+    "infoImages": [
+      "./images/materials/Tesoro_S/Tesoro.png",
+      "./images/materials/Tesoro_S/Tesoro1.png",
+      "./images/materials/Tesoro_S/Tesoro2.png",
+      "./images/materials/Tesoro_S/Tesoro2.png",
+      "./images/materials/Tesoro_S/lttTesoro1.png",
+      "./images/materials/Tesoro_S/lttTesoro2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 5300
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 3000
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 6500
+      }
+    ]
+  },
+  {
+    "id": "gangTayVang",
+    "name": "Găng Tay Vàng",
+    "images": [
+      "./images/materials/Tesoro_S/GangTay.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Tesoro_S/GangTay1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 490000
+      },
+      {
+        "materialId": "Hopnlst",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": "traiGoru",
+    "name": "Trái Goru Goru no mi",
+    "images": [
+      "./images/materials/Tesoro_S/Goru.png"
+    ],
+    "description": "Grandline map 6",
+    "infoImages": [
+      "./images/materials/Tesoro_S/Goru1.png",
+      "./images/materials/Tesoro_S/Goru2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "Hopnlst",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": "lttOden",
+    "name": "Lệnh Triệu Tập Oden",
+    "images": [
+      "./images/materials/Oden_S/lttOden.png"
+    ],
+    "description": "Oden là siêu tướng đời cũ có thể lấy trực tiếp thông qua phản hồi mà không cần phải ghép từng phần nguyên liệu. Sau khi ghép đủ mảnh Odenthì có thể tiến hoá lên Oden-S bằng điểm haki và viên shura. \nHoặc có thể ghép từng nguyên liệu thành phần giống bên dưới.",
+    "infoImages": [
+      "./images/materials/Oden_S/Oden.png",
+      "./images/materials/Oden_S/Oden1.png",
+      "./images/materials/Oden_S/Oden2.png",
+      "./images/materials/Oden_S/lttOden1.png",
+      "./images/materials/Oden_S/lttOden2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 5000
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 2500
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 6000
+      }
+    ]
+  },
+  {
+    "id": "Enma",
+    "name": "Enma",
+    "images": [
+      "./images/materials/Oden_S/Enma.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Oden_S/Enma1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 420000
+      },
+      {
+        "materialId": "Hopnlst",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": "Habariki",
+    "name": "Ame no Habariki",
+    "images": [
+      "./images/materials/Oden_S/Ame.png"
+    ],
+    "description": "Key của siêu tướng oden có thể đổi thành xu, rơi rớt ở nhiều nguồn",
+    "infoImages": [
+      "./images/materials/Oden_S/Ame1.png",
+      "./images/materials/Oden_S/Ame2.png",
+      "./images/materials/Oden_S/Ame3.png",
+      "./images/materials/Oden_S/Ame4.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "Hopnlst",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": "lttQueen",
+    "name": "Lệnh Triệu Tập Queen",
+    "images": [
+      "./images/materials/Queen_S/lttQueen.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Queen_S/Queen.png",
+      "./images/materials/Queen_S/Queen1.png",
+      "./images/materials/Queen_S/Queen2.png",
+      "./images/materials/Queen_S/lttQueen1.png",
+      "./images/materials/Queen_S/lttQueen2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 4800
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 2200
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 5500
+      }
+    ]
+  },
+  {
+    "id": "traiRyuRyu",
+    "name": "trái Ryu Ryu",
+    "images": [
+      "./images/materials/Queen_S/Ryu.png"
+    ],
+    "description": "Key của Queen có thể đổi được xu, mảnh key có thể nạp qua phản hồi, shop chiến trường, trồng cây, tinh linh, big ...",
+    "infoImages": [
+      "./images/materials/Queen_S/Ryu1.png",
+      "./images/materials/Queen_S/Ryu2.png",
+      "./images/materials/Queen_S/Ryu3.png",
+      "./images/materials/Queen_S/Ryu4.png",
+      "./images/materials/Queen_S/Ryu5.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttJack",
+    "name": "Lệnh Triệu Tập Jack",
+    "images": [
+      "./images/materials/Jack_S/lttJack.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Jack_S/Jack.png",
+      "./images/materials/Jack_S/Jack1.png",
+      "./images/materials/Jack_S/Jack2.png",
+      "./images/materials/Jack_S/lttJack1.png",
+      "./images/materials/Jack_S/lttJack2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "big_event"
+      },
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 4500
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 2000
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 5000
+      }
+    ]
+  },
+  {
+    "id": "traiZou",
+    "name": "Trái Zou Zou",
+    "images": [
+      "./images/materials/Jack_S/Zou.png"
+    ],
+    "description": "Key của jack có thể đổi được xu, mảnh key có thể nạp qua phản hồi, shop tấn công hải quân, trồng cây, tinh linh ...",
+    "infoImages": [
+      "./images/materials/Jack_S/Zou1.png",
+      "./images/materials/Jack_S/Zou2.png",
+      "./images/materials/Jack_S/Zou3.png",
+      "./images/materials/Jack_S/Zou4.png",
+      "./images/materials/Jack_S/Zou5.png"
+    ],
+    "exchangeShops": [],
+    "farmSources": [
+      {
+        "sourceId": "PhanHoiSieuLon"
+      }
+    ],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttYassop",
+    "name": "lttYassop",
+    "images": [],
+    "description": "",
+    "infoImages": [],
+    "farmSources": [],
+    "exchangeShops": [],
+    "exchangeMaterials": []
+  },
+  {
+    "id": "lttJinbe",
+    "name": "Lệnh Triệu Tập Jinbe",
+    "images": [
+      "./images/materials/Jinbe_S2/lttJinbe.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Jinbe_S2/Jinbe.png",
+      "./images/materials/Jinbe_S2/lttJinbe1.png",
+      "./images/materials/Jinbe_S2/lttJinbe2.png",
+      "./images/materials/Jinbe_S2/lttJinbe3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 320000
+      },
+      {
+        "materialId": "chienCong_point",
+        "amount": 240000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 280000
+      }
+    ]
+  },
+  {
+    "id": "Yukata",
+    "name": "Trang Phục Yukata",
+    "images": [
+      "./images/materials/Jinbe_S2/Yukata.png"
+    ],
+    "description": "Grandline map 2",
+    "infoImages": [
+      "./images/materials/Jinbe_S2/Yukata1.png",
+      "./images/materials/Jinbe_S2/Yukata2.png",
+      "./images/materials/Jinbe_S2/Yukata3.png",
+      "./images/materials/Jinbe_S2/Yukata4.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      },
+      {
+        "shopId": "wano_shop"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 400000
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 33
+      }
+    ]
+  },
+  {
+    "id": "lttSanji",
+    "name": "Lệnh Triệu Tập Sanji",
+    "images": [
+      "./images/materials/Sanji_S2/lttSanji.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Sanji_S2/Sanji.png",
+      "./images/materials/Sanji_S2/lttSanji1.png",
+      "./images/materials/Sanji_S2/lttSanji2.png",
+      "./images/materials/Sanji_S2/lttSanji3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 280000
+      },
+      {
+        "materialId": "chienCong_point",
+        "amount": 200000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 240000
+      }
+    ]
+  },
+  {
+    "id": "Raidsuit",
+    "name": "Hộp Raid Suit",
+    "images": [
+      "./images/materials/Sanji_S2/Raidsuit.png"
+    ],
+    "description": "Grandline map 2",
+    "infoImages": [
+      "./images/materials/Sanji_S2/Raidsuit1.png",
+      "./images/materials/Sanji_S2/Raidsuit2.png",
+      "./images/materials/Sanji_S2/Raidsuit3.png",
+      "./images/materials/Sanji_S2/Raidsuit4.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      },
+      {
+        "shopId": "wano_shop"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 28
+      }
+    ]
+  },
+  {
+    "id": "lttChopper",
+    "name": "Lệnh Triệu Tập Chopper",
+    "images": [
+      "./images/materials/Chopper_S2/lttChopper.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Chopper_S2/Chopper.png",
+      "./images/materials/Chopper_S2/lttChopper1.png",
+      "./images/materials/Chopper_S2/lttChopper2.png",
+      "./images/materials/Chopper_S2/lttChopper3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 360000
+      },
+      {
+        "materialId": "chienCong_point",
+        "amount": 280000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 320000
+      }
+    ]
+  },
+  {
+    "id": "KeoBongGon",
+    "name": "Kẹo Bông Gòn",
+    "images": [
+      "./images/materials/Chopper_S2/keo.png"
+    ],
+    "description": "Grandline map 2",
+    "infoImages": [
+      "./images/materials/Chopper_S2/keo1.png",
+      "./images/materials/Chopper_S2/keo2.png",
+      "./images/materials/Chopper_S2/keo3.png",
+      "./images/materials/Chopper_S2/keo4.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "gift_exchange_center"
+      },
+      {
+        "shopId": "wano_shop"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 416000
+      },
+      {
+        "materialId": "PhienPoneglyphs",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "id": "lttLuffy",
+    "name": "Lệnh Triệu Tập Luffy",
+    "images": [
+      "./images/materials/Luffy_SM/lttLuffy.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Luffy_SM/Luffy.png",
+      "./images/materials/Luffy_SM/lttLuffy1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 120000
+      }
+    ]
+  },
+  {
+    "id": "muRom",
+    "name": "Kỷ Vật Mũ Rơm",
+    "images": [
+      "./images/materials/Luffy_SM/muRom.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Luffy_SM/muRom1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 120000
+      }
+    ]
+  },
+  {
+    "id": "lttNamiS2",
+    "name": "Lệnh Triệu Tập Nami-S2",
+    "images": [
+      "./images/materials/Nami_S2/lttNami.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Nami_S2/Nami.png",
+      "./images/materials/Nami_S2/lttNami1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 68000
+      }
+    ]
+  },
+  {
+    "id": "GayThoiTiet",
+    "name": "Gậy Thời Tiết",
+    "images": [
+      "./images/materials/Nami_S2/gayThoiTiet.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Nami_S2/gayThoiTiet1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "TauChien"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "CongHuan_point",
+        "amount": 120000
+      }
+    ]
+  },
+  {
+    "id": "lttShanks",
+    "name": "Lệnh Triệu Tập Shanks",
+    "images": [
+      "./images/materials/Shanks_S/lttShanks.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Shanks_S/Shanks1.png",
+      "./images/materials/Shanks_S/Shanks2.png",
+      "./images/materials/Shanks_S/lttShanks.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 3000
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 1800
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 3000
+      }
+    ]
+  },
+  {
+    "id": "lttKatakuri",
+    "name": "Lệnh Triệu Tập Katakuri",
+    "images": [
+      "./images/materials/Katakuri_S/lttKatakuri.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Katakuri_S/Katakuri.png",
+      "./images/materials/Katakuri_S/Katakuri1.png",
+      "./images/materials/Katakuri_S/Katakuri2.png",
+      "./images/materials/Katakuri_S/lttKatakuri1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 4000
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 1800
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 4500
+      }
+    ]
+  },
+  {
+    "id": "lttRauden",
+    "name": "Lệnh Triệu Tập Marshall D Teach",
+    "images": [
+      "./images/materials/Rauden_S/lttTeach.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Rauden_S/rauDen.png",
+      "./images/materials/Rauden_S/rauDen1.png",
+      "./images/materials/Rauden_S/rauDen2.png",
+      "./images/materials/Rauden_S/lttTeach1.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CuongHoa"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "vivre_card",
+        "amount": 2500
+      },
+      {
+        "materialId": "log_pose",
+        "amount": 1500
+      },
+      {
+        "materialId": "pirate_flag",
+        "amount": 2500
+      }
+    ]
+  },
+  {
+    "id": "lttMihawkS",
+    "name": "Lệnh Triệu Tập Mihawk S2",
+    "images": [
+      "./images/materials/Mihawk_S2/lttMihawk.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Mihawk_S2/Mihawk.png",
+      "./images/materials/Mihawk_S2/lttMihawk1.png",
+      "./images/materials/Mihawk_S2/lttMihawk2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "CAM_shop"
+      },
+      {
+        "shopId": "TauChien"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chieuMo_point",
+        "amount": 240000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 320000
+      }
+    ]
+  },
+  {
+    "id": "YoruS",
+    "name": "Bảo Kiếm Yoru",
+    "images": [
+      "./images/materials/Mihawk_S2/Yoru.png"
+    ],
+    "description": "Grandline map 1",
+    "infoImages": [
+      "./images/materials/Mihawk_S2/Yoru1.png",
+      "./images/materials/Mihawk_S2/Yoru2.png",
+      "./images/materials/Mihawk_S2/Yoru3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 360000
+      }
+    ]
+  },
+  {
+    "id": "lttAce",
+    "name": "Lệnh Triệu Tập Ace S2",
+    "images": [
+      "./images/materials/Ace_S2/lttAce.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Ace_S2/Ace.png",
+      "./images/materials/Ace_S2/lttAce1.png",
+      "./images/materials/Ace_S2/lttAce2.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "TauChien"
+      },
+      {
+        "shopId": "Colosseum"
+      }
+    ],
+    "farmSources": [],
+    "exchangeMaterials": [
+      {
+        "materialId": "chienCong_point",
+        "amount": 160000
+      },
+      {
+        "materialId": "CongHuan_point",
+        "amount": 200000
+      }
+    ]
+  },
+  {
+    "id": "Card",
+    "name": "Viver Card Ace",
+    "images": [
+      "./images/materials/Ace_S2/Card.png"
+    ],
+    "description": "",
+    "infoImages": [
+      "./images/materials/Ace_S2/Card1.png",
+      "./images/materials/Ace_S2/Card2.png",
+      "./images/materials/Ace_S2/Card3.png"
+    ],
+    "exchangeShops": [
+      {
+        "shopId": "wano_shop"
+      },
+      {
+        "shopId": "big_event"
+      }
+    ],
+    "farmSources": [
+      {
+        "sourceId": "grandline"
+      }
+    ],
+    "exchangeMaterials": [
+      {
+        "materialId": "Wano_point",
+        "amount": 280000
       }
     ]
   }
